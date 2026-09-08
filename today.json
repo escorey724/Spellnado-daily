@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "nabiorw",
     "required": "n",
-    "wordCount": 42,
+    "wordCount": 41,
     "spangrams": [
       "rainbow"
     ],
@@ -161,7 +161,6 @@
       "nab",
       "nano",
       "narrow",
-      "nba",
       "nib",
       "no",
       "nob",
