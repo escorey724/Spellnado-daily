@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "abilry",
     "required": "a",
-    "wordCount": 22,
+    "wordCount": 20,
     "spangrams": [
       "library"
     ],
@@ -156,7 +156,6 @@
       "a",
       "ail",
       "air",
-      "ala",
       "all",
       "arab",
       "arabia",
@@ -167,7 +166,6 @@
       "bar",
       "bay",
       "bra",
-      "ira",
       "lab",
       "lay",
       "library",

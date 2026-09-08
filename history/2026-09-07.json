@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "nabiorw",
     "required": "n",
-    "wordCount": 41,
+    "wordCount": 40,
     "spangrams": [
       "rainbow"
     ],
@@ -142,7 +142,6 @@
     },
     "answers": [
       "an",
-      "ana",
       "awn",
       "ban",
       "banana",
