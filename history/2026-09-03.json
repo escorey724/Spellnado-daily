@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "aehrstv",
     "required": "a",
-    "wordCount": 101,
+    "wordCount": 97,
     "spangrams": [
       "harvest"
     ],
@@ -51,51 +51,49 @@
           }
         ]
       },
-      "ease": {
+      "theta": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "freedom from constraint or embarrassment",
-            "example": "I am never at _____ with strangers"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "freedom from difficulty or hardship or effort",
-            "example": "They rose through the ranks with apparent _____."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a freedom from financial difficulty that promotes a comfortable state",
-            "example": "a life of luxury and _____"
+            "definition": "the 8th letter of the Greek alphabet",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "sara": {
+      "assets": {
         "senses": [
           {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
+            "partOfSpeech": "noun",
+            "definition": "anything of material value or usefulness that is owned by a person or company",
+            "example": "The _____ was easy to notice."
           }
-        ],
-        "generic": true
+        ]
       },
-      "area": {
+      "arts": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a subject of study",
-            "example": "The doctor's _____ of expertise was in cardiovascular health."
+            "definition": "studies intended to provide general knowledge and intellectual skills, rather than occupational or professional skills",
+            "example": "The college of _____ and sciences prepares many people for successful careers."
+          }
+        ]
+      },
+      "have": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "have left",
+            "example": "I _____ two years left"
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "the extent of a 2-dimensional surface enclosed within a boundary",
-            "example": "the _____ of a rectangle"
+            "partOfSpeech": "verb",
+            "definition": "be confronted with",
+            "example": "What do we _____ here?"
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "a part of a structure having some specific characteristic or function",
-            "example": "the spacious cooking _____ provided plenty of room for servants"
+            "partOfSpeech": "verb",
+            "definition": "receive willingly something given or offered",
+            "example": "The only employer who would _____ them was the miller."
           }
         ]
       },
@@ -118,49 +116,40 @@
           }
         ]
       },
-      "rare": {
+      "assert": {
         "senses": [
           {
-            "partOfSpeech": "adjective",
-            "definition": "having low density",
-            "example": "_____ gasses"
+            "partOfSpeech": "verb",
+            "definition": "to state categorically",
+            "example": "I _____ my beliefs clearly."
           },
           {
-            "partOfSpeech": "adjective",
-            "definition": "not widely distributed",
-            "example": "_____ herbs"
+            "partOfSpeech": "verb",
+            "definition": "to forcefully claim something to be true",
+            "example": "The letter _____ a free society."
           },
           {
-            "partOfSpeech": "adjective",
-            "definition": "of meat, cooked a short time",
-            "example": "I ordered my steak cooked _____."
+            "partOfSpeech": "verb",
+            "definition": "to declare or affirm solemnly and formally as true",
+            "example": "The defendent _____ their alibi in court."
           }
         ]
       },
-      "vast": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "unusually great in size, amount, degree, extent, or scope",
-            "example": "The universe in unquestionably _____."
-          }
-        ]
-      },
-      "starter": {
+      "threat": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a culture containing yeast or bacteria that is used to start the process of fermentation or souring in making butter or cheese or dough",
-            "example": "to make sourdough you need a _____"
+            "definition": "something that is a source of danger",
+            "example": "earthquakes are a constant _____ in Japan"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "any new participant in some activity",
-            "example": "The _____ was easy to notice."
+            "definition": "a warning that something unpleasant is imminent",
+            "example": "they were under _____ of arrest"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "an electric motor for starting an engine",
+            "definition": "a person who inspires fear or dread",
             "example": "The _____ was easy to notice."
           }
         ]
@@ -168,7 +157,6 @@
     },
     "answers": [
       "a",
-      "aaa",
       "ah",
       "are",
       "area",
@@ -198,7 +186,6 @@
       "era",
       "estate",
       "estates",
-      "eva",
       "ha",
       "harass",
       "hart",
@@ -225,8 +212,6 @@
       "rats",
       "rear",
       "retreat",
-      "sara",
-      "sarah",
       "sas",
       "sat",
       "sate",

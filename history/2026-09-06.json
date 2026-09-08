@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "ighlnt",
     "required": "i",
-    "wordCount": 33,
+    "wordCount": 32,
     "spangrams": [
       "lighting",
       "lightning"
@@ -24,101 +24,6 @@
             "partOfSpeech": "noun",
             "definition": "The ninth letter of the alphabet.",
             "example": "Dot the _____ in the word bird."
-          }
-        ]
-      },
-      "intl": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "hitting": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of contacting one thing with another",
-            "example": "repeated _____ raised a large bruise"
-          }
-        ]
-      },
-      "till": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation",
-            "example": "_____ the soil"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a strongbox for holding cash",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a treasury for government funds",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "hint": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "drop a hint",
-            "example": "intimate by a _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a slight indication",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an indirect suggestion",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "thing": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an event",
-            "example": "a funny _____ happened on the way to the..."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an action",
-            "example": "how could you do such a _____?"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an artifact",
-            "example": "how does this _____ work?"
-          }
-        ]
-      },
-      "hill": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a local and well-defined elevation of the land",
-            "example": "they loved to roam the _____ of West Virginia"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "structure consisting of an artificial heap or bank usually of earth or stones",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "form into a hill",
-            "example": "They will _____ after lunch."
           }
         ]
       },
@@ -141,6 +46,101 @@
           }
         ]
       },
+      "thin": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to lose thickness",
+            "example": "My hair is thinning."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to take off weight",
+            "example": "I am thinning nicely thanks to my new diet."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to make thin or thinner",
+            "example": "We should _____ out the herd."
+          }
+        ]
+      },
+      "thing": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an event",
+            "example": "a funny _____ happened on the way to the..."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an action",
+            "example": "how could you do such a _____?"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an artifact",
+            "example": "how does this _____ work?"
+          }
+        ]
+      },
+      "till": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation",
+            "example": "_____ the soil"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a strongbox for holding cash",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a treasury for government funds",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "hill": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a local and well-defined elevation of the land",
+            "example": "they loved to roam the _____ of West Virginia"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "structure consisting of an artificial heap or bank usually of earth or stones",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "form into a hill",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "light": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "public awareness",
+            "example": "it brought the scandal to _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an illuminated area",
+            "example": "I stepped into the _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a visual warning signal",
+            "example": "they saw the _____ of the beacon"
+          }
+        ]
+      },
       "high": {
         "senses": [
           {
@@ -160,22 +160,31 @@
           }
         ]
       },
-      "night": {
+      "hitting": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "darkness",
-            "example": "it vanished into the _____"
+            "definition": "the act of contacting one thing with another",
+            "example": "repeated _____ raised a large bruise"
+          }
+        ]
+      },
+      "hint": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "drop a hint",
+            "example": "intimate by a _____"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a shortening of nightfall",
-            "example": "they worked from morning to _____"
+            "definition": "a slight indication",
+            "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the period spent sleeping",
-            "example": "I had a restless _____"
+            "definition": "an indirect suggestion",
+            "example": "The _____ was easy to notice."
           }
         ]
       }
@@ -198,7 +207,6 @@
       "ing",
       "inn",
       "int",
-      "intl",
       "it",
       "light",
       "lighting",

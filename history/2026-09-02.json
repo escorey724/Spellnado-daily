@@ -6,21 +6,59 @@
   "puzzle": {
     "letters": "ednstu",
     "required": "e",
-    "wordCount": 60,
+    "wordCount": 57,
     "spangrams": [
       "student",
       "students"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "needs": {
+      "sudden": {
         "senses": [
           {
-            "partOfSpeech": "adverb",
-            "definition": "in such a manner as could not be otherwise",
-            "example": "She did it _____."
+            "partOfSpeech": "adjective",
+            "definition": "happening without warning or in a short space of time",
+            "example": "A _____ storm blew our solar panels right off the roof."
           }
         ]
+      },
+      "sent": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "100 senti equal 1 kroon in Estonia",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "caused or enabled to go or be conveyed or transmitted",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "teens": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "all the numbers that end in -teen",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the time of life between the ages of 12 and 20",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "uses": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
       },
       "eden": {
         "senses": [
@@ -32,78 +70,31 @@
         ],
         "generic": true
       },
-      "detest": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "dislike intensely",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "tenet": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a religious doctrine that is proclaimed as true without proof",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "seed": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "go to seed",
-            "example": "shed _____"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "remove the seeds from",
-            "example": "_____ grapes"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "place seeds in or on the ground for future growth",
-            "example": "We _____ the lawn."
-          }
-        ]
-      },
-      "sets": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "need": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a condition requiring relief",
-            "example": "The nurse satisfied the patient's _____ for affection."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "anything that is necessary but lacking",
-            "example": "They had sufficient means to meet their simple _____."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "have or feel a need for",
-            "example": "always _____ friends and money"
-          }
-        ]
-      },
       "ended": {
         "senses": [
           {
             "partOfSpeech": "adjective",
             "definition": "having come or been brought to a conclusion",
             "example": "It was a _____ day."
+          }
+        ]
+      },
+      "nest": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a gang of people (criminals or spies or terrorists) assembled in one locality",
+            "example": "a _____ of thieves"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "fit together or fit inside",
+            "example": "_____ bowls"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "inhabit a nest, usually after building",
+            "example": "birds are _____ outside my window every Spring"
           }
         ]
       },
@@ -117,19 +108,41 @@
         ],
         "generic": true
       },
-      "sees": {
+      "used": {
         "senses": [
           {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
+            "partOfSpeech": "adjective",
+            "definition": "employed in accomplishing something",
+            "example": "the principle of surprise is the most _____ and misused of all the principles of war- H.H.Arnold & I.C.Eaker"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "previously used or owned by another",
+            "example": "bought a secondhand (or _____) car"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "of persons",
+            "example": "It was a _____ day."
           }
-        ],
-        "generic": true
+        ]
+      },
+      "teen": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "being of the age 13 through 19",
+            "example": "teenage mothers"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a juvenile between the onset of puberty and maturity",
+            "example": "The _____ was easy to notice."
+          }
+        ]
       }
     },
     "answers": [
-      "dee",
       "den",
       "dense",
       "des",
@@ -170,14 +183,12 @@
       "sue",
       "sunset",
       "suse",
-      "ted",
       "tee",
       "teen",
       "teens",
       "ten",
       "tend",
       "tenet",
-      "tennessee",
       "tent",
       "test",
       "tested",

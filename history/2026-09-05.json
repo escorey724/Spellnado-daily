@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "abilry",
     "required": "a",
-    "wordCount": 28,
+    "wordCount": 22,
     "spangrams": [
       "library"
     ],
@@ -26,25 +26,6 @@
           }
         ]
       },
-      "ball": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a compact mass",
-            "example": "A _____ of mud caught them on the shoulder."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an object with a spherical shape",
-            "example": "a _____ of fire"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a pitch that is not in the strike zone",
-            "example": "The pitcher threw nine straight _____ before being yanked from the game."
-          }
-        ]
-      },
       "bali": {
         "senses": [
           {
@@ -55,22 +36,60 @@
         ],
         "generic": true
       },
+      "arabia": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "rally": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the feat of mustering strength for a renewed effort",
+            "example": "The team started a _____ in the final minutes of the game."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an automobile race run over public roads",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a large gathering of people intended to arouse enthusiasm",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "array": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an impressive display",
+            "example": "it was a bewildering _____ of books"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an orderly arrangement",
+            "example": "an _____ of troops in battle order"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to lay out orderly or logically in a line or as if in a line",
+            "example": "We _____ all the parts before assembly."
+          }
+        ]
+      },
       "arab": {
         "senses": [
           {
             "partOfSpeech": "",
             "definition": "A 4-letter word you can spell with today's letters.",
             "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "blair": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
           }
         ],
         "generic": true
@@ -94,6 +113,25 @@
           }
         ]
       },
+      "ball": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a compact mass",
+            "example": "A _____ of mud caught them on the shoulder."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an object with a spherical shape",
+            "example": "a _____ of fire"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a pitch that is not in the strike zone",
+            "example": "The pitcher threw nine straight _____ before being yanked from the game."
+          }
+        ]
+      },
       "baby": {
         "senses": [
           {
@@ -112,45 +150,13 @@
             "example": "the _____ of the family"
           }
         ]
-      },
-      "barbara": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 7-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _______"
-          }
-        ],
-        "generic": true
-      },
-      "barry": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "arabia": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 6-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ______"
-          }
-        ],
-        "generic": true
       }
     },
     "answers": [
       "a",
-      "aaa",
       "ail",
       "air",
       "ala",
-      "ali",
       "all",
       "arab",
       "arabia",
@@ -159,14 +165,10 @@
       "bali",
       "ball",
       "bar",
-      "barbara",
-      "barry",
       "bay",
-      "blair",
       "bra",
       "ira",
       "lab",
-      "larry",
       "lay",
       "library",
       "rail",

@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "ieglnps",
     "required": "i",
-    "wordCount": 71,
+    "wordCount": 68,
     "spangrams": [
       "sleeping",
       "spelling"
@@ -27,59 +27,16 @@
           }
         ]
       },
-      "inline": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 6-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ______"
-          }
-        ],
-        "generic": true
-      },
-      "singing": {
+      "lien": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the act of singing vocal music",
+            "definition": "the right to take another's property if an obligation is not discharged",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "disclosing information or giving evidence about another",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "smooth and flowing",
-            "example": "It was a _____ day."
-          }
-        ]
-      },
-      "ping": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "hit with a pinging noise",
-            "example": "The bugs _____ the lamp shade"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "make a short high-pitched sound",
-            "example": "the bullet _____ when they struck the car"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "contact, usually in order to remind of something",
-            "example": "I'll _____ my accountant--April 15 is nearing"
-          }
-        ]
-      },
-      "signing": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "language expressed by visible hand gestures",
+            "definition": "a large dark-red oval organ on the left side of the body between the stomach and the diaphragm",
             "example": "The _____ was easy to notice."
           }
         ]
@@ -98,7 +55,7 @@
           }
         ]
       },
-      "inns": {
+      "lies": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -107,6 +64,44 @@
           }
         ],
         "generic": true
+      },
+      "pipe": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "play on a pipe",
+            "example": "_____ a tune"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "trim with piping",
+            "example": "_____ the skirt"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "transport by pipeline",
+            "example": "_____ oil, water, and gas into the desert"
+          }
+        ]
+      },
+      "spin": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a short drive in a car",
+            "example": "I took the new car for a _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of rotating rapidly",
+            "example": "We gave the crank a _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a distinctive interpretation (especially as used by politicians to sway public opinion)",
+            "example": "the campaign put a favorable _____ on the story"
+          }
+        ]
       },
       "genesis": {
         "senses": [
@@ -117,37 +112,46 @@
           }
         ]
       },
-      "illness": {
+      "pipes": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "signing": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "impairment of normal physiological function affecting part or all of an organism",
+            "definition": "language expressed by visible hand gestures",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "pill": {
+      "spine": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "something unpleasant or offensive that must be tolerated or endured",
-            "example": "Your competitor's success was a bitter _____ to take."
+            "definition": "the part of a book's cover that encloses the inner side of the book's pages and that faces outward when the book is shelved",
+            "example": "the title and author were printed on the _____ of the book"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a unpleasant or tiresome person",
+            "definition": "any sharply pointed projection",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a dose of medicine in the form of a small pellet",
+            "definition": "a sharp rigid animal process or appendage",
             "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "ellis",
       "engine",
       "engines",
       "genesis",
@@ -171,7 +175,6 @@
       "isp",
       "issn",
       "lei",
-      "leslie",
       "lie",
       "lien",
       "lies",
@@ -180,7 +183,6 @@
       "lines",
       "lip",
       "lips",
-      "neil",
       "nil",
       "nine",
       "nip",

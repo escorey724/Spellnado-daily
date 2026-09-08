@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "edhnrtu",
     "required": "e",
-    "wordCount": 70,
+    "wordCount": 68,
     "spangrams": [
       "thunder"
     ],
@@ -23,102 +23,70 @@
           }
         ]
       },
-      "here": {
-        "senses": [
-          {
-            "partOfSpeech": "adverb",
-            "definition": "in or at this place",
-            "example": "where the speaker or writer is"
-          },
-          {
-            "partOfSpeech": "adverb",
-            "definition": "to this place (especially toward the speaker)",
-            "example": "come _____, please"
-          },
-          {
-            "partOfSpeech": "adverb",
-            "definition": "in this circumstance or respect or on this point or detail",
-            "example": "what do we have _____?"
-          }
-        ]
-      },
-      "tent": {
+      "reed": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a portable shelter usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs",
-            "example": "The _____ was pitched near the creek."
+            "definition": "a vibrator consisting of a thin strip of stiff material that vibrates to produce a tone when air streams over it",
+            "example": "The clarinetist fitted a new _____ onto the mouthpiece."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a web that resembles a tent or carpet",
+            "definition": "a musical instrument that sounds by means of a vibrating reed",
             "example": "The _____ was easy to notice."
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "live in or as if in a tent",
-            "example": "They will _____ after lunch."
+            "partOfSpeech": "noun",
+            "definition": "tall woody perennial grasses with hollow slender stems especially of the genera Arundo and Phragmites",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "return": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a reciprocal group action",
-            "example": "in _____ we gave them as good as we got"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a coming to or returning home",
-            "example": "On my _____ from Australia, I was given a welcoming party."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of going back to a prior location",
-            "example": "they set out on their _____ to the base camp"
-          }
-        ]
-      },
-      "tether": {
+      "rent": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "tie with a tether",
-            "example": "_____ horses"
+            "definition": "let for money",
+            "example": "We _____ our apartment to friends while we were abroad"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "restraint consisting of a rope (or light chain) used to restrain an animal",
+            "definition": "an opening made forcibly as by pulling apart",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of rending or ripping or splitting something",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "nurture": {
+      "thehun": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "need": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "helping someone grow up to be an accepted member of the community",
-            "example": "they debated whether nature or _____ was more important"
+            "definition": "a condition requiring relief",
+            "example": "The nurse satisfied the patient's _____ for affection."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "anything that is necessary but lacking",
+            "example": "They had sufficient means to meet their simple _____."
           },
           {
             "partOfSpeech": "verb",
-            "definition": "to help develop, help grow",
-            "example": "They nurtured their talents to become better."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the properties acquired as a consequence of the way you were treated as a child",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "deer": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "distinguished from Bovidae by the male's having solid deciduous antlers",
-            "example": "The _____ was easy to notice."
+            "definition": "have or feel a need for",
+            "example": "always _____ friends and money"
           }
         ]
       },
@@ -141,37 +109,70 @@
           }
         ]
       },
-      "true": {
+      "deter": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "make level, square, balanced, or concentric",
-            "example": "_____ up the cylinder of an engine"
+            "definition": "try to prevent",
+            "example": "They will _____ after lunch."
           },
           {
-            "partOfSpeech": "adjective",
-            "definition": "accurately placed or thrown",
-            "example": "My aim was _____."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "conforming to definitive criteria",
-            "example": "the horseshoe crab is not a _____ crab"
+            "partOfSpeech": "verb",
+            "definition": "turn away from by persuasion",
+            "example": "They will _____ after lunch."
           }
         ]
       },
-      "needed": {
+      "nutten": {
         "senses": [
           {
-            "partOfSpeech": "adjective",
-            "definition": "necessary for relief or supply",
-            "example": "It was a _____ day."
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "runner": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who is employed to deliver messages or documents",
+            "example": "They sent a _____ over with the contract."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a long narrow carpet",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "someone who travels on foot by running",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tree": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a figure that branches from a single root",
+            "example": "genealogical _____"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "plant with trees",
+            "example": "this lot should be treed so that the house will be shaded in summer"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown",
+            "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "dee",
       "deer",
       "den",
       "der",
@@ -214,7 +215,6 @@
       "returned",
       "rue",
       "runner",
-      "ted",
       "tee",
       "teen",
       "teeth",

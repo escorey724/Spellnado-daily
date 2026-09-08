@@ -6,7 +6,7 @@
   "puzzle": {
     "letters": "nabiorw",
     "required": "n",
-    "wordCount": 49,
+    "wordCount": 42,
     "spangrams": [
       "rainbow"
     ],
@@ -121,6 +121,15 @@
           }
         ]
       },
+      "noon": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the middle of the day",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
       "barn": {
         "senses": [
           {
@@ -129,24 +138,11 @@
             "example": "The _____ was easy to notice."
           }
         ]
-      },
-      "wanna": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
       }
     },
     "answers": [
-      "aaron",
       "an",
       "ana",
-      "ann",
-      "anna",
       "awn",
       "ban",
       "banana",
@@ -157,13 +153,10 @@
       "born",
       "brain",
       "brawn",
-      "brian",
       "brown",
-      "ian",
       "in",
       "inn",
       "ion",
-      "iran",
       "iron",
       "nab",
       "nano",
@@ -185,7 +178,6 @@
       "ribbon",
       "rna",
       "robin",
-      "ron",
       "wan",
       "wanna",
       "win",
