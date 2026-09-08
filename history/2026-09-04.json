@@ -1,0 +1,223 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-09-04",
+  "puzzleIndex": 3,
+  "puzzle": {
+    "letters": "ieglnps",
+    "required": "i",
+    "wordCount": 71,
+    "spangrams": [
+      "sleeping",
+      "spelling"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "inline": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "singing": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of singing vocal music",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "disclosing information or giving evidence about another",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "smooth and flowing",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "ping": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "hit with a pinging noise",
+            "example": "The bugs _____ the lamp shade"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make a short high-pitched sound",
+            "example": "the bullet _____ when they struck the car"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "contact, usually in order to remind of something",
+            "example": "I'll _____ my accountant--April 15 is nearing"
+          }
+        ]
+      },
+      "signing": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "language expressed by visible hand gestures",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "pine": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a coniferous tree",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "have a desire for something or someone who is not present",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "inns": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "genesis": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a coming into being",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "illness": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "impairment of normal physiological function affecting part or all of an organism",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "pill": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something unpleasant or offensive that must be tolerated or endured",
+            "example": "Your competitor's success was a bitter _____ to take."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a unpleasant or tiresome person",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a dose of medicine in the form of a small pellet",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "ellis",
+      "engine",
+      "engines",
+      "genesis",
+      "gig",
+      "gin",
+      "gis",
+      "i",
+      "ieee",
+      "iii",
+      "ill",
+      "illness",
+      "in",
+      "ing",
+      "inline",
+      "inn",
+      "inns",
+      "ins",
+      "ips",
+      "is",
+      "isle",
+      "isp",
+      "issn",
+      "lei",
+      "leslie",
+      "lie",
+      "lien",
+      "lies",
+      "lil",
+      "line",
+      "lines",
+      "lip",
+      "lips",
+      "neil",
+      "nil",
+      "nine",
+      "nip",
+      "pi",
+      "pie",
+      "pig",
+      "pill",
+      "pills",
+      "pin",
+      "pine",
+      "ping",
+      "pins",
+      "pip",
+      "pipe",
+      "pipeline",
+      "pipes",
+      "psi",
+      "seeing",
+      "selling",
+      "sie",
+      "sig",
+      "sign",
+      "signing",
+      "signs",
+      "sin",
+      "sing",
+      "singing",
+      "single",
+      "singles",
+      "sip",
+      "sis",
+      "sleeping",
+      "slip",
+      "spelling",
+      "spies",
+      "spin",
+      "spine"
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-09-06",
+  "puzzleIndex": 5,
+  "puzzle": {
+    "letters": "ighlnt",
+    "required": "i",
+    "wordCount": 33,
+    "spangrams": [
+      "lighting",
+      "lightning"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "intl": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "hitting": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of contacting one thing with another",
+            "example": "repeated _____ raised a large bruise"
+          }
+        ]
+      },
+      "till": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation",
+            "example": "_____ the soil"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a strongbox for holding cash",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a treasury for government funds",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "hint": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "drop a hint",
+            "example": "intimate by a _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a slight indication",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an indirect suggestion",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "thing": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an event",
+            "example": "a funny _____ happened on the way to the..."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an action",
+            "example": "how could you do such a _____?"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an artifact",
+            "example": "how does this _____ work?"
+          }
+        ]
+      },
+      "hill": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a local and well-defined elevation of the land",
+            "example": "they loved to roam the _____ of West Virginia"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "structure consisting of an artificial heap or bank usually of earth or stones",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "form into a hill",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "tight": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "packed closely together",
+            "example": "they stood in a _____ little group"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "affected by scarcity and expensive to borrow",
+            "example": "_____ money"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "of such close construction as to be impermeable",
+            "example": "a _____ roof"
+          }
+        ]
+      },
+      "high": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a high place",
+            "example": "they stood on _____ and observed the countryside"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a state of sustained elation",
+            "example": "I'm on a permanent _____ these days"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a lofty level or position or degree",
+            "example": "summer temperatures reached an all-time _____"
+          }
+        ]
+      },
+      "night": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "darkness",
+            "example": "it vanished into the _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a shortening of nightfall",
+            "example": "they worked from morning to _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the period spent sleeping",
+            "example": "I had a restless _____"
+          }
+        ]
+      }
+    },
+    "answers": [
+      "gig",
+      "gin",
+      "git",
+      "hi",
+      "high",
+      "highlight",
+      "hill",
+      "hint",
+      "hit",
+      "hitting",
+      "i",
+      "iii",
+      "ill",
+      "in",
+      "ing",
+      "inn",
+      "int",
+      "intl",
+      "it",
+      "light",
+      "lighting",
+      "lightning",
+      "lil",
+      "lit",
+      "night",
+      "nil",
+      "nit",
+      "thin",
+      "thing",
+      "tight",
+      "til",
+      "till",
+      "tin"
+    ]
+  }
+}

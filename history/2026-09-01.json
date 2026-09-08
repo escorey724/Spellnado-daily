@@ -1,0 +1,246 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-09-01",
+  "puzzleIndex": 0,
+  "puzzle": {
+    "letters": "edhnrtu",
+    "required": "e",
+    "wordCount": 70,
+    "spangrams": [
+      "thunder"
+    ],
+    "perfectSpangrams": [
+      "thunder"
+    ],
+    "hints": {
+      "the": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "The word you use before a specific thing.",
+            "example": "_____ dog ran across the yard."
+          }
+        ]
+      },
+      "here": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "in or at this place",
+            "example": "where the speaker or writer is"
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "to this place (especially toward the speaker)",
+            "example": "come _____, please"
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "in this circumstance or respect or on this point or detail",
+            "example": "what do we have _____?"
+          }
+        ]
+      },
+      "tent": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a portable shelter usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs",
+            "example": "The _____ was pitched near the creek."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a web that resembles a tent or carpet",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "live in or as if in a tent",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "return": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a reciprocal group action",
+            "example": "in _____ we gave them as good as we got"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a coming to or returning home",
+            "example": "On my _____ from Australia, I was given a welcoming party."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of going back to a prior location",
+            "example": "they set out on their _____ to the base camp"
+          }
+        ]
+      },
+      "tether": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "tie with a tether",
+            "example": "_____ horses"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "restraint consisting of a rope (or light chain) used to restrain an animal",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "nurture": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "helping someone grow up to be an accepted member of the community",
+            "example": "they debated whether nature or _____ was more important"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to help develop, help grow",
+            "example": "They nurtured their talents to become better."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the properties acquired as a consequence of the way you were treated as a child",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "deer": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "distinguished from Bovidae by the male's having solid deciduous antlers",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tender": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "make tender or more tender as by marinating, pounding, or applying a tenderizer",
+            "example": "tenderize meat"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "mildly painful",
+            "example": "After getting my flu shot, I had a _____ spot on my arm."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "young and immature",
+            "example": "at a _____ age"
+          }
+        ]
+      },
+      "true": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "make level, square, balanced, or concentric",
+            "example": "_____ up the cylinder of an engine"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "accurately placed or thrown",
+            "example": "My aim was _____."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "conforming to definitive criteria",
+            "example": "the horseshoe crab is not a _____ crab"
+          }
+        ]
+      },
+      "needed": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "necessary for relief or supply",
+            "example": "It was a _____ day."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "dee",
+      "deer",
+      "den",
+      "der",
+      "deter",
+      "deterrent",
+      "dude",
+      "due",
+      "eden",
+      "edt",
+      "end",
+      "ended",
+      "endure",
+      "ent",
+      "enter",
+      "entered",
+      "ere",
+      "err",
+      "ethernet",
+      "eur",
+      "he",
+      "heed",
+      "hen",
+      "her",
+      "here",
+      "hue",
+      "hundred",
+      "hunter",
+      "need",
+      "needed",
+      "net",
+      "nurture",
+      "nutten",
+      "red",
+      "reed",
+      "rend",
+      "render",
+      "rendered",
+      "rent",
+      "return",
+      "returned",
+      "rue",
+      "runner",
+      "ted",
+      "tee",
+      "teen",
+      "teeth",
+      "ten",
+      "tend",
+      "tender",
+      "tenet",
+      "tent",
+      "tether",
+      "the",
+      "thee",
+      "thehun",
+      "then",
+      "there",
+      "three",
+      "thunder",
+      "tree",
+      "trend",
+      "true",
+      "tue",
+      "tune",
+      "tuner",
+      "turned",
+      "turner",
+      "under",
+      "une"
+    ]
+  }
+}

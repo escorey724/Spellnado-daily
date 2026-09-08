@@ -1,0 +1,196 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-09-07",
+  "puzzleIndex": 6,
+  "puzzle": {
+    "letters": "nabiorw",
+    "required": "n",
+    "wordCount": 49,
+    "spangrams": [
+      "rainbow"
+    ],
+    "perfectSpangrams": [
+      "rainbow"
+    ],
+    "hints": {
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "banana": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "A long yellow fruit with a peel you pull off.",
+            "example": "He packed a _____ in his lunchbox."
+          }
+        ]
+      },
+      "born": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "Brought into the world as a baby or animal.",
+            "example": "The kittens were _____ last night."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Having a talent from an early age.",
+            "example": "She is a _____ storyteller."
+          }
+        ]
+      },
+      "iron": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "A strong metal used to make nails, pans, and bridges.",
+            "example": "The garden gate is made of _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "A hot tool that presses wrinkles out of clothes.",
+            "example": "Dad used the _____ on his shirt."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "To press clothes until they are smooth.",
+            "example": "Please _____ this shirt before school."
+          }
+        ]
+      },
+      "onion": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
+          }
+        ]
+      },
+      "rain": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "Water that falls from clouds.",
+            "example": "The _____ fell on the roof all afternoon."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "When water falls from the sky.",
+            "example": "It might _____ during the picnic."
+          }
+        ]
+      },
+      "worn": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Made thin or shabby from being used a lot.",
+            "example": "His _____ sneakers had a hole in the toe."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Looking tired after hard work.",
+            "example": "She looked _____ after the long hike."
+          }
+        ]
+      },
+      "narrow": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "define clearly",
+            "example": "I cannot _____ down the rules for this game"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make or become more narrow or restricted",
+            "example": "The selection was _____"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not wide",
+            "example": "a _____ bridge"
+          }
+        ]
+      },
+      "barn": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an outlying farm building for storing grain or animal feed and housing farm animals",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "wanna": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "aaron",
+      "an",
+      "ana",
+      "ann",
+      "anna",
+      "awn",
+      "ban",
+      "banana",
+      "barn",
+      "bin",
+      "bon",
+      "boon",
+      "born",
+      "brain",
+      "brawn",
+      "brian",
+      "brown",
+      "ian",
+      "in",
+      "inn",
+      "ion",
+      "iran",
+      "iron",
+      "nab",
+      "nano",
+      "narrow",
+      "nba",
+      "nib",
+      "no",
+      "nob",
+      "non",
+      "noon",
+      "nor",
+      "now",
+      "on",
+      "onion",
+      "own",
+      "rain",
+      "rainbow",
+      "ran",
+      "ribbon",
+      "rna",
+      "robin",
+      "ron",
+      "wan",
+      "wanna",
+      "win",
+      "won",
+      "worn"
+    ]
+  }
+}

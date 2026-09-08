@@ -1,0 +1,178 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-09-05",
+  "puzzleIndex": 4,
+  "puzzle": {
+    "letters": "abilry",
+    "required": "a",
+    "wordCount": 28,
+    "spangrams": [
+      "library"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "ball": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a compact mass",
+            "example": "A _____ of mud caught them on the shoulder."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an object with a spherical shape",
+            "example": "a _____ of fire"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a pitch that is not in the strike zone",
+            "example": "The pitcher threw nine straight _____ before being yanked from the game."
+          }
+        ]
+      },
+      "bali": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "arab": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "blair": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "rail": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "short for railway",
+            "example": "We traveled by _____."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "lay with rails",
+            "example": "hundreds of miles were _____ out here"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "enclose with rails",
+            "example": "_____ in the old graves"
+          }
+        ]
+      },
+      "baby": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a very young mammal",
+            "example": "_____ rabbits"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a project of personal concern to someone",
+            "example": "I know this project is your _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the youngest member of a group (not necessarily young)",
+            "example": "the _____ of the family"
+          }
+        ]
+      },
+      "barbara": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 7-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _______"
+          }
+        ],
+        "generic": true
+      },
+      "barry": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "arabia": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "a",
+      "aaa",
+      "ail",
+      "air",
+      "ala",
+      "ali",
+      "all",
+      "arab",
+      "arabia",
+      "array",
+      "baby",
+      "bali",
+      "ball",
+      "bar",
+      "barbara",
+      "barry",
+      "bay",
+      "blair",
+      "bra",
+      "ira",
+      "lab",
+      "larry",
+      "lay",
+      "library",
+      "rail",
+      "rally",
+      "ray",
+      "yay"
+    ]
+  }
+}

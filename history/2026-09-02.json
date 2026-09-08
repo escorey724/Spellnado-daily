@@ -1,0 +1,194 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-09-02",
+  "puzzleIndex": 1,
+  "puzzle": {
+    "letters": "ednstu",
+    "required": "e",
+    "wordCount": 60,
+    "spangrams": [
+      "student",
+      "students"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "needs": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "in such a manner as could not be otherwise",
+            "example": "She did it _____."
+          }
+        ]
+      },
+      "eden": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "detest": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "dislike intensely",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "tenet": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a religious doctrine that is proclaimed as true without proof",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "seed": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "go to seed",
+            "example": "shed _____"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "remove the seeds from",
+            "example": "_____ grapes"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "place seeds in or on the ground for future growth",
+            "example": "We _____ the lawn."
+          }
+        ]
+      },
+      "sets": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "need": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a condition requiring relief",
+            "example": "The nurse satisfied the patient's _____ for affection."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "anything that is necessary but lacking",
+            "example": "They had sufficient means to meet their simple _____."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "have or feel a need for",
+            "example": "always _____ friends and money"
+          }
+        ]
+      },
+      "ended": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "having come or been brought to a conclusion",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "nutten": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "sees": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "dee",
+      "den",
+      "dense",
+      "des",
+      "detest",
+      "dude",
+      "due",
+      "eden",
+      "eds",
+      "edt",
+      "end",
+      "ended",
+      "ends",
+      "ent",
+      "est",
+      "need",
+      "needed",
+      "needs",
+      "nest",
+      "nested",
+      "net",
+      "nutten",
+      "see",
+      "seed",
+      "seeds",
+      "seen",
+      "sees",
+      "sen",
+      "send",
+      "sends",
+      "sense",
+      "sent",
+      "set",
+      "sets",
+      "ste",
+      "student",
+      "students",
+      "sudden",
+      "sue",
+      "sunset",
+      "suse",
+      "ted",
+      "tee",
+      "teen",
+      "teens",
+      "ten",
+      "tend",
+      "tenet",
+      "tennessee",
+      "tent",
+      "test",
+      "tested",
+      "tests",
+      "tue",
+      "tune",
+      "tunes",
+      "une",
+      "use",
+      "used",
+      "uses"
+    ]
+  }
+}

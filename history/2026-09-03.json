@@ -1,0 +1,273 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-09-03",
+  "puzzleIndex": 2,
+  "puzzle": {
+    "letters": "aehrstv",
+    "required": "a",
+    "wordCount": 101,
+    "spangrams": [
+      "harvest"
+    ],
+    "perfectSpangrams": [
+      "harvest"
+    ],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "start": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "To begin.",
+            "example": "We will _____ the game at noon."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The beginning of something.",
+            "example": "That was a solid _____ on the puzzle."
+          }
+        ]
+      },
+      "ease": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "freedom from constraint or embarrassment",
+            "example": "I am never at _____ with strangers"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "freedom from difficulty or hardship or effort",
+            "example": "They rose through the ranks with apparent _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a freedom from financial difficulty that promotes a comfortable state",
+            "example": "a life of luxury and _____"
+          }
+        ]
+      },
+      "sara": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "area": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a subject of study",
+            "example": "The doctor's _____ of expertise was in cardiovascular health."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the extent of a 2-dimensional surface enclosed within a boundary",
+            "example": "the _____ of a rectangle"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a part of a structure having some specific characteristic or function",
+            "example": "the spacious cooking _____ provided plenty of room for servants"
+          }
+        ]
+      },
+      "star": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "feature as the star",
+            "example": "The movie _____ Dustin Hoffman as an autistic man"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "mark with an asterisk",
+            "example": "Linguists _____ unacceptable sentences"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an actor who plays a principal role",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "rare": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "having low density",
+            "example": "_____ gasses"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not widely distributed",
+            "example": "_____ herbs"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "of meat, cooked a short time",
+            "example": "I ordered my steak cooked _____."
+          }
+        ]
+      },
+      "vast": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "unusually great in size, amount, degree, extent, or scope",
+            "example": "The universe in unquestionably _____."
+          }
+        ]
+      },
+      "starter": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a culture containing yeast or bacteria that is used to start the process of fermentation or souring in making butter or cheese or dough",
+            "example": "to make sourdough you need a _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any new participant in some activity",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an electric motor for starting an engine",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "aaa",
+      "ah",
+      "are",
+      "area",
+      "areas",
+      "arrest",
+      "art",
+      "arts",
+      "as",
+      "ash",
+      "assert",
+      "assess",
+      "asset",
+      "assets",
+      "at",
+      "ata",
+      "ate",
+      "attest",
+      "avatar",
+      "ave",
+      "ear",
+      "ears",
+      "earth",
+      "ease",
+      "east",
+      "easter",
+      "eat",
+      "era",
+      "estate",
+      "estates",
+      "eva",
+      "ha",
+      "harass",
+      "hart",
+      "harvest",
+      "has",
+      "hash",
+      "hat",
+      "hate",
+      "hats",
+      "have",
+      "hear",
+      "heart",
+      "hearts",
+      "heat",
+      "heater",
+      "heath",
+      "heather",
+      "rah",
+      "rare",
+      "rat",
+      "rate",
+      "rates",
+      "rather",
+      "rats",
+      "rear",
+      "retreat",
+      "sara",
+      "sarah",
+      "sas",
+      "sat",
+      "sate",
+      "save",
+      "saver",
+      "saves",
+      "sea",
+      "seas",
+      "seat",
+      "seats",
+      "share",
+      "shares",
+      "star",
+      "stars",
+      "start",
+      "starter",
+      "starts",
+      "stat",
+      "state",
+      "states",
+      "stats",
+      "tar",
+      "taste",
+      "tat",
+      "tea",
+      "tear",
+      "tears",
+      "that",
+      "thats",
+      "theater",
+      "theaters",
+      "theatre",
+      "theta",
+      "threat",
+      "threats",
+      "trash",
+      "traverse",
+      "treat",
+      "var",
+      "vast",
+      "vat"
+    ]
+  }
+}
