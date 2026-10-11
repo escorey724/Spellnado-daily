@@ -1,38 +1,129 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-10",
-  "puzzleIndex": 39,
+  "date": "2026-10-11",
+  "puzzleIndex": 40,
   "puzzle": {
-    "letters": "seinqru",
-    "required": "s",
-    "wordCount": 43,
+    "letters": "obghtu",
+    "required": "o",
+    "wordCount": 30,
     "spangrams": [
-      "enquiries",
-      "inquiries"
+      "bought"
     ],
-    "perfectSpangrams": [],
+    "perfectSpangrams": [
+      "bought"
+    ],
     "hints": {
-      "issue": {
+      "to": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "one of a series published periodically",
-            "example": "They found an old _____ of the magazine in their dentist's waiting room."
+            "partOfSpeech": "preposition",
+            "definition": "Toward a place, person, or goal.",
+            "example": "We walked _____ the library."
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "an important question that is in dispute and must be settled",
-            "example": "the _____ could be settled by requiring public education for everyone"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of providing an item for general use or for official purposes (usually in quantity)",
-            "example": "a new _____ of stamps"
+            "partOfSpeech": "adverb",
+            "definition": "Used before a verb to mean 'in order to'.",
+            "example": "I want _____ play outside."
           }
         ]
       },
-      "suse": {
+      "boot": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to kick something",
+            "example": "I _____ the ball around the soccer field."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to cause to load an operating system and start the initial processes",
+            "example": "The bios is the most important part when _____ your computer."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of delivering a blow with the foot",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tough": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "physically toughened",
+            "example": "The _____ bottoms of my feet were earned by walking barefoot for an entire summer."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not given to gentleness or sentimentality",
+            "example": "a _____ character"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a cruel and brutal fellow",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "ought": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "tout": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "advertize in strongly positive terms",
+            "example": "This product was _____ as a revolutionary invention"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "someone who advertises for customers in an especially brazen way",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "someone who buys tickets to an event in order to resell them at a profit",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tooth": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a means of enforcement",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "something resembling the tooth of an animal",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of a number of uniform projections on a gear",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "thou": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the product of 10 and 100",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "goto": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -42,95 +133,26 @@
         ],
         "generic": true
       },
-      "queens": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 6-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ______"
-          }
-        ],
-        "generic": true
-      },
-      "ensures": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 7-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _______"
-          }
-        ],
-        "generic": true
-      },
-      "rise": {
+      "thought": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a movement upward",
-            "example": "they cheered the _____ of the hot-air balloon"
+            "definition": "the organized beliefs of a period or group or individual",
+            "example": "19th century _____"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "an increase in cost",
-            "example": "they asked for a 10% _____ in rates"
+            "definition": "the content of cognition",
+            "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "an upward slope or grade (as in a road)",
-            "example": "the car couldn't make it up the _____"
+            "definition": "the process of using your mind to consider something carefully",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "sense": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "sound practical judgment",
-            "example": "Common _____ is not so common"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a general conscious awareness",
-            "example": "a _____ of security"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a natural appreciation or ability",
-            "example": "a keen musical _____"
-          }
-        ]
-      },
-      "issues": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 6-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ______"
-          }
-        ],
-        "generic": true
-      },
-      "runs": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "seen": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "nurses": {
+      "though": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -142,49 +164,36 @@
       }
     },
     "answers": [
-      "enquiries",
-      "ensure",
-      "ensures",
-      "inns",
-      "inquiries",
-      "ins",
-      "is",
-      "issn",
-      "issue",
-      "issues",
-      "nurse",
-      "nurses",
-      "queens",
-      "queries",
-      "requires",
-      "res",
-      "rise",
-      "runs",
-      "ruse",
-      "see",
-      "seen",
-      "sees",
-      "sen",
-      "sense",
-      "seq",
-      "ser",
-      "series",
-      "sin",
-      "sir",
-      "sis",
-      "sri",
-      "sue",
-      "sun",
-      "sunrise",
-      "sur",
-      "sure",
-      "suse",
-      "us",
-      "use",
-      "user",
-      "users",
-      "uses",
-      "usr"
+      "bog",
+      "boo",
+      "boot",
+      "booth",
+      "both",
+      "bought",
+      "go",
+      "gob",
+      "goo",
+      "got",
+      "goto",
+      "ho",
+      "hob",
+      "hog",
+      "hot",
+      "oh",
+      "ooh",
+      "ooo",
+      "ought",
+      "out",
+      "thou",
+      "though",
+      "thought",
+      "to",
+      "tog",
+      "too",
+      "tooth",
+      "tot",
+      "tough",
+      "tout"
     ]
   }
 }

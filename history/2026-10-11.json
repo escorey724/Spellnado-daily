@@ -1,0 +1,199 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-11",
+  "puzzleIndex": 40,
+  "puzzle": {
+    "letters": "obghtu",
+    "required": "o",
+    "wordCount": 30,
+    "spangrams": [
+      "bought"
+    ],
+    "perfectSpangrams": [
+      "bought"
+    ],
+    "hints": {
+      "to": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "Toward a place, person, or goal.",
+            "example": "We walked _____ the library."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used before a verb to mean 'in order to'.",
+            "example": "I want _____ play outside."
+          }
+        ]
+      },
+      "boot": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to kick something",
+            "example": "I _____ the ball around the soccer field."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to cause to load an operating system and start the initial processes",
+            "example": "The bios is the most important part when _____ your computer."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of delivering a blow with the foot",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tough": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "physically toughened",
+            "example": "The _____ bottoms of my feet were earned by walking barefoot for an entire summer."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not given to gentleness or sentimentality",
+            "example": "a _____ character"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a cruel and brutal fellow",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "ought": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "tout": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "advertize in strongly positive terms",
+            "example": "This product was _____ as a revolutionary invention"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "someone who advertises for customers in an especially brazen way",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "someone who buys tickets to an event in order to resell them at a profit",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tooth": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a means of enforcement",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "something resembling the tooth of an animal",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of a number of uniform projections on a gear",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "thou": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the product of 10 and 100",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "goto": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "thought": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the organized beliefs of a period or group or individual",
+            "example": "19th century _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the content of cognition",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the process of using your mind to consider something carefully",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "though": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "bog",
+      "boo",
+      "boot",
+      "booth",
+      "both",
+      "bought",
+      "go",
+      "gob",
+      "goo",
+      "got",
+      "goto",
+      "ho",
+      "hob",
+      "hog",
+      "hot",
+      "oh",
+      "ooh",
+      "ooo",
+      "ought",
+      "out",
+      "thou",
+      "though",
+      "thought",
+      "to",
+      "tog",
+      "too",
+      "tooth",
+      "tot",
+      "tough",
+      "tout"
+    ]
+  }
+}
