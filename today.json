@@ -1,199 +1,239 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-11",
-  "puzzleIndex": 40,
+  "date": "2026-10-12",
+  "puzzleIndex": 41,
   "puzzle": {
-    "letters": "obghtu",
-    "required": "o",
-    "wordCount": 30,
+    "letters": "einrtv",
+    "required": "e",
+    "wordCount": 51,
     "spangrams": [
-      "bought"
+      "intervene",
+      "invert",
+      "retentive"
     ],
     "perfectSpangrams": [
-      "bought"
+      "invert"
     ],
     "hints": {
-      "to": {
+      "veneer": {
         "senses": [
           {
-            "partOfSpeech": "preposition",
-            "definition": "Toward a place, person, or goal.",
-            "example": "We walked _____ the library."
+            "partOfSpeech": "noun",
+            "definition": "an ornamental coating to an object consisting of a thin layer of superior wood glued to a base of inferior wood",
+            "example": "This _____ needs to dry a bit more."
           },
           {
-            "partOfSpeech": "adverb",
-            "definition": "Used before a verb to mean 'in order to'.",
-            "example": "I want _____ play outside."
+            "partOfSpeech": "verb",
+            "definition": "to cover with veneer",
+            "example": "_____ the furniture to protect it."
           }
         ]
       },
-      "boot": {
+      "rent": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "to kick something",
-            "example": "I _____ the ball around the soccer field."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to cause to load an operating system and start the initial processes",
-            "example": "The bios is the most important part when _____ your computer."
+            "definition": "let for money",
+            "example": "We _____ our apartment to friends while we were abroad"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the act of delivering a blow with the foot",
+            "definition": "an opening made forcibly as by pulling apart",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of rending or ripping or splitting something",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "tough": {
+      "intent": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an anticipated outcome that is intended or that guides your planned actions",
+            "example": "Their _____ was to provide a new translation."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the intended meaning of a communication",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "giving or marked by complete attention to",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "river": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a large natural stream of water",
+            "example": "The _____ was navigable for 50 miles."
+          }
+        ]
+      },
+      "veer": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to turn sharply",
+            "example": "The car _____ suddenly."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to shift to a clockwise direction",
+            "example": "The wind _____."
+          }
+        ]
+      },
+      "event": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a special set of circumstances",
+            "example": "in that _____, the first possibility is excluded"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "something that happens at a given place and time",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a phenomenon located at a single point in space-time",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "nine": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the sum of eight and one",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of four playing cards in a deck with nine pips on the face",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a team of professional baseball players who play and travel together",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "revert": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "go back to a previous state",
+            "example": "We _____ to the old rules"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "undergo reversion, as in a mutation",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "inner": {
         "senses": [
           {
             "partOfSpeech": "adjective",
-            "definition": "physically toughened",
-            "example": "The _____ bottoms of my feet were earned by walking barefoot for an entire summer."
+            "definition": "innermost or essential",
+            "example": "the _____ logic of Cubism"
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "not given to gentleness or sentimentality",
-            "example": "a _____ character"
+            "definition": "confined to an exclusive group",
+            "example": "privy to _____ knowledge"
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "a cruel and brutal fellow",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "adjective",
+            "definition": "inside or closer to the inside of the body",
+            "example": "the _____ ear"
           }
         ]
       },
-      "ought": {
+      "inert": {
         "senses": [
           {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "tout": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "advertize in strongly positive terms",
-            "example": "This product was _____ as a revolutionary invention"
+            "partOfSpeech": "adjective",
+            "definition": "slow and apathetic",
+            "example": "By the end of the week, I wanted nothing more than to sit _____ on the sofa."
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "someone who advertises for customers in an especially brazen way",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "adjective",
+            "definition": "unable to move or resist motion",
+            "example": "It was a _____ day."
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "someone who buys tickets to an event in order to resell them at a profit",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "adjective",
+            "definition": "having only a limited ability to react chemically",
+            "example": "It was a _____ day."
           }
         ]
-      },
-      "tooth": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a means of enforcement",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "something resembling the tooth of an animal",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "one of a number of uniform projections on a gear",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "thou": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the cardinal number that is the product of 10 and 100",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "goto": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "thought": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the organized beliefs of a period or group or individual",
-            "example": "19th century _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the content of cognition",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the process of using your mind to consider something carefully",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "though": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 6-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ______"
-          }
-        ],
-        "generic": true
       }
     },
     "answers": [
-      "bog",
-      "boo",
-      "boot",
-      "booth",
-      "both",
-      "bought",
-      "go",
-      "gob",
-      "goo",
-      "got",
-      "goto",
-      "ho",
-      "hob",
-      "hog",
-      "hot",
-      "oh",
-      "ooh",
-      "ooo",
-      "ought",
-      "out",
-      "thou",
-      "though",
-      "thought",
-      "to",
-      "tog",
-      "too",
-      "tooth",
-      "tot",
-      "tough",
-      "tout"
+      "eerie",
+      "ent",
+      "enter",
+      "entire",
+      "ere",
+      "err",
+      "eve",
+      "even",
+      "event",
+      "ever",
+      "ieee",
+      "inert",
+      "inner",
+      "intent",
+      "inter",
+      "internet",
+      "intervene",
+      "invert",
+      "invite",
+      "ire",
+      "nerve",
+      "net",
+      "never",
+      "nine",
+      "rent",
+      "retentive",
+      "retrieve",
+      "rev",
+      "reverent",
+      "reverie",
+      "revert",
+      "river",
+      "tee",
+      "teen",
+      "ten",
+      "tenet",
+      "tent",
+      "tie",
+      "tier",
+      "tire",
+      "titten",
+      "titter",
+      "tree",
+      "trite",
+      "veer",
+      "veneer",
+      "vent",
+      "ver",
+      "verve",
+      "vet",
+      "vie"
     ]
   }
 }

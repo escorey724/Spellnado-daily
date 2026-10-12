@@ -1,0 +1,239 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-12",
+  "puzzleIndex": 41,
+  "puzzle": {
+    "letters": "einrtv",
+    "required": "e",
+    "wordCount": 51,
+    "spangrams": [
+      "intervene",
+      "invert",
+      "retentive"
+    ],
+    "perfectSpangrams": [
+      "invert"
+    ],
+    "hints": {
+      "veneer": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an ornamental coating to an object consisting of a thin layer of superior wood glued to a base of inferior wood",
+            "example": "This _____ needs to dry a bit more."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to cover with veneer",
+            "example": "_____ the furniture to protect it."
+          }
+        ]
+      },
+      "rent": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "let for money",
+            "example": "We _____ our apartment to friends while we were abroad"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an opening made forcibly as by pulling apart",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of rending or ripping or splitting something",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "intent": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an anticipated outcome that is intended or that guides your planned actions",
+            "example": "Their _____ was to provide a new translation."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the intended meaning of a communication",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "giving or marked by complete attention to",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "river": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a large natural stream of water",
+            "example": "The _____ was navigable for 50 miles."
+          }
+        ]
+      },
+      "veer": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to turn sharply",
+            "example": "The car _____ suddenly."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to shift to a clockwise direction",
+            "example": "The wind _____."
+          }
+        ]
+      },
+      "event": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a special set of circumstances",
+            "example": "in that _____, the first possibility is excluded"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "something that happens at a given place and time",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a phenomenon located at a single point in space-time",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "nine": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the sum of eight and one",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of four playing cards in a deck with nine pips on the face",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a team of professional baseball players who play and travel together",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "revert": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "go back to a previous state",
+            "example": "We _____ to the old rules"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "undergo reversion, as in a mutation",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "inner": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "innermost or essential",
+            "example": "the _____ logic of Cubism"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "confined to an exclusive group",
+            "example": "privy to _____ knowledge"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "inside or closer to the inside of the body",
+            "example": "the _____ ear"
+          }
+        ]
+      },
+      "inert": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "slow and apathetic",
+            "example": "By the end of the week, I wanted nothing more than to sit _____ on the sofa."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "unable to move or resist motion",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "having only a limited ability to react chemically",
+            "example": "It was a _____ day."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "eerie",
+      "ent",
+      "enter",
+      "entire",
+      "ere",
+      "err",
+      "eve",
+      "even",
+      "event",
+      "ever",
+      "ieee",
+      "inert",
+      "inner",
+      "intent",
+      "inter",
+      "internet",
+      "intervene",
+      "invert",
+      "invite",
+      "ire",
+      "nerve",
+      "net",
+      "never",
+      "nine",
+      "rent",
+      "retentive",
+      "retrieve",
+      "rev",
+      "reverent",
+      "reverie",
+      "revert",
+      "river",
+      "tee",
+      "teen",
+      "ten",
+      "tenet",
+      "tent",
+      "tie",
+      "tier",
+      "tire",
+      "titten",
+      "titter",
+      "tree",
+      "trite",
+      "veer",
+      "veneer",
+      "vent",
+      "ver",
+      "verve",
+      "vet",
+      "vie"
+    ]
+  }
+}
