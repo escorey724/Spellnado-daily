@@ -1,0 +1,266 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-13",
+  "puzzleIndex": 42,
+  "puzzle": {
+    "letters": "daefnrst",
+    "required": "d",
+    "wordCount": 111,
+    "spangrams": [
+      "transferred"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "and": {
+        "senses": [
+          {
+            "partOfSpeech": "conjunction",
+            "definition": "A word that joins two things together.",
+            "example": "Peanut butter _____ jelly."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
+          }
+        ]
+      },
+      "read": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "To look at words and understand them.",
+            "example": "I like to _____ a book at night."
+          }
+        ]
+      },
+      "dated": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "marked by features of the immediate and usually discounted past",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "treated": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "given medical care or treatment",
+            "example": "a _____ cold is usually gone in 14 days"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "subjected to a physical (or chemical) treatment or action or agent",
+            "example": "the sludge of _____ sewage can be used as fertilizer"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "made hard or flexible or resilient especially by heat treatment",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "dates": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "sedate": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "cause to be calm or quiet as by administering a sedative to",
+            "example": "The patient must be sedated before the operation"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "characterized by dignity and propriety",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "dignified and somber in manner or character and committed to keeping promises",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "desert": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "leave behind",
+            "example": "the students _____ the campus after the end of exam period"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "desert (a cause, a country or an army), often in order to join the opposing cause, country, or army",
+            "example": "If soldiers _____ Hitler's army, they were shot"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "arid land with little or no vegetation",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "deaf": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "people who have severe hearing impairments",
+            "example": "many of the _____ use sign language"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make or render deaf",
+            "example": "a deafening noise"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "lacking or deprived of the sense of hearing wholly or in part",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "trader": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "someone who purchases and maintains an inventory of goods to be sold",
+            "example": "I am a _____ of luxury goods."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "ad",
+      "add",
+      "added",
+      "address",
+      "addressed",
+      "addresses",
+      "adds",
+      "ads",
+      "and",
+      "andreas",
+      "ardent",
+      "arrested",
+      "assessed",
+      "attend",
+      "attended",
+      "dad",
+      "dans",
+      "dare",
+      "das",
+      "dat",
+      "data",
+      "date",
+      "dated",
+      "dates",
+      "ddr",
+      "dead",
+      "deaf",
+      "dean",
+      "dear",
+      "deer",
+      "def",
+      "defeat",
+      "defend",
+      "defendant",
+      "defense",
+      "deferred",
+      "den",
+      "dense",
+      "der",
+      "des",
+      "desert",
+      "deter",
+      "deterrent",
+      "detest",
+      "dna",
+      "draft",
+      "dress",
+      "dressed",
+      "dresses",
+      "dts",
+      "earned",
+      "eden",
+      "eds",
+      "edt",
+      "end",
+      "ended",
+      "ends",
+      "entered",
+      "fad",
+      "fda",
+      "fed",
+      "feed",
+      "feeds",
+      "need",
+      "needed",
+      "needs",
+      "nested",
+      "rad",
+      "radar",
+      "rand",
+      "rated",
+      "read",
+      "reader",
+      "readers",
+      "reads",
+      "red",
+      "redress",
+      "reed",
+      "referred",
+      "rend",
+      "render",
+      "rendered",
+      "sad",
+      "sand",
+      "sedate",
+      "seed",
+      "seeds",
+      "send",
+      "sender",
+      "sends",
+      "serrated",
+      "stand",
+      "standard",
+      "standards",
+      "stands",
+      "started",
+      "stated",
+      "std",
+      "steadfast",
+      "strand",
+      "tad",
+      "tend",
+      "tender",
+      "tested",
+      "trade",
+      "trader",
+      "trades",
+      "transferred",
+      "treated",
+      "trend",
+      "trends"
+    ]
+  }
+}
