@@ -1,0 +1,215 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-14",
+  "puzzleIndex": 43,
+  "puzzle": {
+    "letters": "almnory",
+    "required": "a",
+    "wordCount": 45,
+    "spangrams": [
+      "normally"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "am": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "A form of the verb 'be' used with I.",
+            "example": "I _____ ready for school."
+          }
+        ]
+      },
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "alarm": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to fill with apprehension or alarm",
+            "example": "I don't mean to _____ you, but your car is on fire."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to warn or arouse to a sense of danger, or to call to a state of preparedness",
+            "example": "The empty house _____ me."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "fear resulting from the awareness of danger",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "yarn": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of giving an account describing incidents or a course of events",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "tell or spin a yarn",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "army": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a large number of people united for some specific purpose",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a permanent organization of the military land forces of a nation or state",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "moral": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the significance of a story or event",
+            "example": "the _____ of the story is to love thy neighbor"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "psychological rather than physical or tangible in effect",
+            "example": "a _____ victory"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles",
+            "example": "_____ sense"
+          }
+        ]
+      },
+      "mrna": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "alloy": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+            "example": "brass is an _____ of zinc and copper"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to lower in value by increasing the base-metal content",
+            "example": "Jewellers usually _____ their rings to make them stronger and more affordable."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the state of impairing the quality or reducing the value of something",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "rally": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the feat of mustering strength for a renewed effort",
+            "example": "The team started a _____ in the final minutes of the game."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an automobile race run over public roads",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a large gathering of people intended to arouse enthusiasm",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "alarm",
+      "all",
+      "alloy",
+      "am",
+      "an",
+      "anomaly",
+      "any",
+      "arm",
+      "armor",
+      "army",
+      "array",
+      "lam",
+      "lan",
+      "lay",
+      "loan",
+      "ma",
+      "mall",
+      "man",
+      "manor",
+      "many",
+      "mar",
+      "may",
+      "mayor",
+      "moa",
+      "moral",
+      "mrna",
+      "myanmar",
+      "nam",
+      "nano",
+      "nay",
+      "normal",
+      "normally",
+      "oar",
+      "oral",
+      "rally",
+      "ram",
+      "ran",
+      "ray",
+      "rna",
+      "roman",
+      "royal",
+      "yam",
+      "yarn",
+      "yay"
+    ]
+  }
+}
