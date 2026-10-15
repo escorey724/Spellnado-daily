@@ -1,0 +1,301 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-15",
+  "puzzleIndex": 44,
+  "puzzle": {
+    "letters": "taeginrv",
+    "required": "t",
+    "wordCount": 121,
+    "spangrams": [
+      "vegetarian"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "great": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Very good or important.",
+            "example": "You did a _____ job on that story."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Very large.",
+            "example": "A _____ wind knocked over the chair."
+          }
+        ]
+      },
+      "invite": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a colloquial expression for invitation",
+            "example": "We didn't get an _____ to the party."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "ask to enter",
+            "example": "We invited the neighbors in for a cup of coffee"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "have as a guest",
+            "example": "I invited them to a restaurant"
+          }
+        ]
+      },
+      "rate": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a magnitude or frequency relative to a time unit",
+            "example": "they traveled at a _____ of 55 miles per hour"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "amount of a charge or payment relative to some basis",
+            "example": "a 10-minute phone call at that _____ would cost $5"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a quantity or amount or measure considered as a proportion of another quantity or amount or measure",
+            "example": "the literacy _____"
+          }
+        ]
+      },
+      "teen": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "being of the age 13 through 19",
+            "example": "teenage mothers"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a juvenile between the onset of puberty and maturity",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "giant": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an unusually large enterprise",
+            "example": "Walton built a retail _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a very large person",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any creature of exceptional size",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "rant": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "pompous or pretentious talk or writing",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a loud bombastic declamation expressed with strong emotion",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "talk in a noisy, excited, or declamatory manner",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "titten": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "enter": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to come or go into",
+            "example": "the boat _____ an area of shallow marshes"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "come on stage",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make a record of",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "vent": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "give expression or utterance to",
+            "example": "They _____ their anger."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a hole for the escape of gas or air",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a slit in a garment (as in the back seam of a jacket)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "agent",
+      "aggregate",
+      "agitate",
+      "ant",
+      "antenna",
+      "anti",
+      "art",
+      "at",
+      "ata",
+      "ate",
+      "ati",
+      "avatar",
+      "eat",
+      "eating",
+      "enervate",
+      "ent",
+      "enter",
+      "entering",
+      "entertaining",
+      "entire",
+      "event",
+      "gate",
+      "generate",
+      "generating",
+      "get",
+      "getting",
+      "giant",
+      "git",
+      "grant",
+      "grating",
+      "great",
+      "greater",
+      "greeting",
+      "inert",
+      "ingratiate",
+      "initiate",
+      "initiative",
+      "innate",
+      "int",
+      "integer",
+      "integrate",
+      "integrating",
+      "intent",
+      "inter",
+      "internet",
+      "intervene",
+      "intranet",
+      "invert",
+      "inveterate",
+      "invite",
+      "irate",
+      "it",
+      "itinerant",
+      "narrative",
+      "native",
+      "navigate",
+      "negate",
+      "negative",
+      "net",
+      "nit",
+      "rant",
+      "rat",
+      "rate",
+      "rating",
+      "reiterate",
+      "rent",
+      "retain",
+      "retentive",
+      "retiring",
+      "retreat",
+      "retrieve",
+      "reverent",
+      "revert",
+      "riveting",
+      "tag",
+      "taint",
+      "tan",
+      "tanner",
+      "tar",
+      "target",
+      "tat",
+      "tea",
+      "tear",
+      "tee",
+      "teen",
+      "teenage",
+      "ten",
+      "tenant",
+      "tenet",
+      "tent",
+      "tentative",
+      "terrain",
+      "tie",
+      "tier",
+      "tiger",
+      "tin",
+      "tinge",
+      "tire",
+      "titten",
+      "titter",
+      "train",
+      "trainer",
+      "training",
+      "treat",
+      "treating",
+      "tree",
+      "tri",
+      "trigger",
+      "trite",
+      "trivia",
+      "vagrant",
+      "vat",
+      "vegetarian",
+      "vegetate",
+      "venerate",
+      "vent",
+      "vet",
+      "veteran",
+      "vignette",
+      "vintage",
+      "vitiate"
+    ]
+  }
+}
