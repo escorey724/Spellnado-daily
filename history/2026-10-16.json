@@ -1,0 +1,258 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-16",
+  "puzzleIndex": 45,
+  "puzzle": {
+    "letters": "ocdeintu",
+    "required": "o",
+    "wordCount": 88,
+    "spangrams": [
+      "continued"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "not": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used to say no, or the opposite.",
+            "example": "I am _____ tired yet."
+          }
+        ]
+      },
+      "onion": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
+          }
+        ]
+      },
+      "to": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "Toward a place, person, or goal.",
+            "example": "We walked _____ the library."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used before a verb to mean 'in order to'.",
+            "example": "I want _____ play outside."
+          }
+        ]
+      },
+      "node": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "any thickened enlargement",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the source of lymph and lymphocytes",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a connecting point at which several lines come together",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "conceit": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an artistic device or effect",
+            "example": "the architect's brilliant _____ was to build the house around the tree"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a witty or ingenious turn of phrase",
+            "example": "They could always come up with some inspired off-the-wall _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "feelings of excessive pride",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tion": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "notice": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a short critical review",
+            "example": "the play received good _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "polite or favorable attention",
+            "example": "My hard working child soon attracted the teacher's _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of noticing or paying attention",
+            "example": "They escaped the _____ of the police."
+          }
+        ]
+      },
+      "union": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of making or becoming a single unit",
+            "example": "The _____ of opposing factions came as a surprise to many."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the occurrence of a uniting of separate parts",
+            "example": "Lightning produced an unusual _____ of the metals."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the state of being joined or united or linked",
+            "example": "There is strength in _____."
+          }
+        ]
+      },
+      "code": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to convert ordinary language into code",
+            "example": "We should _____ the message for security reasons."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a set of rules or principles or laws (especially written ones)",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a coding system used for transmitting messages requiring brevity or secrecy",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tuition": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a fee paid for instruction (especially for higher education)",
+            "example": "_____ and room and board were more than $25,000"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "teaching pupils individually, usually by a tutor hired privately",
+            "example": "As our child was falling behind in school, we started _____."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "ceo",
+      "cio",
+      "cod",
+      "code",
+      "coin",
+      "coincide",
+      "con",
+      "concede",
+      "conceit",
+      "concoct",
+      "condition",
+      "condo",
+      "condone",
+      "conduct",
+      "conducted",
+      "connect",
+      "connected",
+      "connection",
+      "contend",
+      "content",
+      "continent",
+      "continue",
+      "continued",
+      "coo",
+      "cot",
+      "cotton",
+      "count",
+      "counted",
+      "denounce",
+      "detection",
+      "do",
+      "doc",
+      "dod",
+      "doe",
+      "don",
+      "done",
+      "dont",
+      "dot",
+      "dote",
+      "duo",
+      "eco",
+      "edition",
+      "eon",
+      "icon",
+      "induction",
+      "innocent",
+      "innuendo",
+      "intention",
+      "into",
+      "ion",
+      "neo",
+      "neon",
+      "nintendo",
+      "no",
+      "nod",
+      "node",
+      "non",
+      "none",
+      "noon",
+      "not",
+      "note",
+      "noted",
+      "notice",
+      "noticed",
+      "notion",
+      "oct",
+      "odd",
+      "ode",
+      "oecd",
+      "on",
+      "once",
+      "one",
+      "onion",
+      "onto",
+      "ooo",
+      "out",
+      "tion",
+      "to",
+      "toe",
+      "ton",
+      "tone",
+      "too",
+      "tot",
+      "tout",
+      "tuition",
+      "undo",
+      "union",
+      "unto"
+    ]
+  }
+}
