@@ -1,35 +1,19 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-16",
-  "puzzleIndex": 45,
+  "date": "2026-10-17",
+  "puzzleIndex": 46,
   "puzzle": {
-    "letters": "ocdeintu",
+    "letters": "odehmst",
     "required": "o",
-    "wordCount": 88,
+    "wordCount": 68,
     "spangrams": [
-      "continued"
+      "methods"
     ],
-    "perfectSpangrams": [],
+    "perfectSpangrams": [
+      "methods"
+    ],
     "hints": {
-      "not": {
-        "senses": [
-          {
-            "partOfSpeech": "adverb",
-            "definition": "Used to say no, or the opposite.",
-            "example": "I am _____ tired yet."
-          }
-        ]
-      },
-      "onion": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "A round vegetable with layers that can make your eyes water.",
-            "example": "She chopped an _____ for the soup."
-          }
-        ]
-      },
       "to": {
         "senses": [
           {
@@ -44,45 +28,117 @@
           }
         ]
       },
-      "node": {
+      "method": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "any thickened enlargement",
+            "definition": "a way of doing something, especially a systematic way",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the source of lymph and lymphocytes",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a connecting point at which several lines come together",
+            "definition": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "conceit": {
+      "dose": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "an artistic device or effect",
-            "example": "the architect's brilliant _____ was to build the house around the tree"
+            "definition": "the quantity of an active agent, substance, or radiation taken in or absorbed at any one time",
+            "example": "Be careful not to take more or less than the prescribed _____."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a witty or ingenious turn of phrase",
-            "example": "They could always come up with some inspired off-the-wall _____."
+            "definition": "street name for lysergic acid diethylamide",
+            "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "feelings of excessive pride",
+            "definition": "a measured portion of medicine taken at any one time",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "tion": {
+      "hosts": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "mode": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a particular functioning condition or arrangement",
+            "example": "switched from keyboard to voice _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "how something is done or how it happens",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the most frequent value of a random variable",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tome": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a (usually) large and scholarly book",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "those": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "modems": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "doom": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an unpleasant or disastrous destiny",
+            "example": "everyone was aware of the approaching _____ but was helpless to avoid it"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make certain of the failure or destruction of",
+            "example": "This decision will _____ me to lose my position"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "decree or designate beforehand",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "does": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -91,168 +147,77 @@
           }
         ],
         "generic": true
-      },
-      "notice": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a short critical review",
-            "example": "the play received good _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "polite or favorable attention",
-            "example": "My hard working child soon attracted the teacher's _____."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of noticing or paying attention",
-            "example": "They escaped the _____ of the police."
-          }
-        ]
-      },
-      "union": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of making or becoming a single unit",
-            "example": "The _____ of opposing factions came as a surprise to many."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the occurrence of a uniting of separate parts",
-            "example": "Lightning produced an unusual _____ of the metals."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the state of being joined or united or linked",
-            "example": "There is strength in _____."
-          }
-        ]
-      },
-      "code": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "to convert ordinary language into code",
-            "example": "We should _____ the message for security reasons."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a set of rules or principles or laws (especially written ones)",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a coding system used for transmitting messages requiring brevity or secrecy",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "tuition": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a fee paid for instruction (especially for higher education)",
-            "example": "_____ and room and board were more than $25,000"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "teaching pupils individually, usually by a tutor hired privately",
-            "example": "As our child was falling behind in school, we started _____."
-          }
-        ]
       }
     },
     "answers": [
-      "ceo",
-      "cio",
-      "cod",
-      "code",
-      "coin",
-      "coincide",
-      "con",
-      "concede",
-      "conceit",
-      "concoct",
-      "condition",
-      "condo",
-      "condone",
-      "conduct",
-      "conducted",
-      "connect",
-      "connected",
-      "connection",
-      "contend",
-      "content",
-      "continent",
-      "continue",
-      "continued",
-      "coo",
-      "cot",
-      "cotton",
-      "count",
-      "counted",
-      "denounce",
-      "detection",
+      "demo",
       "do",
-      "doc",
       "dod",
       "doe",
-      "don",
-      "done",
-      "dont",
+      "does",
+      "dom",
+      "dome",
+      "doom",
+      "dos",
+      "dose",
       "dot",
       "dote",
-      "duo",
-      "eco",
-      "edition",
-      "eon",
-      "icon",
-      "induction",
-      "innocent",
-      "innuendo",
-      "intention",
-      "into",
-      "ion",
-      "neo",
-      "neon",
-      "nintendo",
-      "no",
-      "nod",
-      "node",
-      "non",
-      "none",
-      "noon",
-      "not",
-      "note",
-      "noted",
-      "notice",
-      "noticed",
-      "notion",
-      "oct",
+      "eos",
+      "ho",
+      "hod",
+      "hoe",
+      "home",
+      "homes",
+      "hood",
+      "hose",
+      "host",
+      "hosted",
+      "hosts",
+      "hot",
+      "hottest",
+      "memo",
+      "method",
+      "methods",
+      "mod",
+      "mode",
+      "modem",
+      "modems",
+      "modes",
+      "modest",
+      "mods",
+      "mom",
+      "moms",
+      "moo",
+      "mood",
+      "moss",
+      "most",
+      "motto",
       "odd",
+      "odds",
       "ode",
-      "oecd",
-      "on",
-      "once",
-      "one",
-      "onion",
-      "onto",
+      "oem",
+      "oh",
+      "ohm",
+      "ooh",
       "ooo",
-      "out",
-      "tion",
+      "shoe",
+      "shoes",
+      "shoot",
+      "shot",
+      "shots",
+      "smooth",
+      "so",
+      "sod",
+      "some",
+      "sot",
+      "stood",
+      "those",
       "to",
       "toe",
-      "ton",
-      "tone",
+      "tome",
       "too",
-      "tot",
-      "tout",
-      "tuition",
-      "undo",
-      "union",
-      "unto"
+      "tooth",
+      "tot"
     ]
   }
 }

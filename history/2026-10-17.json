@@ -1,0 +1,223 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-17",
+  "puzzleIndex": 46,
+  "puzzle": {
+    "letters": "odehmst",
+    "required": "o",
+    "wordCount": 68,
+    "spangrams": [
+      "methods"
+    ],
+    "perfectSpangrams": [
+      "methods"
+    ],
+    "hints": {
+      "to": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "Toward a place, person, or goal.",
+            "example": "We walked _____ the library."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used before a verb to mean 'in order to'.",
+            "example": "I want _____ play outside."
+          }
+        ]
+      },
+      "method": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a way of doing something, especially a systematic way",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "dose": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the quantity of an active agent, substance, or radiation taken in or absorbed at any one time",
+            "example": "Be careful not to take more or less than the prescribed _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "street name for lysergic acid diethylamide",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a measured portion of medicine taken at any one time",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "hosts": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "mode": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a particular functioning condition or arrangement",
+            "example": "switched from keyboard to voice _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "how something is done or how it happens",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the most frequent value of a random variable",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tome": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a (usually) large and scholarly book",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "those": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "modems": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "doom": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an unpleasant or disastrous destiny",
+            "example": "everyone was aware of the approaching _____ but was helpless to avoid it"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make certain of the failure or destruction of",
+            "example": "This decision will _____ me to lose my position"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "decree or designate beforehand",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "does": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "demo",
+      "do",
+      "dod",
+      "doe",
+      "does",
+      "dom",
+      "dome",
+      "doom",
+      "dos",
+      "dose",
+      "dot",
+      "dote",
+      "eos",
+      "ho",
+      "hod",
+      "hoe",
+      "home",
+      "homes",
+      "hood",
+      "hose",
+      "host",
+      "hosted",
+      "hosts",
+      "hot",
+      "hottest",
+      "memo",
+      "method",
+      "methods",
+      "mod",
+      "mode",
+      "modem",
+      "modems",
+      "modes",
+      "modest",
+      "mods",
+      "mom",
+      "moms",
+      "moo",
+      "mood",
+      "moss",
+      "most",
+      "motto",
+      "odd",
+      "odds",
+      "ode",
+      "oem",
+      "oh",
+      "ohm",
+      "ooh",
+      "ooo",
+      "shoe",
+      "shoes",
+      "shoot",
+      "shot",
+      "shots",
+      "smooth",
+      "so",
+      "sod",
+      "some",
+      "sot",
+      "stood",
+      "those",
+      "to",
+      "toe",
+      "tome",
+      "too",
+      "tooth",
+      "tot"
+    ]
+  }
+}
