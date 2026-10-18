@@ -1,223 +1,169 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-17",
-  "puzzleIndex": 46,
+  "date": "2026-10-18",
+  "puzzleIndex": 47,
   "puzzle": {
-    "letters": "odehmst",
+    "letters": "odhlwy",
     "required": "o",
-    "wordCount": 68,
+    "wordCount": 27,
     "spangrams": [
-      "methods"
+      "hollywood"
     ],
-    "perfectSpangrams": [
-      "methods"
-    ],
+    "perfectSpangrams": [],
     "hints": {
-      "to": {
-        "senses": [
-          {
-            "partOfSpeech": "preposition",
-            "definition": "Toward a place, person, or goal.",
-            "example": "We walked _____ the library."
-          },
-          {
-            "partOfSpeech": "adverb",
-            "definition": "Used before a verb to mean 'in order to'.",
-            "example": "I want _____ play outside."
-          }
-        ]
-      },
-      "method": {
+      "hood": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a way of doing something, especially a systematic way",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "dose": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the quantity of an active agent, substance, or radiation taken in or absorbed at any one time",
-            "example": "Be careful not to take more or less than the prescribed _____."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "street name for lysergic acid diethylamide",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a measured portion of medicine taken at any one time",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "hosts": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "mode": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a particular functioning condition or arrangement",
-            "example": "switched from keyboard to voice _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "how something is done or how it happens",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the most frequent value of a random variable",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "tome": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a (usually) large and scholarly book",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "those": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "modems": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 6-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ______"
-          }
-        ],
-        "generic": true
-      },
-      "doom": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an unpleasant or disastrous destiny",
-            "example": "everyone was aware of the approaching _____ but was helpless to avoid it"
+            "definition": "protective covering consisting of a metal part that covers the engine",
+            "example": "there are powerful engines under the _____ of new cars"
           },
           {
             "partOfSpeech": "verb",
-            "definition": "make certain of the failure or destruction of",
-            "example": "This decision will _____ me to lose my position"
+            "definition": "cover with a hood",
+            "example": "The bandits were _____"
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "decree or designate beforehand",
-            "example": "They will _____ after lunch."
+            "partOfSpeech": "noun",
+            "definition": "the folding roof of a carriage",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "does": {
+      "holy": {
         "senses": [
           {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
+            "partOfSpeech": "noun",
+            "definition": "a sacred place of pilgrimage",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "belonging to or derived from or associated with a divine power",
+            "example": "It was a _____ day."
           }
-        ],
-        "generic": true
+        ]
+      },
+      "wool": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "fiber sheared from animals, such as sheep, and twisted into yarn for weaving",
+            "example": "My new sweater was made of _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a fabric made from the hair of sheep",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "outer coat of especially sheep and yaks",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "doll": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a small replica of a person",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "informal terms for a (young) woman",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "wood": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a golf club with a long shaft used to hit long shots",
+            "example": "originally made with a wooden head"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any wind instrument other than the brass instruments",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the trees and other plants in a large densely wooded area",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "hollow": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a cavity or space in something",
+            "example": "hunger had caused the _____ in their cheeks"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a small valley between mountains",
+            "example": "I built myself a cabin in a _____ high up in the Appalachians."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "remove the interior of",
+            "example": "_____ out a tree trunk"
+          }
+        ]
+      },
+      "hold": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "power by which something or someone is affected or dominated",
+            "example": "The emperor has a _____ over them."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "have room for",
+            "example": "_____ without crowding"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "assert or affirm",
+            "example": "Rousseau's philosophy _____ that people are inherently good"
+          }
+        ]
       }
     },
     "answers": [
-      "demo",
       "do",
       "dod",
-      "doe",
-      "does",
-      "dom",
-      "dome",
-      "doom",
-      "dos",
-      "dose",
-      "dot",
-      "dote",
-      "eos",
+      "doll",
       "ho",
       "hod",
-      "hoe",
-      "home",
-      "homes",
+      "hold",
+      "hollow",
+      "hollywood",
+      "holy",
       "hood",
-      "hose",
-      "host",
-      "hosted",
-      "hosts",
-      "hot",
-      "hottest",
-      "memo",
-      "method",
-      "methods",
-      "mod",
-      "mode",
-      "modem",
-      "modems",
-      "modes",
-      "modest",
-      "mods",
-      "mom",
-      "moms",
-      "moo",
-      "mood",
-      "moss",
-      "most",
-      "motto",
+      "how",
+      "lol",
+      "loo",
+      "low",
       "odd",
-      "odds",
-      "ode",
-      "oem",
       "oh",
-      "ohm",
+      "old",
       "ooh",
       "ooo",
-      "shoe",
-      "shoes",
-      "shoot",
-      "shot",
-      "shots",
-      "smooth",
-      "so",
-      "sod",
-      "some",
-      "sot",
-      "stood",
-      "those",
-      "to",
-      "toe",
-      "tome",
-      "too",
-      "tooth",
-      "tot"
+      "ow",
+      "owl",
+      "who",
+      "woo",
+      "wood",
+      "wool",
+      "wow",
+      "yow"
     ]
   }
 }
