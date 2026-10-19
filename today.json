@@ -1,169 +1,235 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-18",
-  "puzzleIndex": 47,
+  "date": "2026-10-19",
+  "puzzleIndex": 48,
   "puzzle": {
-    "letters": "odhlwy",
+    "letters": "ocfilpr",
     "required": "o",
-    "wordCount": 27,
+    "wordCount": 46,
     "spangrams": [
-      "hollywood"
+      "prolific"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "hood": {
+      "proof": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "protective covering consisting of a metal part that covers the engine",
-            "example": "there are powerful engines under the _____ of new cars"
+            "definition": "any factual evidence that helps to establish the truth of something",
+            "example": "if you have any _____ for what you say, now is the time to produce it"
           },
           {
             "partOfSpeech": "verb",
-            "definition": "cover with a hood",
-            "example": "The bandits were _____"
+            "definition": "read for errors",
+            "example": "I should proofread my manuscripts"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make resistant to harm",
+            "example": "We _____ the materials against shrinking in the dryer."
+          }
+        ]
+      },
+      "foil": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a piece of thin and flexible sheet metal",
+            "example": "the photographic film was wrapped in _____"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the folding roof of a carriage",
+            "definition": "anything that serves by contrast to call attention to another thing's good qualities",
+            "example": "pretty girls like plain friends as _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through",
+            "example": "the fins of a fish act as hydrofoils"
+          }
+        ]
+      },
+      "fool": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who lacks good judgment",
+            "example": "I'm a _____ for you."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a dessert made by combining custard and a fruit puree",
+            "example": "Dessert will be a strawberry _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a professional clown employed to entertain a king or nobleman in the Middle Ages",
+            "example": "The _____ entertained the court."
+          }
+        ]
+      },
+      "roil": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "be agitated",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make turbid by stirring up the sediments of",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "cool": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "great coolness and composure under strain",
+            "example": "keep your _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the quality of being at a refreshingly low temperature",
+            "example": "the _____ of early morning"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to loose heat",
+            "example": "The air _____ considerably after the thunderstorm"
+          }
+        ]
+      },
+      "floor": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a lower limit",
+            "example": "the government established a wage _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the occupants of a floor",
+            "example": "the whole _____ complained about the lack of heat"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the parliamentary right to address an assembly",
+            "example": "The chair granted the speaker the _____."
+          }
+        ]
+      },
+      "corp": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a business firm whose articles of incorporation have been approved in some state",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "holy": {
+      "poll": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "convert into a pollard",
+            "example": "pollard trees"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a tame parrot",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the top of the head",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "color": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a sacred place of pilgrimage",
-            "example": "The _____ was easy to notice."
+            "definition": "the timbre of a musical sound",
+            "example": "The recording fails to capture the true _____ of the original music."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any material used for its color",
+            "example": "I used a different _____ for the trim."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "interest and variety and intensity",
+            "example": "The Puritan Period was lacking in _____."
+          }
+        ]
+      },
+      "prior": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the head of a religious order",
+            "example": "in an abbey the _____ is next below the abbot"
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "belonging to or derived from or associated with a divine power",
+            "definition": "earlier in time",
             "example": "It was a _____ day."
-          }
-        ]
-      },
-      "wool": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "fiber sheared from animals, such as sheep, and twisted into yarn for weaving",
-            "example": "My new sweater was made of _____."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a fabric made from the hair of sheep",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "outer coat of especially sheep and yaks",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "doll": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a small replica of a person",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "informal terms for a (young) woman",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "wood": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a golf club with a long shaft used to hit long shots",
-            "example": "originally made with a wooden head"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "any wind instrument other than the brass instruments",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the trees and other plants in a large densely wooded area",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "hollow": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a cavity or space in something",
-            "example": "hunger had caused the _____ in their cheeks"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a small valley between mountains",
-            "example": "I built myself a cabin in a _____ high up in the Appalachians."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "remove the interior of",
-            "example": "_____ out a tree trunk"
-          }
-        ]
-      },
-      "hold": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "power by which something or someone is affected or dominated",
-            "example": "The emperor has a _____ over them."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "have room for",
-            "example": "_____ without crowding"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "assert or affirm",
-            "example": "Rousseau's philosophy _____ that people are inherently good"
           }
         ]
       }
     },
     "answers": [
-      "do",
-      "dod",
-      "doll",
-      "ho",
-      "hod",
-      "hold",
-      "hollow",
-      "hollywood",
-      "holy",
-      "hood",
-      "how",
+      "cio",
+      "col",
+      "color",
+      "coo",
+      "cool",
+      "cop",
+      "corp",
+      "crop",
+      "floor",
+      "foil",
+      "foo",
+      "fool",
+      "fop",
+      "for",
+      "fro",
+      "loc",
       "lol",
       "loo",
-      "low",
-      "odd",
-      "oh",
-      "old",
-      "ooh",
+      "loop",
+      "lop",
+      "oclc",
+      "of",
+      "off",
+      "oil",
       "ooo",
-      "ow",
-      "owl",
-      "who",
-      "woo",
-      "wood",
-      "wool",
-      "wow",
-      "yow"
+      "or",
+      "orc",
+      "poi",
+      "pol",
+      "poll",
+      "polo",
+      "pool",
+      "poor",
+      "pop",
+      "por",
+      "prior",
+      "pro",
+      "proc",
+      "prolific",
+      "proof",
+      "rico",
+      "rio",
+      "rococo",
+      "roil",
+      "roll",
+      "roof"
     ]
   }
 }
