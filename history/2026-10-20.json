@@ -1,0 +1,203 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-20",
+  "puzzleIndex": 49,
+  "puzzle": {
+    "letters": "eglmnou",
+    "required": "e",
+    "wordCount": 39,
+    "spangrams": [
+      "monologue"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "leone": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the basic unit of money in Sierra Leone",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "memo": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a written proposal or reminder",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "genome": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the ordering of genes in a haploid set of chromosomes of a particular organism",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "gouge": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "force with the thumb",
+            "example": "I gouged out their eyes in self defense."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of gouging",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an impression in a surface (as made by a blow)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "gone": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "dead",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "well in the past",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "no longer retained",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "melee": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to attack with the hands or handheld not projectile weapon, typically in video games",
+            "example": "I meleed my friend ten times in a row."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a noisy riotous fight",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "ogle": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "look at with amorous intentions",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "lounge": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an upholstered seat for more than one person",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a room (as in a hotel or airport) with seating where people can wait",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "be about",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "lone": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "being the only one",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "lacking companions or companionship",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "characterized by or preferring solitude",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "menu": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an agenda of things to do",
+            "example": "they worked rapidly down the _____ of reports"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a list of dishes available at a restaurant",
+            "example": "the _____ was in French"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the dishes making up a meal",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "eel",
+      "egg",
+      "ego",
+      "elm",
+      "emu",
+      "eng",
+      "eon",
+      "gee",
+      "gel",
+      "gem",
+      "gen",
+      "gene",
+      "genome",
+      "glen",
+      "gnome",
+      "gone",
+      "google",
+      "gouge",
+      "lee",
+      "leg",
+      "lemon",
+      "leone",
+      "leu",
+      "lone",
+      "lounge",
+      "me",
+      "melee",
+      "mem",
+      "memo",
+      "men",
+      "menu",
+      "monologue",
+      "neo",
+      "neon",
+      "none",
+      "oem",
+      "ogle",
+      "one",
+      "une"
+    ]
+  }
+}

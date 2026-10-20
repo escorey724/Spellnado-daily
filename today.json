@@ -1,235 +1,203 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-19",
-  "puzzleIndex": 48,
+  "date": "2026-10-20",
+  "puzzleIndex": 49,
   "puzzle": {
-    "letters": "ocfilpr",
-    "required": "o",
-    "wordCount": 46,
+    "letters": "eglmnou",
+    "required": "e",
+    "wordCount": 39,
     "spangrams": [
-      "prolific"
+      "monologue"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "proof": {
+      "leone": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "any factual evidence that helps to establish the truth of something",
-            "example": "if you have any _____ for what you say, now is the time to produce it"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "read for errors",
-            "example": "I should proofread my manuscripts"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "make resistant to harm",
-            "example": "We _____ the materials against shrinking in the dryer."
-          }
-        ]
-      },
-      "foil": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a piece of thin and flexible sheet metal",
-            "example": "the photographic film was wrapped in _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "anything that serves by contrast to call attention to another thing's good qualities",
-            "example": "pretty girls like plain friends as _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through",
-            "example": "the fins of a fish act as hydrofoils"
-          }
-        ]
-      },
-      "fool": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a person who lacks good judgment",
-            "example": "I'm a _____ for you."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a dessert made by combining custard and a fruit puree",
-            "example": "Dessert will be a strawberry _____."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a professional clown employed to entertain a king or nobleman in the Middle Ages",
-            "example": "The _____ entertained the court."
-          }
-        ]
-      },
-      "roil": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "be agitated",
-            "example": "They will _____ after lunch."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "make turbid by stirring up the sediments of",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "cool": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "great coolness and composure under strain",
-            "example": "keep your _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the quality of being at a refreshingly low temperature",
-            "example": "the _____ of early morning"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to loose heat",
-            "example": "The air _____ considerably after the thunderstorm"
-          }
-        ]
-      },
-      "floor": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a lower limit",
-            "example": "the government established a wage _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the occupants of a floor",
-            "example": "the whole _____ complained about the lack of heat"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the parliamentary right to address an assembly",
-            "example": "The chair granted the speaker the _____."
-          }
-        ]
-      },
-      "corp": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a business firm whose articles of incorporation have been approved in some state",
+            "definition": "the basic unit of money in Sierra Leone",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "poll": {
+      "memo": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a written proposal or reminder",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "genome": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the ordering of genes in a haploid set of chromosomes of a particular organism",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "gouge": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "convert into a pollard",
-            "example": "pollard trees"
+            "definition": "force with the thumb",
+            "example": "I gouged out their eyes in self defense."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a tame parrot",
+            "definition": "the act of gouging",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the top of the head",
+            "definition": "an impression in a surface (as made by a blow)",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "color": {
+      "gone": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "the timbre of a musical sound",
-            "example": "The recording fails to capture the true _____ of the original music."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "any material used for its color",
-            "example": "I used a different _____ for the trim."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "interest and variety and intensity",
-            "example": "The Puritan Period was lacking in _____."
-          }
-        ]
-      },
-      "prior": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the head of a religious order",
-            "example": "in an abbey the _____ is next below the abbot"
+            "partOfSpeech": "adjective",
+            "definition": "dead",
+            "example": "It was a _____ day."
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "earlier in time",
+            "definition": "well in the past",
             "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "no longer retained",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "melee": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to attack with the hands or handheld not projectile weapon, typically in video games",
+            "example": "I meleed my friend ten times in a row."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a noisy riotous fight",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "ogle": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "look at with amorous intentions",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "lounge": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an upholstered seat for more than one person",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a room (as in a hotel or airport) with seating where people can wait",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "be about",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "lone": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "being the only one",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "lacking companions or companionship",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "characterized by or preferring solitude",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "menu": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an agenda of things to do",
+            "example": "they worked rapidly down the _____ of reports"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a list of dishes available at a restaurant",
+            "example": "the _____ was in French"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the dishes making up a meal",
+            "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "cio",
-      "col",
-      "color",
-      "coo",
-      "cool",
-      "cop",
-      "corp",
-      "crop",
-      "floor",
-      "foil",
-      "foo",
-      "fool",
-      "fop",
-      "for",
-      "fro",
-      "loc",
-      "lol",
-      "loo",
-      "loop",
-      "lop",
-      "oclc",
-      "of",
-      "off",
-      "oil",
-      "ooo",
-      "or",
-      "orc",
-      "poi",
-      "pol",
-      "poll",
-      "polo",
-      "pool",
-      "poor",
-      "pop",
-      "por",
-      "prior",
-      "pro",
-      "proc",
-      "prolific",
-      "proof",
-      "rico",
-      "rio",
-      "rococo",
-      "roil",
-      "roll",
-      "roof"
+      "eel",
+      "egg",
+      "ego",
+      "elm",
+      "emu",
+      "eng",
+      "eon",
+      "gee",
+      "gel",
+      "gem",
+      "gen",
+      "gene",
+      "genome",
+      "glen",
+      "gnome",
+      "gone",
+      "google",
+      "gouge",
+      "lee",
+      "leg",
+      "lemon",
+      "leone",
+      "leu",
+      "lone",
+      "lounge",
+      "me",
+      "melee",
+      "mem",
+      "memo",
+      "men",
+      "menu",
+      "monologue",
+      "neo",
+      "neon",
+      "none",
+      "oem",
+      "ogle",
+      "one",
+      "une"
     ]
   }
 }
