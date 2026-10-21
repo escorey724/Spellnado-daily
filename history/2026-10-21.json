@@ -1,0 +1,194 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-21",
+  "puzzleIndex": 50,
+  "puzzle": {
+    "letters": "ocfgintu",
+    "required": "o",
+    "wordCount": 57,
+    "spangrams": [
+      "functioning"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "not": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used to say no, or the opposite.",
+            "example": "I am _____ tired yet."
+          }
+        ]
+      },
+      "onion": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
+          }
+        ]
+      },
+      "to": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "Toward a place, person, or goal.",
+            "example": "We walked _____ the library."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used before a verb to mean 'in order to'.",
+            "example": "I want _____ play outside."
+          }
+        ]
+      },
+      "notion": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an odd or fanciful or capricious idea",
+            "example": "The theatrical _____ of disguise is associated with disaster in their stories."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a general inclusive concept",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a vague idea in which some confidence is placed",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "config": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "tion": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "info": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a message received and understood",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "icon": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a conventional religious painting in oil on a small wooden panel",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "font": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "bowl for baptismal water",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a specific size and style of type within a type family",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "goto": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "cio",
+      "cog",
+      "coin",
+      "con",
+      "concoct",
+      "conf",
+      "config",
+      "congo",
+      "continuing",
+      "coo",
+      "cot",
+      "cotton",
+      "count",
+      "counting",
+      "fiction",
+      "fog",
+      "font",
+      "foo",
+      "foot",
+      "foto",
+      "function",
+      "functioning",
+      "go",
+      "going",
+      "goo",
+      "got",
+      "goto",
+      "icon",
+      "info",
+      "into",
+      "ion",
+      "no",
+      "nog",
+      "non",
+      "noon",
+      "not",
+      "notion",
+      "oct",
+      "of",
+      "off",
+      "oft",
+      "on",
+      "ongoing",
+      "onion",
+      "onto",
+      "ooo",
+      "out",
+      "tion",
+      "to",
+      "tog",
+      "ton",
+      "too",
+      "tot",
+      "tout",
+      "tuition",
+      "union",
+      "unto"
+    ]
+  }
+}

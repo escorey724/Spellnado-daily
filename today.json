@@ -1,203 +1,194 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-20",
-  "puzzleIndex": 49,
+  "date": "2026-10-21",
+  "puzzleIndex": 50,
   "puzzle": {
-    "letters": "eglmnou",
-    "required": "e",
-    "wordCount": 39,
+    "letters": "ocfgintu",
+    "required": "o",
+    "wordCount": 57,
     "spangrams": [
-      "monologue"
+      "functioning"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "leone": {
+      "not": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "the basic unit of money in Sierra Leone",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "adverb",
+            "definition": "Used to say no, or the opposite.",
+            "example": "I am _____ tired yet."
           }
         ]
       },
-      "memo": {
+      "onion": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a written proposal or reminder",
-            "example": "The _____ was easy to notice."
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
           }
         ]
       },
-      "genome": {
+      "to": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "Toward a place, person, or goal.",
+            "example": "We walked _____ the library."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used before a verb to mean 'in order to'.",
+            "example": "I want _____ play outside."
+          }
+        ]
+      },
+      "notion": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the ordering of genes in a haploid set of chromosomes of a particular organism",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "gouge": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "force with the thumb",
-            "example": "I gouged out their eyes in self defense."
+            "definition": "an odd or fanciful or capricious idea",
+            "example": "The theatrical _____ of disguise is associated with disaster in their stories."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the act of gouging",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an impression in a surface (as made by a blow)",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "gone": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "dead",
-            "example": "It was a _____ day."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "well in the past",
-            "example": "It was a _____ day."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "no longer retained",
-            "example": "It was a _____ day."
-          }
-        ]
-      },
-      "melee": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "to attack with the hands or handheld not projectile weapon, typically in video games",
-            "example": "I meleed my friend ten times in a row."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a noisy riotous fight",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "ogle": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "look at with amorous intentions",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "lounge": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an upholstered seat for more than one person",
+            "definition": "a general inclusive concept",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a room (as in a hotel or airport) with seating where people can wait",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "be about",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "lone": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "being the only one",
-            "example": "It was a _____ day."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "lacking companions or companionship",
-            "example": "It was a _____ day."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "characterized by or preferring solitude",
-            "example": "It was a _____ day."
-          }
-        ]
-      },
-      "menu": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an agenda of things to do",
-            "example": "they worked rapidly down the _____ of reports"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a list of dishes available at a restaurant",
-            "example": "the _____ was in French"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the dishes making up a meal",
+            "definition": "a vague idea in which some confidence is placed",
             "example": "The _____ was easy to notice."
           }
         ]
+      },
+      "config": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      },
+      "tion": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "info": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a message received and understood",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "icon": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a conventional religious painting in oil on a small wooden panel",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "font": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "bowl for baptismal water",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a specific size and style of type within a type family",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "goto": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
       }
     },
     "answers": [
-      "eel",
-      "egg",
-      "ego",
-      "elm",
-      "emu",
-      "eng",
-      "eon",
-      "gee",
-      "gel",
-      "gem",
-      "gen",
-      "gene",
-      "genome",
-      "glen",
-      "gnome",
-      "gone",
-      "google",
-      "gouge",
-      "lee",
-      "leg",
-      "lemon",
-      "leone",
-      "leu",
-      "lone",
-      "lounge",
-      "me",
-      "melee",
-      "mem",
-      "memo",
-      "men",
-      "menu",
-      "monologue",
-      "neo",
-      "neon",
-      "none",
-      "oem",
-      "ogle",
-      "one",
-      "une"
+      "cio",
+      "cog",
+      "coin",
+      "con",
+      "concoct",
+      "conf",
+      "config",
+      "congo",
+      "continuing",
+      "coo",
+      "cot",
+      "cotton",
+      "count",
+      "counting",
+      "fiction",
+      "fog",
+      "font",
+      "foo",
+      "foot",
+      "foto",
+      "function",
+      "functioning",
+      "go",
+      "going",
+      "goo",
+      "got",
+      "goto",
+      "icon",
+      "info",
+      "into",
+      "ion",
+      "no",
+      "nog",
+      "non",
+      "noon",
+      "not",
+      "notion",
+      "oct",
+      "of",
+      "off",
+      "oft",
+      "on",
+      "ongoing",
+      "onion",
+      "onto",
+      "ooo",
+      "out",
+      "tion",
+      "to",
+      "tog",
+      "ton",
+      "too",
+      "tot",
+      "tout",
+      "tuition",
+      "union",
+      "unto"
     ]
   }
 }
