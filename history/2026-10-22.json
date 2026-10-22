@@ -1,0 +1,213 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-22",
+  "puzzleIndex": 51,
+  "puzzle": {
+    "letters": "ademru",
+    "required": "a",
+    "wordCount": 34,
+    "spangrams": [
+      "marauder"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "am": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "A form of the verb 'be' used with I.",
+            "example": "I _____ ready for school."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
+          }
+        ]
+      },
+      "read": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "To look at words and understand them.",
+            "example": "I like to _____ a book at night."
+          }
+        ]
+      },
+      "rare": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "having low density",
+            "example": "_____ gasses"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not widely distributed",
+            "example": "_____ herbs"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "of meat, cooked a short time",
+            "example": "I ordered my steak cooked _____."
+          }
+        ]
+      },
+      "dare": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a challenge to do something dangerous or foolhardy",
+            "example": "I could never refuse a _____."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "challenge",
+            "example": "I _____ you!"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to be courageous enough to try or do something",
+            "example": "I _____ to dress differently from the others \u2013 it gives me a unique style."
+          }
+        ]
+      },
+      "dame": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a woman of refinement",
+            "example": "She's a real _____!"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "informal term for a woman",
+            "example": "Where are you meeting the _____?"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a title equivalent to knighthood in Britain and some derived honours systems",
+            "example": "They were appointed a _____ last year."
+          }
+        ]
+      },
+      "area": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a subject of study",
+            "example": "The doctor's _____ of expertise was in cardiovascular health."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the extent of a 2-dimensional surface enclosed within a boundary",
+            "example": "the _____ of a rectangle"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a part of a structure having some specific characteristic or function",
+            "example": "the spacious cooking _____ provided plenty of room for servants"
+          }
+        ]
+      },
+      "rear": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the back of a military formation or procession",
+            "example": "infantrymen were in the _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the side of an object that is opposite its front",
+            "example": "My room was toward the _____ of the hotel."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "stand up on the hind legs, of quadrupeds",
+            "example": "The horse _____ in terror"
+          }
+        ]
+      },
+      "reader": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who can read",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who enjoys reading",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a public lecturer at certain universities",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "ad",
+      "add",
+      "added",
+      "am",
+      "are",
+      "area",
+      "arm",
+      "armed",
+      "aud",
+      "dad",
+      "dam",
+      "dame",
+      "dare",
+      "dead",
+      "dear",
+      "drama",
+      "dream",
+      "ear",
+      "eau",
+      "era",
+      "ma",
+      "mad",
+      "made",
+      "mar",
+      "marauder",
+      "marred",
+      "rad",
+      "radar",
+      "ram",
+      "rare",
+      "read",
+      "reader",
+      "rear"
+    ]
+  }
+}
