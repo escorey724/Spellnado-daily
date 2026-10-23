@@ -1,14 +1,14 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-22",
-  "puzzleIndex": 51,
+  "date": "2026-10-23",
+  "puzzleIndex": 52,
   "puzzle": {
-    "letters": "ademru",
+    "letters": "ainoprt",
     "required": "a",
-    "wordCount": 34,
+    "wordCount": 58,
     "spangrams": [
-      "marauder"
+      "partition"
     ],
     "perfectSpangrams": [],
     "hints": {
@@ -26,188 +26,183 @@
           }
         ]
       },
-      "am": {
+      "an": {
         "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "A form of the verb 'be' used with I.",
-            "example": "I _____ ready for school."
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
           }
         ]
       },
-      "dead": {
+      "at": {
         "senses": [
           {
-            "partOfSpeech": "adjective",
-            "definition": "No longer living.",
-            "example": "In fall, the _____ leaves blow across the yard."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "Not working or out of power.",
-            "example": "The flashlight is _____ because the batteries ran out."
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
           }
         ]
       },
-      "read": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "To look at words and understand them.",
-            "example": "I like to _____ a book at night."
-          }
-        ]
-      },
-      "rare": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "having low density",
-            "example": "_____ gasses"
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "not widely distributed",
-            "example": "_____ herbs"
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "of meat, cooked a short time",
-            "example": "I ordered my steak cooked _____."
-          }
-        ]
-      },
-      "dare": {
+      "rain": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a challenge to do something dangerous or foolhardy",
-            "example": "I could never refuse a _____."
+            "definition": "Water that falls from clouds.",
+            "example": "The _____ fell on the roof all afternoon."
           },
           {
             "partOfSpeech": "verb",
-            "definition": "challenge",
-            "example": "I _____ you!"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to be courageous enough to try or do something",
-            "example": "I _____ to dress differently from the others \u2013 it gives me a unique style."
+            "definition": "When water falls from the sky.",
+            "example": "It might _____ during the picnic."
           }
         ]
       },
-      "dame": {
+      "patio": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a woman of refinement",
-            "example": "She's a real _____!"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "informal term for a woman",
-            "example": "Where are you meeting the _____?"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a title equivalent to knighthood in Britain and some derived honours systems",
-            "example": "They were appointed a _____ last year."
+            "definition": "usually paved outdoor area adjoining a residence",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "area": {
+      "nato": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "a subject of study",
-            "example": "The doctor's _____ of expertise was in cardiovascular health."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the extent of a 2-dimensional surface enclosed within a boundary",
-            "example": "the _____ of a rectangle"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a part of a structure having some specific characteristic or function",
-            "example": "the spacious cooking _____ provided plenty of room for servants"
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
           }
-        ]
+        ],
+        "generic": true
       },
-      "rear": {
+      "rant": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the back of a military formation or procession",
-            "example": "infantrymen were in the _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the side of an object that is opposite its front",
-            "example": "My room was toward the _____ of the hotel."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "stand up on the hind legs, of quadrupeds",
-            "example": "The horse _____ in terror"
-          }
-        ]
-      },
-      "reader": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a person who can read",
+            "definition": "pompous or pretentious talk or writing",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a person who enjoys reading",
+            "definition": "a loud bombastic declamation expressed with strong emotion",
             "example": "The _____ was easy to notice."
           },
           {
+            "partOfSpeech": "verb",
+            "definition": "talk in a noisy, excited, or declamatory manner",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "ratio": {
+        "senses": [
+          {
             "partOfSpeech": "noun",
-            "definition": "a public lecturer at certain universities",
+            "definition": "the relation between things with respect to their comparative quantity, magnitude, or degree",
+            "example": "The _____ of the height and width of a square is 1."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the relative magnitudes of two quantities (usually expressed as a quotient)",
             "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "train": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a series of consequences wrought by an event",
+            "example": "it led to a _____ of disasters"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "piece of cloth forming the long back section of a gown that is drawn along the floor",
+            "example": "The _____ of the gown was carried by two young niblings."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+            "example": "express _____ don't stop at Princeton Junction"
+          }
+        ]
+      },
+      "anti": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who is opposed (to an action or policy or practice etc.)",
+            "example": "the _____ smelled victory after a long battle"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not in favor of (an action or proposal etc.)",
+            "example": "It was a _____ day."
           }
         ]
       }
     },
     "answers": [
       "a",
-      "ad",
-      "add",
-      "added",
-      "am",
-      "are",
-      "area",
-      "arm",
-      "armed",
-      "aud",
-      "dad",
-      "dam",
-      "dame",
-      "dare",
-      "dead",
-      "dear",
-      "drama",
-      "dream",
-      "ear",
-      "eau",
-      "era",
-      "ma",
-      "mad",
-      "made",
-      "mar",
-      "marauder",
-      "marred",
-      "rad",
-      "radar",
-      "ram",
-      "rare",
-      "read",
-      "reader",
-      "rear"
+      "air",
+      "airport",
+      "an",
+      "annotation",
+      "ant",
+      "anti",
+      "apart",
+      "apr",
+      "apt",
+      "art",
+      "at",
+      "ata",
+      "ati",
+      "iota",
+      "nano",
+      "nap",
+      "nation",
+      "nato",
+      "oar",
+      "oat",
+      "ontario",
+      "orator",
+      "pa",
+      "pain",
+      "paint",
+      "pair",
+      "pan",
+      "pap",
+      "par",
+      "para",
+      "paranoia",
+      "part",
+      "partition",
+      "pat",
+      "patio",
+      "piano",
+      "portrait",
+      "potato",
+      "rain",
+      "ran",
+      "rant",
+      "rap",
+      "rapport",
+      "rapt",
+      "rat",
+      "ratio",
+      "ration",
+      "rna",
+      "rotation",
+      "taint",
+      "tan",
+      "tap",
+      "tar",
+      "tat",
+      "tattoo",
+      "train",
+      "trap"
     ]
   }
 }

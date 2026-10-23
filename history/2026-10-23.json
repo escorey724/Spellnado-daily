@@ -1,0 +1,208 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-23",
+  "puzzleIndex": 52,
+  "puzzle": {
+    "letters": "ainoprt",
+    "required": "a",
+    "wordCount": 58,
+    "spangrams": [
+      "partition"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "rain": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "Water that falls from clouds.",
+            "example": "The _____ fell on the roof all afternoon."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "When water falls from the sky.",
+            "example": "It might _____ during the picnic."
+          }
+        ]
+      },
+      "patio": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "usually paved outdoor area adjoining a residence",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "nato": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "rant": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "pompous or pretentious talk or writing",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a loud bombastic declamation expressed with strong emotion",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "talk in a noisy, excited, or declamatory manner",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "ratio": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the relation between things with respect to their comparative quantity, magnitude, or degree",
+            "example": "The _____ of the height and width of a square is 1."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the relative magnitudes of two quantities (usually expressed as a quotient)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "train": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a series of consequences wrought by an event",
+            "example": "it led to a _____ of disasters"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "piece of cloth forming the long back section of a gown that is drawn along the floor",
+            "example": "The _____ of the gown was carried by two young niblings."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+            "example": "express _____ don't stop at Princeton Junction"
+          }
+        ]
+      },
+      "anti": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who is opposed (to an action or policy or practice etc.)",
+            "example": "the _____ smelled victory after a long battle"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not in favor of (an action or proposal etc.)",
+            "example": "It was a _____ day."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "air",
+      "airport",
+      "an",
+      "annotation",
+      "ant",
+      "anti",
+      "apart",
+      "apr",
+      "apt",
+      "art",
+      "at",
+      "ata",
+      "ati",
+      "iota",
+      "nano",
+      "nap",
+      "nation",
+      "nato",
+      "oar",
+      "oat",
+      "ontario",
+      "orator",
+      "pa",
+      "pain",
+      "paint",
+      "pair",
+      "pan",
+      "pap",
+      "par",
+      "para",
+      "paranoia",
+      "part",
+      "partition",
+      "pat",
+      "patio",
+      "piano",
+      "portrait",
+      "potato",
+      "rain",
+      "ran",
+      "rant",
+      "rap",
+      "rapport",
+      "rapt",
+      "rat",
+      "ratio",
+      "ration",
+      "rna",
+      "rotation",
+      "taint",
+      "tan",
+      "tap",
+      "tar",
+      "tat",
+      "tattoo",
+      "train",
+      "trap"
+    ]
+  }
+}
