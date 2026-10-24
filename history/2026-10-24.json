@@ -1,0 +1,267 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-24",
+  "puzzleIndex": 53,
+  "puzzle": {
+    "letters": "aceprtu",
+    "required": "a",
+    "wordCount": 81,
+    "spangrams": [
+      "capture"
+    ],
+    "perfectSpangrams": [
+      "capture"
+    ],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "trace": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a just detectable amount",
+            "example": "They speak French with a _____ of an accent."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an indication that something has been present",
+            "example": "there wasn't a _____ of evidence for the claim"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to go back over again",
+            "example": "we retraced the route we took last summer"
+          }
+        ]
+      },
+      "area": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a subject of study",
+            "example": "The doctor's _____ of expertise was in cardiovascular health."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the extent of a 2-dimensional surface enclosed within a boundary",
+            "example": "the _____ of a rectangle"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a part of a structure having some specific characteristic or function",
+            "example": "the spacious cooking _____ provided plenty of room for servants"
+          }
+        ]
+      },
+      "part": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a portion of a natural object",
+            "example": "they analyzed the river into three _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an actor's portrayal of someone in a play",
+            "example": "I played the _____ of Desdemona in a local play."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "something less than the whole of a human artifact",
+            "example": "the rear _____ of the house"
+          }
+        ]
+      },
+      "care": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an anxious feeling",
+            "example": "_____ had aged him"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a cause for feeling concern",
+            "example": "Their major _____ was the illness of their spouse."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "attention and management implying responsibility for safety",
+            "example": "They are in the _____ of a bodyguard."
+          }
+        ]
+      },
+      "pace": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the distance covered by a step",
+            "example": "I stepped off ten _____ from the old tree and began to dig for the treasure."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the relative speed of progress or change",
+            "example": "I lived at a fast _____."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "go at a pace",
+            "example": "The horse paced"
+          }
+        ]
+      },
+      "retract": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "formally reject or disavow a formerly held belief, usually under pressure",
+            "example": "I _____ my earlier statements about my religion."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "pull inward or towards a center",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "pull away from a source of disgust or fear",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "para": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a soldier in the paratroops",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "100 para equal 1 dinar in Yugoslavia",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "taut": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "pulled or drawn tight",
+            "example": "_____ sails"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "subjected to great tension",
+            "example": "It was a _____ day."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "acc",
+      "accept",
+      "accurate",
+      "ace",
+      "acer",
+      "acre",
+      "act",
+      "acute",
+      "apart",
+      "ape",
+      "appear",
+      "apr",
+      "apt",
+      "arc",
+      "are",
+      "area",
+      "art",
+      "at",
+      "ata",
+      "ate",
+      "attract",
+      "cap",
+      "cape",
+      "capture",
+      "car",
+      "care",
+      "career",
+      "carpet",
+      "cart",
+      "carter",
+      "cat",
+      "create",
+      "creature",
+      "ear",
+      "eat",
+      "eau",
+      "epa",
+      "era",
+      "pa",
+      "pac",
+      "pace",
+      "pap",
+      "paper",
+      "papua",
+      "par",
+      "para",
+      "part",
+      "pat",
+      "pauper",
+      "pea",
+      "peace",
+      "perpetuate",
+      "prate",
+      "prepare",
+      "race",
+      "rap",
+      "rapt",
+      "rare",
+      "rat",
+      "rate",
+      "rca",
+      "reaper",
+      "rear",
+      "repartee",
+      "repeat",
+      "retract",
+      "retreat",
+      "tap",
+      "tape",
+      "taper",
+      "tar",
+      "tat",
+      "taut",
+      "tea",
+      "tear",
+      "terrace",
+      "trace",
+      "tract",
+      "trap",
+      "treat"
+    ]
+  }
+}
