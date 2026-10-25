@@ -1,267 +1,212 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-24",
-  "puzzleIndex": 53,
+  "date": "2026-10-25",
+  "puzzleIndex": 54,
   "puzzle": {
-    "letters": "aceprtu",
-    "required": "a",
-    "wordCount": 81,
+    "letters": "egnoruy",
+    "required": "e",
+    "wordCount": 40,
     "spangrams": [
-      "capture"
+      "younger"
     ],
     "perfectSpangrams": [
-      "capture"
+      "younger"
     ],
     "hints": {
-      "a": {
-        "senses": [
-          {
-            "partOfSpeech": "article",
-            "definition": "One single thing, not a specific one.",
-            "example": "I saw _____ bird on the fence."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "The first letter of the alphabet.",
-            "example": "The word apple starts with _____."
-          }
-        ]
-      },
-      "at": {
-        "senses": [
-          {
-            "partOfSpeech": "preposition",
-            "definition": "In a place or a time.",
-            "example": "Meet me _____ the park."
-          }
-        ]
-      },
-      "trace": {
+      "euro": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a just detectable amount",
-            "example": "They speak French with a _____ of an accent."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an indication that something has been present",
-            "example": "there wasn't a _____ of evidence for the claim"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to go back over again",
-            "example": "we retraced the route we took last summer"
-          }
-        ]
-      },
-      "area": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a subject of study",
-            "example": "The doctor's _____ of expertise was in cardiovascular health."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the extent of a 2-dimensional surface enclosed within a boundary",
-            "example": "the _____ of a rectangle"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a part of a structure having some specific characteristic or function",
-            "example": "the spacious cooking _____ provided plenty of room for servants"
-          }
-        ]
-      },
-      "part": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a portion of a natural object",
-            "example": "they analyzed the river into three _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an actor's portrayal of someone in a play",
-            "example": "I played the _____ of Desdemona in a local play."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "something less than the whole of a human artifact",
-            "example": "the rear _____ of the house"
-          }
-        ]
-      },
-      "care": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an anxious feeling",
-            "example": "_____ had aged him"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a cause for feeling concern",
-            "example": "Their major _____ was the illness of their spouse."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "attention and management implying responsibility for safety",
-            "example": "They are in the _____ of a bodyguard."
-          }
-        ]
-      },
-      "pace": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the distance covered by a step",
-            "example": "I stepped off ten _____ from the old tree and began to dig for the treasure."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the relative speed of progress or change",
-            "example": "I lived at a fast _____."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "go at a pace",
-            "example": "The horse paced"
-          }
-        ]
-      },
-      "retract": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "formally reject or disavow a formerly held belief, usually under pressure",
-            "example": "I _____ my earlier statements about my religion."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "pull inward or towards a center",
-            "example": "They will _____ after lunch."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "pull away from a source of disgust or fear",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "para": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a soldier in the paratroops",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "100 para equal 1 dinar in Yugoslavia",
+            "definition": "the basic monetary unit of most members of the European Union (introduced in 1999)",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "taut": {
+      "renege": {
         "senses": [
           {
-            "partOfSpeech": "adjective",
-            "definition": "pulled or drawn tight",
-            "example": "_____ sails"
+            "partOfSpeech": "noun",
+            "definition": "the mistake of not following suit when able to do so",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "fail to fulfill a promise or obligation",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "urge": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a strong restless desire",
+            "example": "why this _____ to travel?"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "force or impel in an indicated direction",
+            "example": "I urged them to finish their studies."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an instinctive motive",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "yore": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "time long past",
+            "example": "The card games of _____ are mostly forgotten."
+          }
+        ]
+      },
+      "error": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "part of a statement that is not correct",
+            "example": "the book was full of _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "inadvertent incorrectness",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "departure from what is ethically acceptable",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "gene": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "green": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an area of closely cropped grass surrounding the hole on a golf course",
+            "example": "the ball rolled across the _____ and into the bunker"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "turn or become green",
+            "example": "The trees are _____"
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "subjected to great tension",
+            "definition": "looking pale and unhealthy",
+            "example": "you're looking _____"
+          }
+        ]
+      },
+      "rouge": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "redden by applying rouge to",
+            "example": "They rouged their cheeks."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "makeup consisting of a pink or red powder applied to the cheeks",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "gone": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "dead",
             "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "well in the past",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "no longer retained",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "none": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not any",
+            "example": "thou shalt have _____ other gods before me"
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "not at all or in no way",
+            "example": "The adventurers seemed _____ too pleased with their dinner."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a canonical hour that is the ninth hour of the day counting from sunrise",
+            "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "a",
-      "acc",
-      "accept",
-      "accurate",
-      "ace",
-      "acer",
-      "acre",
-      "act",
-      "acute",
-      "apart",
-      "ape",
-      "appear",
-      "apr",
-      "apt",
-      "arc",
-      "are",
-      "area",
-      "art",
-      "at",
-      "ata",
-      "ate",
-      "attract",
-      "cap",
-      "cape",
-      "capture",
-      "car",
-      "care",
-      "career",
-      "carpet",
-      "cart",
-      "carter",
-      "cat",
-      "create",
-      "creature",
-      "ear",
-      "eat",
-      "eau",
-      "epa",
-      "era",
-      "pa",
-      "pac",
-      "pace",
-      "pap",
-      "paper",
-      "papua",
-      "par",
-      "para",
-      "part",
-      "pat",
-      "pauper",
-      "pea",
-      "peace",
-      "perpetuate",
-      "prate",
-      "prepare",
-      "race",
-      "rap",
-      "rapt",
-      "rare",
-      "rat",
-      "rate",
-      "rca",
-      "reaper",
-      "rear",
-      "repartee",
-      "repeat",
-      "retract",
-      "retreat",
-      "tap",
-      "tape",
-      "taper",
-      "tar",
-      "tat",
-      "taut",
-      "tea",
-      "tear",
-      "terrace",
-      "trace",
-      "tract",
-      "trap",
-      "treat"
+      "egg",
+      "ego",
+      "energy",
+      "eng",
+      "eon",
+      "ere",
+      "erg",
+      "err",
+      "error",
+      "eur",
+      "euro",
+      "eye",
+      "gee",
+      "gen",
+      "gene",
+      "genre",
+      "gone",
+      "gore",
+      "gouge",
+      "green",
+      "greene",
+      "grey",
+      "neo",
+      "neon",
+      "none",
+      "one",
+      "ore",
+      "reg",
+      "renege",
+      "reno",
+      "roe",
+      "rouge",
+      "rue",
+      "runner",
+      "rye",
+      "une",
+      "urge",
+      "yen",
+      "yore",
+      "younger"
     ]
   }
 }

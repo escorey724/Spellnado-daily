@@ -1,0 +1,212 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-25",
+  "puzzleIndex": 54,
+  "puzzle": {
+    "letters": "egnoruy",
+    "required": "e",
+    "wordCount": 40,
+    "spangrams": [
+      "younger"
+    ],
+    "perfectSpangrams": [
+      "younger"
+    ],
+    "hints": {
+      "euro": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the basic monetary unit of most members of the European Union (introduced in 1999)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "renege": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the mistake of not following suit when able to do so",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "fail to fulfill a promise or obligation",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "urge": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a strong restless desire",
+            "example": "why this _____ to travel?"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "force or impel in an indicated direction",
+            "example": "I urged them to finish their studies."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an instinctive motive",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "yore": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "time long past",
+            "example": "The card games of _____ are mostly forgotten."
+          }
+        ]
+      },
+      "error": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "part of a statement that is not correct",
+            "example": "the book was full of _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "inadvertent incorrectness",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "departure from what is ethically acceptable",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "gene": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "green": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an area of closely cropped grass surrounding the hole on a golf course",
+            "example": "the ball rolled across the _____ and into the bunker"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "turn or become green",
+            "example": "The trees are _____"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "looking pale and unhealthy",
+            "example": "you're looking _____"
+          }
+        ]
+      },
+      "rouge": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "redden by applying rouge to",
+            "example": "They rouged their cheeks."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "makeup consisting of a pink or red powder applied to the cheeks",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "gone": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "dead",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "well in the past",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "no longer retained",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "none": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not any",
+            "example": "thou shalt have _____ other gods before me"
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "not at all or in no way",
+            "example": "The adventurers seemed _____ too pleased with their dinner."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a canonical hour that is the ninth hour of the day counting from sunrise",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "egg",
+      "ego",
+      "energy",
+      "eng",
+      "eon",
+      "ere",
+      "erg",
+      "err",
+      "error",
+      "eur",
+      "euro",
+      "eye",
+      "gee",
+      "gen",
+      "gene",
+      "genre",
+      "gone",
+      "gore",
+      "gouge",
+      "green",
+      "greene",
+      "grey",
+      "neo",
+      "neon",
+      "none",
+      "one",
+      "ore",
+      "reg",
+      "renege",
+      "reno",
+      "roe",
+      "rouge",
+      "rue",
+      "runner",
+      "rye",
+      "une",
+      "urge",
+      "yen",
+      "yore",
+      "younger"
+    ]
+  }
+}
