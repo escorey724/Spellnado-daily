@@ -1,212 +1,168 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-25",
-  "puzzleIndex": 54,
+  "date": "2026-10-26",
+  "puzzleIndex": 55,
   "puzzle": {
-    "letters": "egnoruy",
-    "required": "e",
-    "wordCount": 40,
+    "letters": "adeqtu",
+    "required": "a",
+    "wordCount": 23,
     "spangrams": [
-      "younger"
+      "adequate"
     ],
-    "perfectSpangrams": [
-      "younger"
-    ],
+    "perfectSpangrams": [],
     "hints": {
-      "euro": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
+          }
+        ]
+      },
+      "date": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the basic monetary unit of most members of the European Union (introduced in 1999)",
+            "definition": "the present",
+            "example": "they are up to _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a participant in a date",
+            "example": "My _____ never stopped talking."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a meeting arranged in advance",
+            "example": "They asked how to avoid kissing at the end of a _____."
+          }
+        ]
+      },
+      "quad": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a muscle of the thigh that extends the leg",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a rectangular area surrounded on all sides by buildings",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of four children born at the same time from the same pregnancy",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "renege": {
+      "dated": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "the mistake of not following suit when able to do so",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "fail to fulfill a promise or obligation",
-            "example": "They will _____ after lunch."
+            "partOfSpeech": "adjective",
+            "definition": "marked by features of the immediate and usually discounted past",
+            "example": "It was a _____ day."
           }
         ]
       },
-      "urge": {
+      "data": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a strong restless desire",
-            "example": "why this _____ to travel?"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "force or impel in an indicated direction",
-            "example": "I urged them to finish their studies."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an instinctive motive",
-            "example": "The _____ was easy to notice."
+            "definition": "a collection of facts from which conclusions may be drawn",
+            "example": "statistical _____"
           }
         ]
       },
-      "yore": {
+      "taut": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "time long past",
-            "example": "The card games of _____ are mostly forgotten."
+            "partOfSpeech": "adjective",
+            "definition": "pulled or drawn tight",
+            "example": "_____ sails"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "subjected to great tension",
+            "example": "It was a _____ day."
           }
         ]
       },
-      "error": {
+      "aqua": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "part of a statement that is not correct",
-            "example": "the book was full of _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "inadvertent incorrectness",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "departure from what is ethically acceptable",
+            "definition": "a shade of blue tinged with green",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "gene": {
+      "added": {
         "senses": [
           {
             "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
           }
         ],
         "generic": true
-      },
-      "green": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an area of closely cropped grass surrounding the hole on a golf course",
-            "example": "the ball rolled across the _____ and into the bunker"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "turn or become green",
-            "example": "The trees are _____"
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "looking pale and unhealthy",
-            "example": "you're looking _____"
-          }
-        ]
-      },
-      "rouge": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "redden by applying rouge to",
-            "example": "They rouged their cheeks."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "makeup consisting of a pink or red powder applied to the cheeks",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "gone": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "dead",
-            "example": "It was a _____ day."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "well in the past",
-            "example": "It was a _____ day."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "no longer retained",
-            "example": "It was a _____ day."
-          }
-        ]
-      },
-      "none": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "not any",
-            "example": "thou shalt have _____ other gods before me"
-          },
-          {
-            "partOfSpeech": "adverb",
-            "definition": "not at all or in no way",
-            "example": "The adventurers seemed _____ too pleased with their dinner."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a canonical hour that is the ninth hour of the day counting from sunrise",
-            "example": "The _____ was easy to notice."
-          }
-        ]
       }
     },
     "answers": [
-      "egg",
-      "ego",
-      "energy",
-      "eng",
-      "eon",
-      "ere",
-      "erg",
-      "err",
-      "error",
-      "eur",
-      "euro",
-      "eye",
-      "gee",
-      "gen",
-      "gene",
-      "genre",
-      "gone",
-      "gore",
-      "gouge",
-      "green",
-      "greene",
-      "grey",
-      "neo",
-      "neon",
-      "none",
-      "one",
-      "ore",
-      "reg",
-      "renege",
-      "reno",
-      "roe",
-      "rouge",
-      "rue",
-      "runner",
-      "rye",
-      "une",
-      "urge",
-      "yen",
-      "yore",
-      "younger"
+      "a",
+      "ad",
+      "add",
+      "added",
+      "adequate",
+      "aqua",
+      "at",
+      "ata",
+      "ate",
+      "aud",
+      "dad",
+      "dat",
+      "data",
+      "date",
+      "dated",
+      "dead",
+      "eat",
+      "eau",
+      "quad",
+      "tad",
+      "tat",
+      "taut",
+      "tea"
     ]
   }
 }

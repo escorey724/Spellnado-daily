@@ -1,0 +1,168 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-26",
+  "puzzleIndex": 55,
+  "puzzle": {
+    "letters": "adeqtu",
+    "required": "a",
+    "wordCount": 23,
+    "spangrams": [
+      "adequate"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
+          }
+        ]
+      },
+      "date": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the present",
+            "example": "they are up to _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a participant in a date",
+            "example": "My _____ never stopped talking."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a meeting arranged in advance",
+            "example": "They asked how to avoid kissing at the end of a _____."
+          }
+        ]
+      },
+      "quad": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a muscle of the thigh that extends the leg",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a rectangular area surrounded on all sides by buildings",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of four children born at the same time from the same pregnancy",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "dated": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "marked by features of the immediate and usually discounted past",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "data": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a collection of facts from which conclusions may be drawn",
+            "example": "statistical _____"
+          }
+        ]
+      },
+      "taut": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "pulled or drawn tight",
+            "example": "_____ sails"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "subjected to great tension",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "aqua": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a shade of blue tinged with green",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "added": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "a",
+      "ad",
+      "add",
+      "added",
+      "adequate",
+      "aqua",
+      "at",
+      "ata",
+      "ate",
+      "aud",
+      "dad",
+      "dat",
+      "data",
+      "date",
+      "dated",
+      "dead",
+      "eat",
+      "eau",
+      "quad",
+      "tad",
+      "tat",
+      "taut",
+      "tea"
+    ]
+  }
+}
