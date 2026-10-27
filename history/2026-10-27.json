@@ -1,0 +1,225 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-27",
+  "puzzleIndex": 56,
+  "puzzle": {
+    "letters": "oclnrst",
+    "required": "o",
+    "wordCount": 68,
+    "spangrams": [
+      "controls"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "not": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used to say no, or the opposite.",
+            "example": "I am _____ tired yet."
+          }
+        ]
+      },
+      "to": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "Toward a place, person, or goal.",
+            "example": "We walked _____ the library."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used before a verb to mean 'in order to'.",
+            "example": "I want _____ play outside."
+          }
+        ]
+      },
+      "onto": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "sons": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "roots": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the condition of belonging to a particular place or group by virtue of social or ethnic or cultural lineage",
+            "example": "The family's _____ in Texas go back a long way."
+          }
+        ]
+      },
+      "tools": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "cross": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "any affliction that causes great suffering",
+            "example": "That is our _____ to bear."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "in genetics, the act of mixing different species or varieties of animals or plants and thus to produce hybrids",
+            "example": "I like to _____ orchids in my spare time."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to meet and pass",
+            "example": "the trains _____"
+          }
+        ]
+      },
+      "root": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "dig with the snout",
+            "example": "the pig was _____ for truffles"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "take root and begin to grow",
+            "example": "this plant _____ quickly"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "come into existence, originate",
+            "example": "The problem _____ in my depression."
+          }
+        ]
+      },
+      "cost": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "value measured by what must be given or done or undergone to obtain something",
+            "example": "the _____ in human life was enormous"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to be priced at",
+            "example": "These shoes _____ $100"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to require to lose, suffer, or sacrifice",
+            "example": "This mistake _____ me my job."
+          }
+        ]
+      },
+      "cool": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "great coolness and composure under strain",
+            "example": "keep your _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the quality of being at a refreshingly low temperature",
+            "example": "the _____ of early morning"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to loose heat",
+            "example": "The air _____ considerably after the thunderstorm"
+          }
+        ]
+      }
+    },
+    "answers": [
+      "col",
+      "colon",
+      "color",
+      "colors",
+      "con",
+      "concoct",
+      "cons",
+      "const",
+      "control",
+      "controls",
+      "coo",
+      "cool",
+      "corn",
+      "cos",
+      "cost",
+      "costs",
+      "cot",
+      "cotton",
+      "cross",
+      "loc",
+      "lol",
+      "loo",
+      "los",
+      "loss",
+      "lost",
+      "lot",
+      "lots",
+      "no",
+      "non",
+      "noon",
+      "nor",
+      "norton",
+      "not",
+      "oclc",
+      "oct",
+      "on",
+      "ons",
+      "onto",
+      "ooo",
+      "or",
+      "orc",
+      "rococo",
+      "roll",
+      "rolls",
+      "root",
+      "roots",
+      "rot",
+      "scroll",
+      "slot",
+      "slots",
+      "so",
+      "soc",
+      "solo",
+      "son",
+      "sons",
+      "soon",
+      "sort",
+      "sorts",
+      "sot",
+      "to",
+      "toll",
+      "ton",
+      "tons",
+      "too",
+      "tool",
+      "tools",
+      "toronto",
+      "tot"
+    ]
+  }
+}
