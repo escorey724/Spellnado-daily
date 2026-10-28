@@ -1,0 +1,244 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-28",
+  "puzzleIndex": 57,
+  "puzzle": {
+    "letters": "ebgprstu",
+    "required": "e",
+    "wordCount": 97,
+    "spangrams": [
+      "petersburg"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "be": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "To exist or to happen.",
+            "example": "Please _____ kind to your brother."
+          }
+        ]
+      },
+      "terse": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "brief and to the point",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "sees": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "pets": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "peers": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "eggs": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "oval reproductive body of a fowl, especially a hen, used as food",
+            "example": "Let's boil some _____ for breakfast."
+          }
+        ]
+      },
+      "repress": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "conceal or hide",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "block the action of",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "put out of one's consciousness",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "setup": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the way something is organized or arranged",
+            "example": "it takes time to learn the _____ around here"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "equipment designed to serve a specific function",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an act that incriminates someone on a false charge",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "guest": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a customer of a hotel or restaurant etc.",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a visitor to whom hospitality is extended",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "test": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of undergoing testing",
+            "example": "We survived the great _____ of battle and proved our mettle."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of validating something",
+            "example": "The _____ of the machine passed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a game of cricket which lasts 5 days",
+            "example": "Watching every day of the _____ was truly a _____ of our patience and commitment."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "be",
+      "bee",
+      "beer",
+      "best",
+      "bet",
+      "better",
+      "buses",
+      "butter",
+      "ebb",
+      "egg",
+      "eggs",
+      "ere",
+      "erg",
+      "erp",
+      "err",
+      "est",
+      "eur",
+      "gee",
+      "get",
+      "gets",
+      "guess",
+      "guest",
+      "guests",
+      "peer",
+      "peers",
+      "peg",
+      "pep",
+      "pepper",
+      "per",
+      "pert",
+      "perturb",
+      "peruse",
+      "pest",
+      "pet",
+      "petersburg",
+      "pets",
+      "pre",
+      "prep",
+      "press",
+      "pressure",
+      "pure",
+      "purge",
+      "purse",
+      "pursue",
+      "reg",
+      "rep",
+      "repress",
+      "res",
+      "reset",
+      "rest",
+      "reuters",
+      "rubber",
+      "rue",
+      "ruse",
+      "see",
+      "seep",
+      "sees",
+      "sep",
+      "sept",
+      "ser",
+      "set",
+      "sets",
+      "setup",
+      "ste",
+      "step",
+      "steps",
+      "street",
+      "streets",
+      "stress",
+      "sue",
+      "suggest",
+      "suggests",
+      "super",
+      "superb",
+      "suppress",
+      "sure",
+      "surge",
+      "suse",
+      "tee",
+      "terse",
+      "test",
+      "tests",
+      "tree",
+      "trees",
+      "true",
+      "trustee",
+      "trustees",
+      "tube",
+      "tubes",
+      "tue",
+      "upper",
+      "upset",
+      "urge",
+      "use",
+      "user",
+      "users",
+      "uses"
+    ]
+  }
+}
