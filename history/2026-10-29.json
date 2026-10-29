@@ -1,0 +1,200 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-29",
+  "puzzleIndex": 58,
+  "puzzle": {
+    "letters": "idegnr",
+    "required": "i",
+    "wordCount": 44,
+    "spangrams": [
+      "rendering"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "ending": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the end of a word (a suffix or inflectional ending or final morpheme)",
+            "example": "I don't like words that have -ism as an _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of ending something",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the last section of a communication",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "indeed": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "in truth (often tends to intensify)",
+            "example": "they said the car would break down and _____ it did"
+          }
+        ]
+      },
+      "deign": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "do something that one considers to be below one's dignity",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "ridge": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "extend in ridges",
+            "example": "The land _____ towards the South"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "spade into alternate ridges and troughs",
+            "example": "_____ the soil"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "throw soil toward a crop row from both sides",
+            "example": "I ridged my corn."
+          }
+        ]
+      },
+      "ieee": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "dinner": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a party of people assembled to have dinner together",
+            "example": "guests should never be late to a _____ party"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the main meal of the day served in the evening or at midday",
+            "example": "_____ will be at 8"
+          }
+        ]
+      },
+      "indie": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a pop group not affiliated with a major record company",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an independent film company not associated with an established studio",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "rider": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a clause that is appended to a legislative bill",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a traveler who actively rides an animal (as a horse or camel)",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a traveler who actively rides a vehicle (as a bicycle or motorcycle)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "denied": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "deign",
+      "denied",
+      "deride",
+      "did",
+      "die",
+      "died",
+      "dig",
+      "din",
+      "dining",
+      "dinner",
+      "dir",
+      "dire",
+      "dried",
+      "eerie",
+      "ending",
+      "engine",
+      "engineer",
+      "engineering",
+      "gig",
+      "gin",
+      "grid",
+      "i",
+      "id",
+      "ide",
+      "ieee",
+      "iii",
+      "in",
+      "ind",
+      "indeed",
+      "indie",
+      "ing",
+      "inn",
+      "inner",
+      "ire",
+      "nine",
+      "rendering",
+      "rid",
+      "ride",
+      "rider",
+      "ridge",
+      "riding",
+      "rig",
+      "rigid",
+      "ring"
+    ]
+  }
+}
