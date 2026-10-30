@@ -1,0 +1,195 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-30",
+  "puzzleIndex": 59,
+  "puzzle": {
+    "letters": "adgrsu",
+    "required": "a",
+    "wordCount": 31,
+    "spangrams": [
+      "guards"
+    ],
+    "perfectSpangrams": [
+      "guards"
+    ],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "sugar": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an essential structural component of living cells and source of energy for animals",
+            "example": "includes simple _____ with small molecules as well as macromolecular substances"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "sweeten with sugar",
+            "example": "_____ your tea"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "informal terms for money",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "asus": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "guard": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the duty of serving as a sentry",
+            "example": "They were on _____ that night."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a posture of defence in boxing or fencing",
+            "example": "keep your _____ up"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the person who plays that position on a football team",
+            "example": "the left _____ was injured on the play"
+          }
+        ]
+      },
+      "usda": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "adds": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "grad": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "one-hundredth of a right angle",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who has received a degree from a school (high school or college or university)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "radar": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "grass": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "cover with grass",
+            "example": "The owners decided to _____ their property"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "narrow-leaved green herbage: grown as lawns",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a police informer who implicates many people",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "drag": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something tedious and boring",
+            "example": "peeling potatoes is a _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "something that slows or delays progress",
+            "example": "taxation is a _____ on the economy"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of dragging (pulling with force)",
+            "example": "the _____ up the hill exhausted him"
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "ad",
+      "add",
+      "adds",
+      "ads",
+      "arg",
+      "as",
+      "asus",
+      "aud",
+      "aug",
+      "aus",
+      "dad",
+      "das",
+      "drag",
+      "gad",
+      "gag",
+      "gas",
+      "grad",
+      "gras",
+      "grass",
+      "guard",
+      "guards",
+      "rad",
+      "radar",
+      "rag",
+      "sad",
+      "sag",
+      "saga",
+      "sas",
+      "sugar",
+      "usda"
+    ]
+  }
+}

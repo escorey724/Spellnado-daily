@@ -1,88 +1,53 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-29",
-  "puzzleIndex": 58,
+  "date": "2026-10-30",
+  "puzzleIndex": 59,
   "puzzle": {
-    "letters": "idegnr",
-    "required": "i",
-    "wordCount": 44,
+    "letters": "adgrsu",
+    "required": "a",
+    "wordCount": 31,
     "spangrams": [
-      "rendering"
+      "guards"
     ],
-    "perfectSpangrams": [],
+    "perfectSpangrams": [
+      "guards"
+    ],
     "hints": {
-      "i": {
+      "a": {
         "senses": [
           {
-            "partOfSpeech": "pronoun",
-            "definition": "The word you use when you talk about yourself.",
-            "example": "_____ like to read before bed."
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "The ninth letter of the alphabet.",
-            "example": "Dot the _____ in the word bird."
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
           }
         ]
       },
-      "ending": {
+      "sugar": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the end of a word (a suffix or inflectional ending or final morpheme)",
-            "example": "I don't like words that have -ism as an _____"
+            "definition": "an essential structural component of living cells and source of energy for animals",
+            "example": "includes simple _____ with small molecules as well as macromolecular substances"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "sweeten with sugar",
+            "example": "_____ your tea"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the act of ending something",
+            "definition": "informal terms for money",
             "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the last section of a communication",
-            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "indeed": {
-        "senses": [
-          {
-            "partOfSpeech": "adverb",
-            "definition": "in truth (often tends to intensify)",
-            "example": "they said the car would break down and _____ it did"
-          }
-        ]
-      },
-      "deign": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "do something that one considers to be below one's dignity",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "ridge": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "extend in ridges",
-            "example": "The land _____ towards the South"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "spade into alternate ridges and troughs",
-            "example": "_____ the soil"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "throw soil toward a crop row from both sides",
-            "example": "I ridged my corn."
-          }
-        ]
-      },
-      "ieee": {
+      "asus": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -92,109 +57,139 @@
         ],
         "generic": true
       },
-      "dinner": {
+      "guard": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a party of people assembled to have dinner together",
-            "example": "guests should never be late to a _____ party"
+            "definition": "the duty of serving as a sentry",
+            "example": "They were on _____ that night."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the main meal of the day served in the evening or at midday",
-            "example": "_____ will be at 8"
+            "definition": "a posture of defence in boxing or fencing",
+            "example": "keep your _____ up"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the person who plays that position on a football team",
+            "example": "the left _____ was injured on the play"
           }
         ]
       },
-      "indie": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a pop group not affiliated with a major record company",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an independent film company not associated with an established studio",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "rider": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a clause that is appended to a legislative bill",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a traveler who actively rides an animal (as a horse or camel)",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a traveler who actively rides a vehicle (as a bicycle or motorcycle)",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "denied": {
+      "usda": {
         "senses": [
           {
             "partOfSpeech": "",
-            "definition": "A 6-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ______"
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
           }
         ],
         "generic": true
+      },
+      "adds": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "grad": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "one-hundredth of a right angle",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who has received a degree from a school (high school or college or university)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "radar": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "grass": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "cover with grass",
+            "example": "The owners decided to _____ their property"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "narrow-leaved green herbage: grown as lawns",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a police informer who implicates many people",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "drag": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something tedious and boring",
+            "example": "peeling potatoes is a _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "something that slows or delays progress",
+            "example": "taxation is a _____ on the economy"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of dragging (pulling with force)",
+            "example": "the _____ up the hill exhausted him"
+          }
+        ]
       }
     },
     "answers": [
-      "deign",
-      "denied",
-      "deride",
-      "did",
-      "die",
-      "died",
-      "dig",
-      "din",
-      "dining",
-      "dinner",
-      "dir",
-      "dire",
-      "dried",
-      "eerie",
-      "ending",
-      "engine",
-      "engineer",
-      "engineering",
-      "gig",
-      "gin",
-      "grid",
-      "i",
-      "id",
-      "ide",
-      "ieee",
-      "iii",
-      "in",
-      "ind",
-      "indeed",
-      "indie",
-      "ing",
-      "inn",
-      "inner",
-      "ire",
-      "nine",
-      "rendering",
-      "rid",
-      "ride",
-      "rider",
-      "ridge",
-      "riding",
-      "rig",
-      "rigid",
-      "ring"
+      "a",
+      "ad",
+      "add",
+      "adds",
+      "ads",
+      "arg",
+      "as",
+      "asus",
+      "aud",
+      "aug",
+      "aus",
+      "dad",
+      "das",
+      "drag",
+      "gad",
+      "gag",
+      "gas",
+      "grad",
+      "gras",
+      "grass",
+      "guard",
+      "guards",
+      "rad",
+      "radar",
+      "rag",
+      "sad",
+      "sag",
+      "saga",
+      "sas",
+      "sugar",
+      "usda"
     ]
   }
 }
