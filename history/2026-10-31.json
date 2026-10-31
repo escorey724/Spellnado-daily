@@ -1,0 +1,180 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-10-31",
+  "puzzleIndex": 60,
+  "puzzle": {
+    "letters": "agnrst",
+    "required": "a",
+    "wordCount": 46,
+    "spangrams": [
+      "grants"
+    ],
+    "perfectSpangrams": [
+      "grants"
+    ],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "start": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "To begin.",
+            "example": "We will _____ the game at noon."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The beginning of something.",
+            "example": "That was a solid _____ on the puzzle."
+          }
+        ]
+      },
+      "grant": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "let have",
+            "example": "_____ permission"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "allow to have",
+            "example": "_____ a privilege"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "transfer by deed",
+            "example": "_____ land"
+          }
+        ]
+      },
+      "stan": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "saga": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a narrative telling the adventures of a hero or a family",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "santa": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "arts": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "studies intended to provide general knowledge and intellectual skills, rather than occupational or professional skills",
+            "example": "The college of _____ and sciences prepares many people for successful careers."
+          }
+        ]
+      },
+      "nasa": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "a",
+      "an",
+      "ant",
+      "arg",
+      "art",
+      "arts",
+      "as",
+      "asn",
+      "at",
+      "ata",
+      "gag",
+      "gang",
+      "gas",
+      "grant",
+      "grants",
+      "gras",
+      "grass",
+      "nag",
+      "nasa",
+      "rag",
+      "ran",
+      "rant",
+      "rat",
+      "rats",
+      "rna",
+      "sag",
+      "saga",
+      "san",
+      "sans",
+      "santa",
+      "sas",
+      "sat",
+      "stagnant",
+      "stan",
+      "star",
+      "stars",
+      "start",
+      "starts",
+      "stat",
+      "stats",
+      "tag",
+      "tags",
+      "tan",
+      "tar",
+      "tat",
+      "trans"
+    ]
+  }
+}
