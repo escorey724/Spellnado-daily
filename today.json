@@ -1,85 +1,66 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-10-31",
-  "puzzleIndex": 60,
+  "date": "2026-11-01",
+  "puzzleIndex": 61,
   "puzzle": {
-    "letters": "agnrst",
-    "required": "a",
-    "wordCount": 46,
+    "letters": "oenrsw",
+    "required": "o",
+    "wordCount": 47,
     "spangrams": [
-      "grants"
+      "owners"
     ],
     "perfectSpangrams": [
-      "grants"
+      "owners"
     ],
     "hints": {
-      "a": {
+      "worn": {
         "senses": [
           {
-            "partOfSpeech": "article",
-            "definition": "One single thing, not a specific one.",
-            "example": "I saw _____ bird on the fence."
+            "partOfSpeech": "adjective",
+            "definition": "Made thin or shabby from being used a lot.",
+            "example": "His _____ sneakers had a hole in the toe."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Looking tired after hard work.",
+            "example": "She looked _____ after the long hike."
+          }
+        ]
+      },
+      "soon": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "in the near future",
+            "example": "the doctor will _____ be here"
+          }
+        ]
+      },
+      "owner": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who owns something",
+            "example": "they are searching for the _____ of the car"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "The first letter of the alphabet.",
-            "example": "The word apple starts with _____."
+            "definition": "someone who owns or is legal possessor of a business",
+            "example": "They are the _____ of a chain of restaurants."
           }
         ]
       },
-      "an": {
+      "noon": {
         "senses": [
-          {
-            "partOfSpeech": "article",
-            "definition": "A word like 'a', used before a vowel sound.",
-            "example": "She ate _____ apple."
-          }
-        ]
-      },
-      "at": {
-        "senses": [
-          {
-            "partOfSpeech": "preposition",
-            "definition": "In a place or a time.",
-            "example": "Meet me _____ the park."
-          }
-        ]
-      },
-      "start": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "To begin.",
-            "example": "We will _____ the game at noon."
-          },
           {
             "partOfSpeech": "noun",
-            "definition": "The beginning of something.",
-            "example": "That was a solid _____ on the puzzle."
+            "definition": "the middle of the day",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "grant": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "let have",
-            "example": "_____ permission"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "allow to have",
-            "example": "_____ a privilege"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "transfer by deed",
-            "example": "_____ land"
-          }
-        ]
-      },
-      "stan": {
+      "sons": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -89,35 +70,65 @@
         ],
         "generic": true
       },
-      "saga": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a narrative telling the adventures of a hero or a family",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "santa": {
+      "rows": {
         "senses": [
           {
             "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
           }
         ],
         "generic": true
       },
-      "arts": {
+      "sensors": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 7-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _______"
+          }
+        ],
+        "generic": true
+      },
+      "error": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "studies intended to provide general knowledge and intellectual skills, rather than occupational or professional skills",
-            "example": "The college of _____ and sciences prepares many people for successful careers."
+            "definition": "part of a statement that is not correct",
+            "example": "the book was full of _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "inadvertent incorrectness",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "departure from what is ethically acceptable",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "nasa": {
+      "none": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not any",
+            "example": "thou shalt have _____ other gods before me"
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "not at all or in no way",
+            "example": "The adventurers seemed _____ too pleased with their dinner."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a canonical hour that is the ninth hour of the day counting from sunrise",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "ones": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -129,52 +140,53 @@
       }
     },
     "answers": [
-      "a",
-      "an",
-      "ant",
-      "arg",
-      "art",
-      "arts",
-      "as",
-      "asn",
-      "at",
-      "ata",
-      "gag",
-      "gang",
-      "gas",
-      "grant",
-      "grants",
-      "gras",
-      "grass",
-      "nag",
-      "nasa",
-      "rag",
-      "ran",
-      "rant",
-      "rat",
-      "rats",
-      "rna",
-      "sag",
-      "saga",
-      "san",
-      "sans",
-      "santa",
-      "sas",
-      "sat",
-      "stagnant",
-      "stan",
-      "star",
-      "stars",
-      "start",
-      "starts",
-      "stat",
-      "stats",
-      "tag",
-      "tags",
-      "tan",
-      "tar",
-      "tat",
-      "trans"
+      "eon",
+      "eos",
+      "error",
+      "errors",
+      "neo",
+      "neon",
+      "no",
+      "non",
+      "none",
+      "noon",
+      "nor",
+      "nose",
+      "now",
+      "on",
+      "one",
+      "ones",
+      "ons",
+      "ooo",
+      "or",
+      "ore",
+      "ow",
+      "owe",
+      "own",
+      "owner",
+      "owners",
+      "owns",
+      "reno",
+      "renown",
+      "roe",
+      "rose",
+      "roses",
+      "row",
+      "rows",
+      "sensor",
+      "sensors",
+      "snow",
+      "so",
+      "son",
+      "sons",
+      "soon",
+      "sow",
+      "woe",
+      "won",
+      "woo",
+      "worn",
+      "worse",
+      "wow"
     ]
   }
 }
