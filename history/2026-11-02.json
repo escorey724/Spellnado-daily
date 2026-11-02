@@ -1,0 +1,197 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-02",
+  "puzzleIndex": 62,
+  "puzzle": {
+    "letters": "aelmtu",
+    "required": "a",
+    "wordCount": 33,
+    "spangrams": [
+      "emulate"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "am": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "A form of the verb 'be' used with I.",
+            "example": "I _____ ready for school."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "tale": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a trivial lie",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a message that tells the particulars of an act or occurrence or course of events",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "metal": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "cover with metal",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "maul": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "injure badly by beating",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "split (wood) with a maul and wedges",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "matt": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the property of having little or no contrast",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not reflecting light",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "mutual": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "common to or shared by two or more parties",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "concerning each of two or more persons or things",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "taut": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "pulled or drawn tight",
+            "example": "_____ sails"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "subjected to great tension",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "team": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a cooperative unit, especially in sports",
+            "example": "The rugby _____ had eleven players."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "two or more draft animals that work together to pull something",
+            "example": "The _____ of oxen pulled the plough."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to form a cooperative unit",
+            "example": "We _____ together for this new project."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "ale",
+      "all",
+      "alt",
+      "am",
+      "at",
+      "ata",
+      "ate",
+      "atm",
+      "eat",
+      "eau",
+      "emulate",
+      "lam",
+      "lat",
+      "late",
+      "lea",
+      "ma",
+      "male",
+      "mall",
+      "mat",
+      "mate",
+      "matt",
+      "maul",
+      "meal",
+      "meat",
+      "metal",
+      "mutual",
+      "tale",
+      "tall",
+      "tat",
+      "taut",
+      "tea",
+      "team"
+    ]
+  }
+}

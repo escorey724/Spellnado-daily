@@ -1,192 +1,197 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-01",
-  "puzzleIndex": 61,
+  "date": "2026-11-02",
+  "puzzleIndex": 62,
   "puzzle": {
-    "letters": "oenrsw",
-    "required": "o",
-    "wordCount": 47,
+    "letters": "aelmtu",
+    "required": "a",
+    "wordCount": 33,
     "spangrams": [
-      "owners"
+      "emulate"
     ],
-    "perfectSpangrams": [
-      "owners"
-    ],
+    "perfectSpangrams": [],
     "hints": {
-      "worn": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "am": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "A form of the verb 'be' used with I.",
+            "example": "I _____ ready for school."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "tale": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a trivial lie",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a message that tells the particulars of an act or occurrence or course of events",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "metal": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "cover with metal",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "maul": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a heavy long-handled hammer used to drive stakes or wedges",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "injure badly by beating",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "split (wood) with a maul and wedges",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "matt": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the property of having little or no contrast",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not reflecting light",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "mutual": {
         "senses": [
           {
             "partOfSpeech": "adjective",
-            "definition": "Made thin or shabby from being used a lot.",
-            "example": "His _____ sneakers had a hole in the toe."
+            "definition": "common to or shared by two or more parties",
+            "example": "It was a _____ day."
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "Looking tired after hard work.",
-            "example": "She looked _____ after the long hike."
+            "definition": "concerning each of two or more persons or things",
+            "example": "It was a _____ day."
           }
         ]
       },
-      "soon": {
-        "senses": [
-          {
-            "partOfSpeech": "adverb",
-            "definition": "in the near future",
-            "example": "the doctor will _____ be here"
-          }
-        ]
-      },
-      "owner": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a person who owns something",
-            "example": "they are searching for the _____ of the car"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "someone who owns or is legal possessor of a business",
-            "example": "They are the _____ of a chain of restaurants."
-          }
-        ]
-      },
-      "noon": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the middle of the day",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "sons": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "rows": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "sensors": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 7-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _______"
-          }
-        ],
-        "generic": true
-      },
-      "error": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "part of a statement that is not correct",
-            "example": "the book was full of _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "inadvertent incorrectness",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "departure from what is ethically acceptable",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "none": {
+      "taut": {
         "senses": [
           {
             "partOfSpeech": "adjective",
-            "definition": "not any",
-            "example": "thou shalt have _____ other gods before me"
+            "definition": "pulled or drawn tight",
+            "example": "_____ sails"
           },
           {
-            "partOfSpeech": "adverb",
-            "definition": "not at all or in no way",
-            "example": "The adventurers seemed _____ too pleased with their dinner."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a canonical hour that is the ninth hour of the day counting from sunrise",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "adjective",
+            "definition": "subjected to great tension",
+            "example": "It was a _____ day."
           }
         ]
       },
-      "ones": {
+      "team": {
         "senses": [
           {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
+            "partOfSpeech": "noun",
+            "definition": "a cooperative unit, especially in sports",
+            "example": "The rugby _____ had eleven players."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "two or more draft animals that work together to pull something",
+            "example": "The _____ of oxen pulled the plough."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to form a cooperative unit",
+            "example": "We _____ together for this new project."
           }
-        ],
-        "generic": true
+        ]
       }
     },
     "answers": [
-      "eon",
-      "eos",
-      "error",
-      "errors",
-      "neo",
-      "neon",
-      "no",
-      "non",
-      "none",
-      "noon",
-      "nor",
-      "nose",
-      "now",
-      "on",
-      "one",
-      "ones",
-      "ons",
-      "ooo",
-      "or",
-      "ore",
-      "ow",
-      "owe",
-      "own",
-      "owner",
-      "owners",
-      "owns",
-      "reno",
-      "renown",
-      "roe",
-      "rose",
-      "roses",
-      "row",
-      "rows",
-      "sensor",
-      "sensors",
-      "snow",
-      "so",
-      "son",
-      "sons",
-      "soon",
-      "sow",
-      "woe",
-      "won",
-      "woo",
-      "worn",
-      "worse",
-      "wow"
+      "a",
+      "ale",
+      "all",
+      "alt",
+      "am",
+      "at",
+      "ata",
+      "ate",
+      "atm",
+      "eat",
+      "eau",
+      "emulate",
+      "lam",
+      "lat",
+      "late",
+      "lea",
+      "ma",
+      "male",
+      "mall",
+      "mat",
+      "mate",
+      "matt",
+      "maul",
+      "meal",
+      "meat",
+      "metal",
+      "mutual",
+      "tale",
+      "tall",
+      "tat",
+      "taut",
+      "tea",
+      "team"
     ]
   }
 }
