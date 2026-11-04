@@ -1,222 +1,217 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-03",
-  "puzzleIndex": 63,
+  "date": "2026-11-04",
+  "puzzleIndex": 64,
   "puzzle": {
-    "letters": "tbeioqu",
-    "required": "t",
-    "wordCount": 23,
+    "letters": "naioqstu",
+    "required": "n",
+    "wordCount": 74,
     "spangrams": [
-      "boutique"
+      "quotations"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "to": {
+      "an": {
         "senses": [
           {
-            "partOfSpeech": "preposition",
-            "definition": "Toward a place, person, or goal.",
-            "example": "We walked _____ the library."
-          },
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "not": {
+        "senses": [
           {
             "partOfSpeech": "adverb",
-            "definition": "Used before a verb to mean 'in order to'.",
-            "example": "I want _____ play outside."
+            "definition": "Used to say no, or the opposite.",
+            "example": "I am _____ tired yet."
           }
         ]
       },
-      "tube": {
+      "onion": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "an electric railway operating below the surface of the ground (usually in a city)",
-            "example": "in Paris the subway system is called the `metro' and in London it is called the `_____' or the `underground'"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "convey in a tube",
-            "example": "inside Paris, they used to _____ mail"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "ride or float on an inflated tube",
-            "example": "We tubed down the river on a hot summer day"
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
           }
         ]
       },
-      "bite": {
+      "nano": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "a portion removed from the whole",
-            "example": "the government's weekly _____ from my paycheck"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "in angling, an instance of a fish taking the bait",
-            "example": "After fishing for an hour, I still had not had a _____."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to deliver a sting to",
-            "example": "The bee bit me."
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
           }
-        ]
+        ],
+        "generic": true
       },
-      "quiet": {
+      "units": {
         "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "make calm or still",
-            "example": "_____ the dragons of worry and fear"
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "instant": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a very short time, such as the time it takes the eye to blink or the heart to beat",
+            "example": "I'll be there in an _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a particular point in time",
+            "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "not showy or obtrusive",
-            "example": "clothes in _____ good taste"
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "characterized by an absence or near absence of agitation or activity",
-            "example": "a _____ life"
+            "definition": "demanding attention",
+            "example": "It was a _____ day."
           }
         ]
       },
-      "bouquet": {
+      "stan": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "santa": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "stint": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a pleasingly sweet olfactory property",
+            "definition": "an individual's prescribed share of work",
+            "example": "My _____ as a lifeguard exhausted my body."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "smallest American sandpiper",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "an arrangement of flowers that is usually given as a present",
+            "definition": "an unbroken period of time during which you do something",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "quote": {
+      "station": {
         "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "name the price of",
-            "example": "_____ prices for cars"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "repeat a passage from",
-            "example": "They quoted the Bible to us."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "refer to for illustration or proof",
-            "example": "I said that I could _____ several instances of this behavior."
-          }
-        ]
-      },
-      "boot": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "to kick something",
-            "example": "I _____ the ball around the soccer field."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to cause to load an operating system and start the initial processes",
-            "example": "The bios is the most important part when _____ your computer."
+            "partOfSpeech": "noun",
+            "definition": "a facility equipped with special equipment and personnel for a particular purpose",
+            "example": "They started looking for a gas _____."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the act of delivering a blow with the foot",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "tout": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "advertize in strongly positive terms",
-            "example": "This product was _____ as a revolutionary invention"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "someone who advertises for customers in an especially brazen way",
+            "definition": "proper or designated social situation",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "someone who buys tickets to an event in order to resell them at a profit",
+            "definition": "the frequency assigned to a broadcasting station",
             "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "quit": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "to turn away from",
-            "example": "They _____ each other after a long argument."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to go away or leave",
-            "example": "I _____ the bar at around one in the morning."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to give up or retire from a position",
-            "example": "I _____ my board seat after ten years of service."
-          }
-        ]
-      },
-      "quite": {
-        "senses": [
-          {
-            "partOfSpeech": "adverb",
-            "definition": "actually or truly or to an extreme",
-            "example": "was _____ a sudden change"
-          },
-          {
-            "partOfSpeech": "adverb",
-            "definition": "to a degree (not used with a negative)",
-            "example": "_____ tasty"
-          },
-          {
-            "partOfSpeech": "adverb",
-            "definition": "of an unusually noticeable or exceptional or remarkable kind, not used with a negative",
-            "example": "Your victory was _____ something."
           }
         ]
       }
     },
     "answers": [
-      "bet",
-      "bit",
-      "bite",
-      "boot",
-      "bouquet",
-      "boutique",
-      "but",
-      "it",
-      "out",
-      "quiet",
-      "quit",
-      "quite",
-      "quote",
-      "tee",
-      "tie",
-      "to",
-      "toe",
-      "too",
-      "tot",
-      "tout",
-      "tub",
-      "tube",
-      "tue"
+      "an",
+      "annotation",
+      "ant",
+      "anti",
+      "asian",
+      "asin",
+      "asn",
+      "assistant",
+      "in",
+      "inn",
+      "inns",
+      "ins",
+      "instant",
+      "institution",
+      "institutions",
+      "int",
+      "into",
+      "ion",
+      "issn",
+      "nano",
+      "nasa",
+      "nation",
+      "nations",
+      "nato",
+      "nissan",
+      "nit",
+      "no",
+      "non",
+      "noon",
+      "not",
+      "notion",
+      "nun",
+      "nut",
+      "nuts",
+      "on",
+      "onion",
+      "ons",
+      "onto",
+      "quaint",
+      "quotations",
+      "saint",
+      "saints",
+      "san",
+      "sans",
+      "santa",
+      "satin",
+      "sin",
+      "sinuous",
+      "situation",
+      "situations",
+      "son",
+      "sons",
+      "soon",
+      "stan",
+      "station",
+      "stations",
+      "stint",
+      "sun",
+      "sustain",
+      "taint",
+      "tan",
+      "tin",
+      "tion",
+      "tions",
+      "titans",
+      "ton",
+      "tons",
+      "tuition",
+      "uni",
+      "union",
+      "unions",
+      "unit",
+      "units",
+      "unto"
     ]
   }
 }
