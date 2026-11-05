@@ -1,217 +1,204 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-04",
-  "puzzleIndex": 64,
+  "date": "2026-11-05",
+  "puzzleIndex": 65,
   "puzzle": {
-    "letters": "naioqstu",
-    "required": "n",
-    "wordCount": 74,
+    "letters": "ocegln",
+    "required": "o",
+    "wordCount": 40,
     "spangrams": [
-      "quotations"
+      "cologne"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "an": {
-        "senses": [
-          {
-            "partOfSpeech": "article",
-            "definition": "A word like 'a', used before a vowel sound.",
-            "example": "She ate _____ apple."
-          }
-        ]
-      },
-      "not": {
-        "senses": [
-          {
-            "partOfSpeech": "adverb",
-            "definition": "Used to say no, or the opposite.",
-            "example": "I am _____ tired yet."
-          }
-        ]
-      },
-      "onion": {
+      "cole": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "A round vegetable with layers that can make your eyes water.",
-            "example": "She chopped an _____ for the soup."
-          }
-        ]
-      },
-      "nano": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "units": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "instant": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a very short time, such as the time it takes the eye to blink or the heart to beat",
-            "example": "I'll be there in an _____."
+            "definition": "coarse curly-leafed cabbage",
+            "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a particular point in time",
+            "definition": "a hardy cabbage with coarse curly leaves that do not form a head",
             "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "noon": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the middle of the day",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "long": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "involving substantial risk",
+            "example": "_____ odds"
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "demanding attention",
-            "example": "It was a _____ day."
+            "definition": "of relatively great height",
+            "example": "a race of _____ gaunt men- Sherwood Anderson"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "having or being more than normal or necessary:'long on brains'",
+            "example": "in _____ supply"
           }
         ]
       },
-      "stan": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "santa": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "stint": {
+      "cool": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "an individual's prescribed share of work",
-            "example": "My _____ as a lifeguard exhausted my body."
+            "definition": "great coolness and composure under strain",
+            "example": "keep your _____"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "smallest American sandpiper",
+            "definition": "the quality of being at a refreshingly low temperature",
+            "example": "the _____ of early morning"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to loose heat",
+            "example": "The air _____ considerably after the thunderstorm"
+          }
+        ]
+      },
+      "colon": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the basic unit of money in Costa Rica",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "an unbroken period of time during which you do something",
+            "definition": "the basic unit of money in El Salvador",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the part of the large intestine between the cecum and the rectum",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "station": {
+      "google": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "a facility equipped with special equipment and personnel for a particular purpose",
-            "example": "They started looking for a gas _____."
+            "partOfSpeech": "verb",
+            "definition": "to search the internet for information or media using a search engine such as Google",
+            "example": "I googled pictures of elephants to show my kids."
+          }
+        ]
+      },
+      "clone": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to make multiple identical copies of",
+            "example": "people can _____ a sheep nowadays"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "proper or designated social situation",
+            "definition": "an unauthorized copy or imitation",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the frequency assigned to a broadcasting station",
+            "definition": "a person who is almost identical to another",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "congo": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "black tea grown in China",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "logo": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a company emblem or device",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "none": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not any",
+            "example": "thou shalt have _____ other gods before me"
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "not at all or in no way",
+            "example": "The adventurers seemed _____ too pleased with their dinner."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a canonical hour that is the ninth hour of the day counting from sunrise",
             "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "an",
-      "annotation",
-      "ant",
-      "anti",
-      "asian",
-      "asin",
-      "asn",
-      "assistant",
-      "in",
-      "inn",
-      "inns",
-      "ins",
-      "instant",
-      "institution",
-      "institutions",
-      "int",
-      "into",
-      "ion",
-      "issn",
-      "nano",
-      "nasa",
-      "nation",
-      "nations",
-      "nato",
-      "nissan",
-      "nit",
+      "ceo",
+      "clone",
+      "cog",
+      "col",
+      "cole",
+      "college",
+      "cologne",
+      "colon",
+      "con",
+      "congo",
+      "coo",
+      "cool",
+      "eco",
+      "ego",
+      "eon",
+      "go",
+      "gone",
+      "goo",
+      "google",
+      "leone",
+      "loc",
+      "log",
+      "logo",
+      "lol",
+      "lone",
+      "long",
+      "loo",
+      "neo",
+      "neon",
       "no",
+      "nog",
       "non",
+      "none",
       "noon",
-      "not",
-      "notion",
-      "nun",
-      "nut",
-      "nuts",
+      "oclc",
+      "ogle",
       "on",
-      "onion",
-      "ons",
-      "onto",
-      "quaint",
-      "quotations",
-      "saint",
-      "saints",
-      "san",
-      "sans",
-      "santa",
-      "satin",
-      "sin",
-      "sinuous",
-      "situation",
-      "situations",
-      "son",
-      "sons",
-      "soon",
-      "stan",
-      "station",
-      "stations",
-      "stint",
-      "sun",
-      "sustain",
-      "taint",
-      "tan",
-      "tin",
-      "tion",
-      "tions",
-      "titans",
-      "ton",
-      "tons",
-      "tuition",
-      "uni",
-      "union",
-      "unions",
-      "unit",
-      "units",
-      "unto"
+      "once",
+      "one",
+      "ooo"
     ]
   }
 }
