@@ -1,0 +1,240 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-06",
+  "puzzleIndex": 66,
+  "puzzle": {
+    "letters": "idefnty",
+    "required": "i",
+    "wordCount": 55,
+    "spangrams": [
+      "identify"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "diet": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "follow a regimen or a diet, as for health reasons",
+            "example": "I have high blood pressure and must stick to a low-salt _____ for my health."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a prescribed selection of foods",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a legislative assembly in certain countries (e.g., Japan)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "edit": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "cut or eliminate",
+            "example": "The director told us to _____ the juiciest scenes."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "supervise the publication of",
+            "example": "The same family has been _____ the influential newspaper for almost 100 years"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "cut and assemble the components of",
+            "example": "_____ film"
+          }
+        ]
+      },
+      "tide": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something that may increase or decrease (like the tides of the sea)",
+            "example": "a rising _____ of popular interest"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "there are usually two high and two low tides each day",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the periodic rise and fall of the sea level under the gravitational pull of the moon",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "endif": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "tied": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "bound or secured closely",
+            "example": "The guard was found trussed up with their arms and legs securely _____."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "fastened with strings or cords",
+            "example": "a neatly _____ bundle"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "closed with a lace",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "intend": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "design or destine",
+            "example": "You are _____ to make the world's greatest open source dictionary."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "denote or connote",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "have in mind as a purpose",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "fifteen": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the sum of fourteen and one",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "being one more than fourteen",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "finite": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "of verbs",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "bounded or limited in magnitude or spatial or temporal extent",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "fine": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "issue a ticket or a fine to as a penalty",
+            "example": "I was fined for parking on the wrong side of the street"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "thin in thickness or diameter",
+            "example": "a _____ film of oil"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "minutely precise especially in differences in meaning",
+            "example": "a _____ distinction"
+          }
+        ]
+      }
+    },
+    "answers": [
+      "define",
+      "defined",
+      "denied",
+      "did",
+      "die",
+      "died",
+      "diet",
+      "diff",
+      "diffident",
+      "din",
+      "diy",
+      "edify",
+      "edit",
+      "edited",
+      "endif",
+      "entity",
+      "fetid",
+      "fie",
+      "fifteen",
+      "fifty",
+      "fin",
+      "find",
+      "fine",
+      "finite",
+      "fit",
+      "fitted",
+      "i",
+      "id",
+      "ide",
+      "identified",
+      "identify",
+      "identity",
+      "ieee",
+      "if",
+      "iii",
+      "in",
+      "ind",
+      "indeed",
+      "indie",
+      "inf",
+      "infinite",
+      "inn",
+      "int",
+      "intend",
+      "intended",
+      "intent",
+      "it",
+      "nine",
+      "nit",
+      "tide",
+      "tie",
+      "tied",
+      "tin",
+      "tiny",
+      "titten"
+    ]
+  }
+}
