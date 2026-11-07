@@ -1,0 +1,238 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-07",
+  "puzzleIndex": 67,
+  "puzzle": {
+    "letters": "idenqrtu",
+    "required": "i",
+    "wordCount": 73,
+    "spangrams": [
+      "unrequited"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "dinner": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a party of people assembled to have dinner together",
+            "example": "guests should never be late to a _____ party"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the main meal of the day served in the evening or at midday",
+            "example": "_____ will be at 8"
+          }
+        ]
+      },
+      "eerie": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "inspiring a feeling of fear",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "suggestive of the supernatural",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "ieee": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "inert": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "slow and apathetic",
+            "example": "By the end of the week, I wanted nothing more than to sit _____ on the sofa."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "unable to move or resist motion",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "having only a limited ability to react chemically",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "dried": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not still wet",
+            "example": "the ink has _____"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "preserved by removing natural moisture",
+            "example": "_____ beef"
+          }
+        ]
+      },
+      "dire": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "fraught with extreme danger",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "causing fear or dread or terror",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "tide": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something that may increase or decrease (like the tides of the sea)",
+            "example": "a rising _____ of popular interest"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "there are usually two high and two low tides each day",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the periodic rise and fall of the sea level under the gravitational pull of the moon",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "quit": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to turn away from",
+            "example": "They _____ each other after a long argument."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to go away or leave",
+            "example": "I _____ the bar at around one in the morning."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to give up or retire from a position",
+            "example": "I _____ my board seat after ten years of service."
+          }
+        ]
+      },
+      "requite": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "make repayment for or return something",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "denied",
+      "deride",
+      "did",
+      "die",
+      "died",
+      "diet",
+      "din",
+      "dinner",
+      "dir",
+      "dire",
+      "dirt",
+      "dried",
+      "dui",
+      "edit",
+      "edited",
+      "eerie",
+      "entire",
+      "erudite",
+      "i",
+      "id",
+      "ide",
+      "ieee",
+      "iii",
+      "in",
+      "ind",
+      "indeed",
+      "indenture",
+      "indie",
+      "inert",
+      "inn",
+      "inner",
+      "inquire",
+      "int",
+      "intend",
+      "intended",
+      "intent",
+      "inter",
+      "internet",
+      "inure",
+      "ire",
+      "it",
+      "nine",
+      "nit",
+      "qui",
+      "quiet",
+      "quietude",
+      "quit",
+      "quite",
+      "require",
+      "required",
+      "requite",
+      "retired",
+      "rid",
+      "ride",
+      "rider",
+      "tide",
+      "tie",
+      "tied",
+      "tier",
+      "tin",
+      "tire",
+      "tired",
+      "titten",
+      "titter",
+      "tri",
+      "trident",
+      "tried",
+      "trite",
+      "uni",
+      "unique",
+      "unit",
+      "united",
+      "unrequited"
+    ]
+  }
+}
