@@ -1,0 +1,203 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-08",
+  "puzzleIndex": 68,
+  "puzzle": {
+    "letters": "einqru",
+    "required": "e",
+    "wordCount": 18,
+    "spangrams": [
+      "inquire"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "queue": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a braid of hair at the back of the head",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a line of people or vehicles waiting for something",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "form a queue, form a line, stand in line",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "unique": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "highly unusual or rare but not the single instance",
+            "example": "spoke with a _____ accent"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "the single one of its kind",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "radically distinctive and without equal",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "ieee": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "require": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "have need of",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "consider obligatory",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make someone do something",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "runner": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who is employed to deliver messages or documents",
+            "example": "They sent a _____ over with the contract."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a long narrow carpet",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "someone who travels on foot by running",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "inner": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "innermost or essential",
+            "example": "the _____ logic of Cubism"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "confined to an exclusive group",
+            "example": "privy to _____ knowledge"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "inside or closer to the inside of the body",
+            "example": "the _____ ear"
+          }
+        ]
+      },
+      "nine": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the sum of eight and one",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of four playing cards in a deck with nine pips on the face",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a team of professional baseball players who play and travel together",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "inure": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "cause to accept or become hardened to",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "queen": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something personified as a woman who is considered the best or most important of her kind",
+            "example": "Paris is the _____ of cities"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "become a queen",
+            "example": "Their pawn _____ on their next move\n."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "female cat",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "eerie": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "inspiring a feeling of fear",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "suggestive of the supernatural",
+            "example": "It was a _____ day."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "eerie",
+      "ere",
+      "err",
+      "eur",
+      "ieee",
+      "inner",
+      "inquire",
+      "inure",
+      "ire",
+      "nine",
+      "que",
+      "queen",
+      "queue",
+      "require",
+      "rue",
+      "runner",
+      "une",
+      "unique"
+    ]
+  }
+}

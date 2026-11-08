@@ -1,42 +1,166 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-07",
-  "puzzleIndex": 67,
+  "date": "2026-11-08",
+  "puzzleIndex": 68,
   "puzzle": {
-    "letters": "idenqrtu",
-    "required": "i",
-    "wordCount": 73,
+    "letters": "einqru",
+    "required": "e",
+    "wordCount": 18,
     "spangrams": [
-      "unrequited"
+      "inquire"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "i": {
+      "queue": {
         "senses": [
           {
-            "partOfSpeech": "pronoun",
-            "definition": "The word you use when you talk about yourself.",
-            "example": "_____ like to read before bed."
+            "partOfSpeech": "noun",
+            "definition": "a braid of hair at the back of the head",
+            "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "The ninth letter of the alphabet.",
-            "example": "Dot the _____ in the word bird."
+            "definition": "a line of people or vehicles waiting for something",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "form a queue, form a line, stand in line",
+            "example": "They will _____ after lunch."
           }
         ]
       },
-      "dinner": {
+      "unique": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "highly unusual or rare but not the single instance",
+            "example": "spoke with a _____ accent"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "the single one of its kind",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "radically distinctive and without equal",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "ieee": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "require": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "have need of",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "consider obligatory",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make someone do something",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "runner": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a party of people assembled to have dinner together",
-            "example": "guests should never be late to a _____ party"
+            "definition": "a person who is employed to deliver messages or documents",
+            "example": "They sent a _____ over with the contract."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the main meal of the day served in the evening or at midday",
-            "example": "_____ will be at 8"
+            "definition": "a long narrow carpet",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "someone who travels on foot by running",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "inner": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "innermost or essential",
+            "example": "the _____ logic of Cubism"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "confined to an exclusive group",
+            "example": "privy to _____ knowledge"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "inside or closer to the inside of the body",
+            "example": "the _____ ear"
+          }
+        ]
+      },
+      "nine": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the sum of eight and one",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of four playing cards in a deck with nine pips on the face",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a team of professional baseball players who play and travel together",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "inure": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "cause to accept or become hardened to",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "queen": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something personified as a woman who is considered the best or most important of her kind",
+            "example": "Paris is the _____ of cities"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "become a queen",
+            "example": "Their pawn _____ on their next move\n."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "female cat",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
@@ -53,186 +177,27 @@
             "example": "It was a _____ day."
           }
         ]
-      },
-      "ieee": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "inert": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "slow and apathetic",
-            "example": "By the end of the week, I wanted nothing more than to sit _____ on the sofa."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "unable to move or resist motion",
-            "example": "It was a _____ day."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "having only a limited ability to react chemically",
-            "example": "It was a _____ day."
-          }
-        ]
-      },
-      "dried": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "not still wet",
-            "example": "the ink has _____"
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "preserved by removing natural moisture",
-            "example": "_____ beef"
-          }
-        ]
-      },
-      "dire": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "fraught with extreme danger",
-            "example": "It was a _____ day."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "causing fear or dread or terror",
-            "example": "It was a _____ day."
-          }
-        ]
-      },
-      "tide": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "something that may increase or decrease (like the tides of the sea)",
-            "example": "a rising _____ of popular interest"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "there are usually two high and two low tides each day",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the periodic rise and fall of the sea level under the gravitational pull of the moon",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "quit": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "to turn away from",
-            "example": "They _____ each other after a long argument."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to go away or leave",
-            "example": "I _____ the bar at around one in the morning."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to give up or retire from a position",
-            "example": "I _____ my board seat after ten years of service."
-          }
-        ]
-      },
-      "requite": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "make repayment for or return something",
-            "example": "They will _____ after lunch."
-          }
-        ]
       }
     },
     "answers": [
-      "denied",
-      "deride",
-      "did",
-      "die",
-      "died",
-      "diet",
-      "din",
-      "dinner",
-      "dir",
-      "dire",
-      "dirt",
-      "dried",
-      "dui",
-      "edit",
-      "edited",
       "eerie",
-      "entire",
-      "erudite",
-      "i",
-      "id",
-      "ide",
+      "ere",
+      "err",
+      "eur",
       "ieee",
-      "iii",
-      "in",
-      "ind",
-      "indeed",
-      "indenture",
-      "indie",
-      "inert",
-      "inn",
       "inner",
       "inquire",
-      "int",
-      "intend",
-      "intended",
-      "intent",
-      "inter",
-      "internet",
       "inure",
       "ire",
-      "it",
       "nine",
-      "nit",
-      "qui",
-      "quiet",
-      "quietude",
-      "quit",
-      "quite",
+      "que",
+      "queen",
+      "queue",
       "require",
-      "required",
-      "requite",
-      "retired",
-      "rid",
-      "ride",
-      "rider",
-      "tide",
-      "tie",
-      "tied",
-      "tier",
-      "tin",
-      "tire",
-      "tired",
-      "titten",
-      "titter",
-      "tri",
-      "trident",
-      "tried",
-      "trite",
-      "uni",
-      "unique",
-      "unit",
-      "united",
-      "unrequited"
+      "rue",
+      "runner",
+      "une",
+      "unique"
     ]
   }
 }
