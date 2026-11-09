@@ -1,0 +1,244 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-09",
+  "puzzleIndex": 69,
+  "puzzle": {
+    "letters": "aempst",
+    "required": "a",
+    "wordCount": 75,
+    "spangrams": [
+      "attempts"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "am": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "A form of the verb 'be' used with I.",
+            "example": "I _____ ready for school."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "appease": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "make peace with",
+            "example": "The parents appeased their children with sweets."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to overcome or allay",
+            "example": "I appeased them after our argument with presents and home cooked dinner."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to cause to be more favorably inclined",
+            "example": "I appeased the people on the fence with baseball tickets."
+          }
+        ]
+      },
+      "mate": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of a pair",
+            "example": "They lost the _____ to their shoe."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a fellow member of a team",
+            "example": "It was my first start against my former teammates."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "place an opponent's king under an attack from which it cannot escape and thus ending the game",
+            "example": "The grandmaster checkmated their opponent after only a few moves."
+          }
+        ]
+      },
+      "spate": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a sudden forceful flow",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the occurrence of a water flow resulting from sudden rain or melting snow",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "steam": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "emit steam",
+            "example": "The rain forest was literally _____"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "get very angry",
+            "example": "My indifference to their amorous advances really _____ them."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "clean by means of steaming",
+            "example": "_____-clean the upholstered sofa"
+          }
+        ]
+      },
+      "team": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a cooperative unit, especially in sports",
+            "example": "The rugby _____ had eleven players."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "two or more draft animals that work together to pull something",
+            "example": "The _____ of oxen pulled the plough."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to form a cooperative unit",
+            "example": "We _____ together for this new project."
+          }
+        ]
+      },
+      "paste": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an adhesive",
+            "example": "How much _____ do I need to stick the two pieces of paper together?"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any mixture of a soft and malleable consistency",
+            "example": "As the building neared completion, the construction company ran out of _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a hard, brilliant lead glass that is used in making artificial jewelry",
+            "example": "My partner dumped me when they found out that their ring was made of _____."
+          }
+        ]
+      },
+      "assets": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "anything of material value or usefulness that is owned by a person or company",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "am",
+      "amp",
+      "ape",
+      "appease",
+      "apt",
+      "as",
+      "asp",
+      "assess",
+      "asset",
+      "assets",
+      "at",
+      "ata",
+      "ate",
+      "atm",
+      "attempt",
+      "attempts",
+      "attest",
+      "ease",
+      "east",
+      "eat",
+      "epa",
+      "estate",
+      "estates",
+      "ma",
+      "map",
+      "maps",
+      "mas",
+      "mass",
+      "mat",
+      "mate",
+      "mats",
+      "matt",
+      "meat",
+      "mesa",
+      "pa",
+      "pap",
+      "pas",
+      "pass",
+      "passes",
+      "past",
+      "pasta",
+      "paste",
+      "pat",
+      "pea",
+      "peas",
+      "same",
+      "sap",
+      "sas",
+      "sat",
+      "sate",
+      "sea",
+      "seas",
+      "seat",
+      "seats",
+      "spa",
+      "spam",
+      "spas",
+      "spate",
+      "stamp",
+      "stamps",
+      "stat",
+      "state",
+      "states",
+      "stats",
+      "steam",
+      "tampa",
+      "tap",
+      "tape",
+      "tapes",
+      "taste",
+      "tat",
+      "tea",
+      "team",
+      "teams"
+    ]
+  }
+}
