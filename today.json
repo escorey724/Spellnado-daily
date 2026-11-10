@@ -1,244 +1,234 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-09",
-  "puzzleIndex": 69,
+  "date": "2026-11-10",
+  "puzzleIndex": 70,
   "puzzle": {
-    "letters": "aempst",
-    "required": "a",
-    "wordCount": 75,
+    "letters": "icdepr",
+    "required": "i",
+    "wordCount": 43,
     "spangrams": [
-      "attempts"
+      "priced"
     ],
-    "perfectSpangrams": [],
+    "perfectSpangrams": [
+      "priced"
+    ],
     "hints": {
-      "a": {
+      "i": {
         "senses": [
           {
-            "partOfSpeech": "article",
-            "definition": "One single thing, not a specific one.",
-            "example": "I saw _____ bird on the fence."
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "The first letter of the alphabet.",
-            "example": "The word apple starts with _____."
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
           }
         ]
       },
-      "am": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "A form of the verb 'be' used with I.",
-            "example": "I _____ ready for school."
-          }
-        ]
-      },
-      "at": {
-        "senses": [
-          {
-            "partOfSpeech": "preposition",
-            "definition": "In a place or a time.",
-            "example": "Meet me _____ the park."
-          }
-        ]
-      },
-      "appease": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "make peace with",
-            "example": "The parents appeased their children with sweets."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to overcome or allay",
-            "example": "I appeased them after our argument with presents and home cooked dinner."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to cause to be more favorably inclined",
-            "example": "I appeased the people on the fence with baseball tickets."
-          }
-        ]
-      },
-      "mate": {
+      "recipe": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "one of a pair",
-            "example": "They lost the _____ to their shoe."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a fellow member of a team",
-            "example": "It was my first start against my former teammates."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "place an opponent's king under an attack from which it cannot escape and thus ending the game",
-            "example": "The grandmaster checkmated their opponent after only a few moves."
-          }
-        ]
-      },
-      "spate": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a sudden forceful flow",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the occurrence of a water flow resulting from sudden rain or melting snow",
+            "definition": "directions for making something",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "steam": {
+      "price": {
         "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "emit steam",
-            "example": "The rain forest was literally _____"
+            "partOfSpeech": "noun",
+            "definition": "cost of bribing someone",
+            "example": "they say that every politician has a _____"
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "get very angry",
-            "example": "My indifference to their amorous advances really _____ them."
+            "partOfSpeech": "noun",
+            "definition": "the high value or worth of something",
+            "example": "Their _____ is far above rubies."
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "clean by means of steaming",
-            "example": "_____-clean the upholstered sofa"
+            "partOfSpeech": "noun",
+            "definition": "the amount of money needed to purchase something",
+            "example": "the _____ of gasoline"
           }
         ]
       },
-      "team": {
+      "pride": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a cooperative unit, especially in sports",
-            "example": "The rugby _____ had eleven players."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "two or more draft animals that work together to pull something",
-            "example": "The _____ of oxen pulled the plough."
+            "definition": "satisfaction with your or another's achievements",
+            "example": "They take _____ in their children's success."
           },
           {
             "partOfSpeech": "verb",
-            "definition": "to form a cooperative unit",
-            "example": "We _____ together for this new project."
-          }
-        ]
-      },
-      "paste": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an adhesive",
-            "example": "How much _____ do I need to stick the two pieces of paper together?"
+            "definition": "be proud of",
+            "example": "I _____ myself on my determination."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "any mixture of a soft and malleable consistency",
-            "example": "As the building neared completion, the construction company ran out of _____."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a hard, brilliant lead glass that is used in making artificial jewelry",
-            "example": "My partner dumped me when they found out that their ring was made of _____."
-          }
-        ]
-      },
-      "assets": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "anything of material value or usefulness that is owned by a person or company",
+            "definition": "a group of lions",
             "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "piece": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a distance",
+            "example": "it is down the road a _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an instance of some kind",
+            "example": "it was a nice _____ of work"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a separate part of a whole",
+            "example": "an important _____ of the evidence"
+          }
+        ]
+      },
+      "dried": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not still wet",
+            "example": "the ink has _____"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "preserved by removing natural moisture",
+            "example": "_____ beef"
+          }
+        ]
+      },
+      "dice": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a small cube with 1 to 6 spots on the six faces",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "play dice",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "cut into cubes",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "rider": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a clause that is appended to a legislative bill",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a traveler who actively rides an animal (as a horse or camel)",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a traveler who actively rides a vehicle (as a bicycle or motorcycle)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "epic": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "constituting or having to do with or suggestive of a literary epic",
+            "example": "_____ tradition"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a long narrative poem telling of a hero's deeds",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "very imposing or impressive",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "ride": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "be contingent on",
+            "example": "The outcomes _____ on the results of the election"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "climb up on the body",
+            "example": "Shorts that _____ up"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "lie moored or anchored",
+            "example": "Ship _____ at anchor"
           }
         ]
       }
     },
     "answers": [
-      "a",
-      "am",
-      "amp",
-      "ape",
-      "appease",
-      "apt",
-      "as",
-      "asp",
-      "assess",
-      "asset",
-      "assets",
-      "at",
-      "ata",
-      "ate",
-      "atm",
-      "attempt",
-      "attempts",
-      "attest",
-      "ease",
-      "east",
-      "eat",
-      "epa",
-      "estate",
-      "estates",
-      "ma",
-      "map",
-      "maps",
-      "mas",
-      "mass",
-      "mat",
-      "mate",
-      "mats",
-      "matt",
-      "meat",
-      "mesa",
-      "pa",
-      "pap",
-      "pas",
-      "pass",
-      "passes",
-      "past",
-      "pasta",
-      "paste",
-      "pat",
-      "pea",
-      "peas",
-      "same",
-      "sap",
-      "sas",
-      "sat",
-      "sate",
-      "sea",
-      "seas",
-      "seat",
-      "seats",
-      "spa",
-      "spam",
-      "spas",
-      "spate",
-      "stamp",
-      "stamps",
-      "stat",
-      "state",
-      "states",
-      "stats",
-      "steam",
-      "tampa",
-      "tap",
-      "tape",
-      "tapes",
-      "taste",
-      "tat",
-      "tea",
-      "team",
-      "teams"
+      "cir",
+      "decide",
+      "decided",
+      "deride",
+      "dice",
+      "did",
+      "die",
+      "died",
+      "dip",
+      "dir",
+      "dire",
+      "dpi",
+      "dried",
+      "eerie",
+      "epic",
+      "i",
+      "ice",
+      "id",
+      "ide",
+      "ieee",
+      "iii",
+      "irc",
+      "ire",
+      "pci",
+      "pi",
+      "pic",
+      "pie",
+      "piece",
+      "pied",
+      "pierce",
+      "pip",
+      "pipe",
+      "precipice",
+      "price",
+      "priced",
+      "pride",
+      "recipe",
+      "rice",
+      "rid",
+      "ride",
+      "rider",
+      "rip",
+      "ripe"
     ]
   }
 }
