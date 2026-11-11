@@ -1,234 +1,224 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-10",
-  "puzzleIndex": 70,
+  "date": "2026-11-11",
+  "puzzleIndex": 71,
   "puzzle": {
-    "letters": "icdepr",
-    "required": "i",
-    "wordCount": 43,
+    "letters": "edrstu",
+    "required": "e",
+    "wordCount": 58,
     "spangrams": [
-      "priced"
+      "trusted"
     ],
-    "perfectSpangrams": [
-      "priced"
-    ],
+    "perfectSpangrams": [],
     "hints": {
-      "i": {
-        "senses": [
-          {
-            "partOfSpeech": "pronoun",
-            "definition": "The word you use when you talk about yourself.",
-            "example": "_____ like to read before bed."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "The ninth letter of the alphabet.",
-            "example": "Dot the _____ in the word bird."
-          }
-        ]
-      },
-      "recipe": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "directions for making something",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "price": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "cost of bribing someone",
-            "example": "they say that every politician has a _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the high value or worth of something",
-            "example": "Their _____ is far above rubies."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the amount of money needed to purchase something",
-            "example": "the _____ of gasoline"
-          }
-        ]
-      },
-      "pride": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "satisfaction with your or another's achievements",
-            "example": "They take _____ in their children's success."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "be proud of",
-            "example": "I _____ myself on my determination."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a group of lions",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "piece": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a distance",
-            "example": "it is down the road a _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an instance of some kind",
-            "example": "it was a nice _____ of work"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a separate part of a whole",
-            "example": "an important _____ of the evidence"
-          }
-        ]
-      },
-      "dried": {
+      "tested": {
         "senses": [
           {
             "partOfSpeech": "adjective",
-            "definition": "not still wet",
-            "example": "the ink has _____"
+            "definition": "tested and proved useful or correct",
+            "example": "a _____ method"
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "preserved by removing natural moisture",
-            "example": "_____ beef"
-          }
-        ]
-      },
-      "dice": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a small cube with 1 to 6 spots on the six faces",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "play dice",
-            "example": "They will _____ after lunch."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "cut into cubes",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "rider": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a clause that is appended to a legislative bill",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a traveler who actively rides an animal (as a horse or camel)",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a traveler who actively rides a vehicle (as a bicycle or motorcycle)",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "epic": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "constituting or having to do with or suggestive of a literary epic",
-            "example": "_____ tradition"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a long narrative poem telling of a hero's deeds",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "very imposing or impressive",
+            "definition": "tested and proved to be reliable",
             "example": "It was a _____ day."
           }
         ]
       },
-      "ride": {
+      "uses": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "dress": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "be contingent on",
-            "example": "The outcomes _____ on the results of the election"
+            "definition": "put on clothes",
+            "example": "we had to _____ quickly"
           },
           {
             "partOfSpeech": "verb",
-            "definition": "climb up on the body",
-            "example": "Shorts that _____ up"
+            "definition": "put a finish on",
+            "example": "_____ the surface smooth"
           },
           {
             "partOfSpeech": "verb",
-            "definition": "lie moored or anchored",
-            "example": "Ship _____ at anchor"
+            "definition": "arrange in ranks",
+            "example": "_____ troops"
+          }
+        ]
+      },
+      "user": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who makes use of a thing",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who uses something or someone selfishly or unethically",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "tree": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a figure that branches from a single root",
+            "example": "genealogical _____"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "plant with trees",
+            "example": "this lot should be treed so that the house will be shaded in summer"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "sets": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "dude": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an informal form of address for a man",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a man who is much concerned with his dress and appearance",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "desert": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "leave behind",
+            "example": "the students _____ the campus after the end of exam period"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "desert (a cause, a country or an army), often in order to join the opposing cause, country, or army",
+            "example": "If soldiers _____ Hitler's army, they were shot"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "arid land with little or no vegetation",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "ruse": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a deceptive maneuver (especially to avoid capture)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "street": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a situation offering opportunities",
+            "example": "I worked both sides of the _____ to increase my profit margin."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "people living or working on the same street",
+            "example": "the whole _____ protested the absence of _____ lights"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a thoroughfare (usually including sidewalks) that is lined with buildings",
+            "example": "they walked the _____ of the small town"
           }
         ]
       }
     },
     "answers": [
-      "cir",
-      "decide",
-      "decided",
-      "deride",
-      "dice",
-      "did",
-      "die",
-      "died",
-      "dip",
-      "dir",
-      "dire",
-      "dpi",
-      "dried",
-      "eerie",
-      "epic",
-      "i",
-      "ice",
-      "id",
-      "ide",
-      "ieee",
-      "iii",
-      "irc",
-      "ire",
-      "pci",
-      "pi",
-      "pic",
-      "pie",
-      "piece",
-      "pied",
-      "pierce",
-      "pip",
-      "pipe",
-      "precipice",
-      "price",
-      "priced",
-      "pride",
-      "recipe",
-      "rice",
-      "rid",
-      "ride",
-      "rider",
-      "rip",
-      "ripe"
+      "deer",
+      "der",
+      "des",
+      "desert",
+      "deter",
+      "detest",
+      "dress",
+      "dressed",
+      "dresses",
+      "dude",
+      "due",
+      "duress",
+      "eds",
+      "edt",
+      "ere",
+      "err",
+      "est",
+      "eur",
+      "red",
+      "redress",
+      "reed",
+      "res",
+      "reset",
+      "rest",
+      "reuters",
+      "rue",
+      "ruse",
+      "see",
+      "seed",
+      "seeds",
+      "sees",
+      "ser",
+      "set",
+      "sets",
+      "ste",
+      "street",
+      "streets",
+      "stress",
+      "sue",
+      "sure",
+      "suse",
+      "tee",
+      "terse",
+      "test",
+      "tested",
+      "tests",
+      "tree",
+      "trees",
+      "true",
+      "trusted",
+      "trustee",
+      "trustees",
+      "tue",
+      "use",
+      "used",
+      "user",
+      "users",
+      "uses"
     ]
   }
 }
