@@ -1,0 +1,280 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-12",
+  "puzzleIndex": 72,
+  "puzzle": {
+    "letters": "iehmnprt",
+    "required": "i",
+    "wordCount": 91,
+    "spangrams": [
+      "phentermine"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "mint": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "any member of the mint family of plants",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a candy that is flavored with a mint oil",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the leaves of a mint plant used fresh or candied",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "titter": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a nervous restrained laugh",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "laugh nervously",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "tire": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "hoop that covers a wheel",
+            "example": "automobile _____ are usually made of rubber and filled with compressed air"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "lose interest or become bored with something or somebody",
+            "example": "I tired of your complaints about my food so I stopped cooking for you."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "deplete",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "pine": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a coniferous tree",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "have a desire for something or someone who is not present",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "merit": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "any admirable quality or attribute",
+            "example": "work of great _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the quality of being deserving (e.g., deserving assistance)",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "be worthy or deserving",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "timer": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a timepiece that measures a time interval and signals its end",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a regulator that activates or deactivates a mechanism at set times",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "mime": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "act out without words but with gestures and bodily movements only",
+            "example": "The acting students mimed eating an apple"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a performance using gestures and body movements without words",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an actor who communicates entirely by gesture and facial expression",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "hire": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a newly hired employee",
+            "example": "the new _____ need special training"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of engaging something or someone for a service",
+            "example": "I signed up for a week's car _____."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "engage or hire for work",
+            "example": "They hired two new secretaries in the department"
+          }
+        ]
+      },
+      "intent": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an anticipated outcome that is intended or that guides your planned actions",
+            "example": "Their _____ was to provide a new translation."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the intended meaning of a communication",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "giving or marked by complete attention to",
+            "example": "It was a _____ day."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "eerie",
+      "either",
+      "eminem",
+      "eminent",
+      "empire",
+      "entire",
+      "herein",
+      "hi",
+      "him",
+      "hint",
+      "hip",
+      "hire",
+      "hit",
+      "i",
+      "ieee",
+      "iii",
+      "imminent",
+      "imp",
+      "impertinent",
+      "in",
+      "inept",
+      "inert",
+      "inherent",
+      "inn",
+      "inner",
+      "int",
+      "intent",
+      "inter",
+      "interim",
+      "intermittent",
+      "internet",
+      "ire",
+      "it",
+      "item",
+      "merit",
+      "mime",
+      "min",
+      "mine",
+      "mini",
+      "mint",
+      "mire",
+      "mirth",
+      "mit",
+      "mite",
+      "neither",
+      "nine",
+      "nip",
+      "nit",
+      "penitent",
+      "perimeter",
+      "permit",
+      "pertinent",
+      "petite",
+      "phentermine",
+      "phi",
+      "pi",
+      "pie",
+      "pin",
+      "pine",
+      "pip",
+      "pipe",
+      "pit",
+      "preeminent",
+      "premier",
+      "premiere",
+      "prim",
+      "prime",
+      "primp",
+      "print",
+      "printer",
+      "repine",
+      "reprint",
+      "retirement",
+      "rim",
+      "rip",
+      "ripe",
+      "their",
+      "thin",
+      "tie",
+      "tier",
+      "time",
+      "timer",
+      "tin",
+      "tip",
+      "tire",
+      "titten",
+      "titter",
+      "tri",
+      "trim",
+      "trip",
+      "trite"
+    ]
+  }
+}
