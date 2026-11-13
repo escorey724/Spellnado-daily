@@ -1,16 +1,18 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-12",
-  "puzzleIndex": 72,
+  "date": "2026-11-13",
+  "puzzleIndex": 73,
   "puzzle": {
-    "letters": "iehmnprt",
+    "letters": "ielpsx",
     "required": "i",
-    "wordCount": 91,
+    "wordCount": 31,
     "spangrams": [
-      "phentermine"
+      "pixels"
     ],
-    "perfectSpangrams": [],
+    "perfectSpangrams": [
+      "pixels"
+    ],
     "hints": {
       "i": {
         "senses": [
@@ -26,255 +28,155 @@
           }
         ]
       },
-      "mint": {
+      "spies": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "any member of the mint family of plants",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a candy that is flavored with a mint oil",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the leaves of a mint plant used fresh or candied",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
           }
-        ]
+        ],
+        "generic": true
       },
-      "titter": {
+      "pipes": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "ieee": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "exile": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a nervous restrained laugh",
-            "example": "The _____ was easy to notice."
+            "definition": "the act of expelling a person from their native land",
+            "example": "men in _____ dream of hope"
           },
           {
             "partOfSpeech": "verb",
-            "definition": "laugh nervously",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "tire": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "hoop that covers a wheel",
-            "example": "automobile _____ are usually made of rubber and filled with compressed air"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "lose interest or become bored with something or somebody",
-            "example": "I tired of your complaints about my food so I stopped cooking for you."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "deplete",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "pine": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a coniferous tree",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "have a desire for something or someone who is not present",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "merit": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "any admirable quality or attribute",
-            "example": "work of great _____"
+            "definition": "expel from a country",
+            "example": "The poet was exiled after signing a letter protesting the government's actions."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the quality of being deserving (e.g., deserving assistance)",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "be worthy or deserving",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "timer": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a timepiece that measures a time interval and signals its end",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a regulator that activates or deactivates a mechanism at set times",
+            "definition": "a person who is voluntarily absent from home or country",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "mime": {
+      "lies": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "pipe": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "act out without words but with gestures and bodily movements only",
-            "example": "The acting students mimed eating an apple"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a performance using gestures and body movements without words",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an actor who communicates entirely by gesture and facial expression",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "hire": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a newly hired employee",
-            "example": "the new _____ need special training"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of engaging something or someone for a service",
-            "example": "I signed up for a week's car _____."
+            "definition": "play on a pipe",
+            "example": "_____ a tune"
           },
           {
             "partOfSpeech": "verb",
-            "definition": "engage or hire for work",
-            "example": "They hired two new secretaries in the department"
+            "definition": "trim with piping",
+            "example": "_____ the skirt"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "transport by pipeline",
+            "example": "_____ oil, water, and gas into the desert"
           }
         ]
       },
-      "intent": {
+      "pixel": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "isle": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "an anticipated outcome that is intended or that guides your planned actions",
-            "example": "Their _____ was to provide a new translation."
+            "definition": "a small island",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "pill": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something unpleasant or offensive that must be tolerated or endured",
+            "example": "Your competitor's success was a bitter _____ to take."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the intended meaning of a communication",
+            "definition": "a unpleasant or tiresome person",
             "example": "The _____ was easy to notice."
           },
           {
-            "partOfSpeech": "adjective",
-            "definition": "giving or marked by complete attention to",
-            "example": "It was a _____ day."
+            "partOfSpeech": "noun",
+            "definition": "a dose of medicine in the form of a small pellet",
+            "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "eerie",
-      "either",
-      "eminem",
-      "eminent",
-      "empire",
-      "entire",
-      "herein",
-      "hi",
-      "him",
-      "hint",
-      "hip",
-      "hire",
-      "hit",
+      "exile",
       "i",
       "ieee",
       "iii",
-      "imminent",
-      "imp",
-      "impertinent",
-      "in",
-      "inept",
-      "inert",
-      "inherent",
-      "inn",
-      "inner",
-      "int",
-      "intent",
-      "inter",
-      "interim",
-      "intermittent",
-      "internet",
-      "ire",
-      "it",
-      "item",
-      "merit",
-      "mime",
-      "min",
-      "mine",
-      "mini",
-      "mint",
-      "mire",
-      "mirth",
-      "mit",
-      "mite",
-      "neither",
-      "nine",
-      "nip",
-      "nit",
-      "penitent",
-      "perimeter",
-      "permit",
-      "pertinent",
-      "petite",
-      "phentermine",
-      "phi",
+      "ill",
+      "ips",
+      "is",
+      "isle",
+      "isp",
+      "lei",
+      "lie",
+      "lies",
+      "lil",
+      "lip",
+      "lips",
       "pi",
       "pie",
-      "pin",
-      "pine",
+      "pill",
+      "pills",
       "pip",
       "pipe",
-      "pit",
-      "preeminent",
-      "premier",
-      "premiere",
-      "prim",
-      "prime",
-      "primp",
-      "print",
-      "printer",
-      "repine",
-      "reprint",
-      "retirement",
-      "rim",
-      "rip",
-      "ripe",
-      "their",
-      "thin",
-      "tie",
-      "tier",
-      "time",
-      "timer",
-      "tin",
-      "tip",
-      "tire",
-      "titten",
-      "titter",
-      "tri",
-      "trim",
-      "trip",
-      "trite"
+      "pipes",
+      "pix",
+      "pixel",
+      "pixels",
+      "psi",
+      "sip",
+      "sis",
+      "six",
+      "slip",
+      "spies"
     ]
   }
 }

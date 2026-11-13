@@ -1,0 +1,182 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-13",
+  "puzzleIndex": 73,
+  "puzzle": {
+    "letters": "ielpsx",
+    "required": "i",
+    "wordCount": 31,
+    "spangrams": [
+      "pixels"
+    ],
+    "perfectSpangrams": [
+      "pixels"
+    ],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "spies": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "pipes": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "ieee": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "exile": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of expelling a person from their native land",
+            "example": "men in _____ dream of hope"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "expel from a country",
+            "example": "The poet was exiled after signing a letter protesting the government's actions."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who is voluntarily absent from home or country",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "lies": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "pipe": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "play on a pipe",
+            "example": "_____ a tune"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "trim with piping",
+            "example": "_____ the skirt"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "transport by pipeline",
+            "example": "_____ oil, water, and gas into the desert"
+          }
+        ]
+      },
+      "pixel": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "isle": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a small island",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "pill": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something unpleasant or offensive that must be tolerated or endured",
+            "example": "Your competitor's success was a bitter _____ to take."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a unpleasant or tiresome person",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a dose of medicine in the form of a small pellet",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "exile",
+      "i",
+      "ieee",
+      "iii",
+      "ill",
+      "ips",
+      "is",
+      "isle",
+      "isp",
+      "lei",
+      "lie",
+      "lies",
+      "lil",
+      "lip",
+      "lips",
+      "pi",
+      "pie",
+      "pill",
+      "pills",
+      "pip",
+      "pipe",
+      "pipes",
+      "pix",
+      "pixel",
+      "pixels",
+      "psi",
+      "sip",
+      "sis",
+      "six",
+      "slip",
+      "spies"
+    ]
+  }
+}
