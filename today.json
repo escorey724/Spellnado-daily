@@ -1,34 +1,80 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-13",
-  "puzzleIndex": 73,
+  "date": "2026-11-14",
+  "puzzleIndex": 74,
   "puzzle": {
-    "letters": "ielpsx",
-    "required": "i",
-    "wordCount": 31,
+    "letters": "adepstu",
+    "required": "a",
+    "wordCount": 91,
     "spangrams": [
-      "pixels"
+      "updates"
     ],
     "perfectSpangrams": [
-      "pixels"
+      "updates"
     ],
     "hints": {
-      "i": {
+      "a": {
         "senses": [
           {
-            "partOfSpeech": "pronoun",
-            "definition": "The word you use when you talk about yourself.",
-            "example": "_____ like to read before bed."
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "The ninth letter of the alphabet.",
-            "example": "Dot the _____ in the word bird."
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
           }
         ]
       },
-      "spies": {
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
+          }
+        ]
+      },
+      "statute": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an act passed by a legislative body",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "enacted by a legislative body",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "astute": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "marked by practical hardheaded intelligence",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "added": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -38,145 +84,165 @@
         ],
         "generic": true
       },
-      "pipes": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "ieee": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "exile": {
+      "pass": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the act of expelling a person from their native land",
-            "example": "men in _____ dream of hope"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "expel from a country",
-            "example": "The poet was exiled after signing a letter protesting the government's actions."
+            "definition": "a difficult juncture",
+            "example": "a pretty _____"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a person who is voluntarily absent from home or country",
-            "example": "The _____ was easy to notice."
+            "definition": "a complimentary ticket",
+            "example": "The conference admission included a _____ for any Disney theme park."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any authorization to pass or go somewhere",
+            "example": "the _____ to visit had a strict time limit"
           }
         ]
       },
-      "lies": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "pipe": {
+      "sedate": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "play on a pipe",
-            "example": "_____ a tune"
+            "definition": "cause to be calm or quiet as by administering a sedative to",
+            "example": "The patient must be sedated before the operation"
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "trim with piping",
-            "example": "_____ the skirt"
+            "partOfSpeech": "adjective",
+            "definition": "characterized by dignity and propriety",
+            "example": "It was a _____ day."
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "transport by pipeline",
-            "example": "_____ oil, water, and gas into the desert"
+            "partOfSpeech": "adjective",
+            "definition": "dignified and somber in manner or character and committed to keeping promises",
+            "example": "It was a _____ day."
           }
         ]
       },
-      "pixel": {
+      "stated": {
         "senses": [
           {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "isle": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a small island",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "adjective",
+            "definition": "declared as fact",
+            "example": "explicitly _____"
           }
         ]
       },
-      "pill": {
+      "attest": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "something unpleasant or offensive that must be tolerated or endured",
-            "example": "Your competitor's success was a bitter _____ to take."
+            "partOfSpeech": "verb",
+            "definition": "to provide evidence for",
+            "example": "I can _____ to the quality of that sandwich by showing you this graph of deliciousness."
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "a unpleasant or tiresome person",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "verb",
+            "definition": "to establish or verify the usage of",
+            "example": "This word is not _____ until 1993."
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "a dose of medicine in the form of a small pellet",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "verb",
+            "definition": "to give testimony in a court of law",
+            "example": "I _____ to what I had seen."
           }
         ]
       }
     },
     "answers": [
-      "exile",
-      "i",
-      "ieee",
-      "iii",
-      "ill",
-      "ips",
-      "is",
-      "isle",
-      "isp",
-      "lei",
-      "lie",
-      "lies",
-      "lil",
-      "lip",
-      "lips",
-      "pi",
-      "pie",
-      "pill",
-      "pills",
-      "pip",
-      "pipe",
-      "pipes",
-      "pix",
-      "pixel",
-      "pixels",
-      "psi",
-      "sip",
-      "sis",
-      "six",
-      "slip",
-      "spies"
+      "a",
+      "ad",
+      "adapted",
+      "add",
+      "added",
+      "adds",
+      "adept",
+      "ads",
+      "ape",
+      "appease",
+      "apt",
+      "as",
+      "asp",
+      "assess",
+      "assessed",
+      "asset",
+      "assets",
+      "astute",
+      "asus",
+      "at",
+      "ata",
+      "ate",
+      "attest",
+      "aud",
+      "aus",
+      "dad",
+      "das",
+      "dat",
+      "data",
+      "date",
+      "dated",
+      "dates",
+      "dead",
+      "ease",
+      "east",
+      "eat",
+      "eau",
+      "epa",
+      "estate",
+      "estates",
+      "pa",
+      "pad",
+      "padded",
+      "pads",
+      "pap",
+      "papua",
+      "pas",
+      "pass",
+      "passed",
+      "passes",
+      "past",
+      "pasta",
+      "paste",
+      "pat",
+      "pda",
+      "pdas",
+      "pea",
+      "peas",
+      "sad",
+      "sap",
+      "sas",
+      "sat",
+      "sate",
+      "sea",
+      "seas",
+      "seat",
+      "seats",
+      "sedate",
+      "spa",
+      "spas",
+      "spate",
+      "stat",
+      "state",
+      "stated",
+      "states",
+      "stats",
+      "status",
+      "statute",
+      "statutes",
+      "tad",
+      "tap",
+      "tape",
+      "tapes",
+      "taste",
+      "tat",
+      "taut",
+      "tea",
+      "update",
+      "updated",
+      "updates",
+      "usda"
     ]
   }
 }

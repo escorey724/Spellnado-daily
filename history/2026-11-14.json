@@ -1,0 +1,248 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-14",
+  "puzzleIndex": 74,
+  "puzzle": {
+    "letters": "adepstu",
+    "required": "a",
+    "wordCount": 91,
+    "spangrams": [
+      "updates"
+    ],
+    "perfectSpangrams": [
+      "updates"
+    ],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
+          }
+        ]
+      },
+      "statute": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an act passed by a legislative body",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "enacted by a legislative body",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "astute": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "marked by practical hardheaded intelligence",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "added": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "pass": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a difficult juncture",
+            "example": "a pretty _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a complimentary ticket",
+            "example": "The conference admission included a _____ for any Disney theme park."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any authorization to pass or go somewhere",
+            "example": "the _____ to visit had a strict time limit"
+          }
+        ]
+      },
+      "sedate": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "cause to be calm or quiet as by administering a sedative to",
+            "example": "The patient must be sedated before the operation"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "characterized by dignity and propriety",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "dignified and somber in manner or character and committed to keeping promises",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "stated": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "declared as fact",
+            "example": "explicitly _____"
+          }
+        ]
+      },
+      "attest": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to provide evidence for",
+            "example": "I can _____ to the quality of that sandwich by showing you this graph of deliciousness."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to establish or verify the usage of",
+            "example": "This word is not _____ until 1993."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to give testimony in a court of law",
+            "example": "I _____ to what I had seen."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "ad",
+      "adapted",
+      "add",
+      "added",
+      "adds",
+      "adept",
+      "ads",
+      "ape",
+      "appease",
+      "apt",
+      "as",
+      "asp",
+      "assess",
+      "assessed",
+      "asset",
+      "assets",
+      "astute",
+      "asus",
+      "at",
+      "ata",
+      "ate",
+      "attest",
+      "aud",
+      "aus",
+      "dad",
+      "das",
+      "dat",
+      "data",
+      "date",
+      "dated",
+      "dates",
+      "dead",
+      "ease",
+      "east",
+      "eat",
+      "eau",
+      "epa",
+      "estate",
+      "estates",
+      "pa",
+      "pad",
+      "padded",
+      "pads",
+      "pap",
+      "papua",
+      "pas",
+      "pass",
+      "passed",
+      "passes",
+      "past",
+      "pasta",
+      "paste",
+      "pat",
+      "pda",
+      "pdas",
+      "pea",
+      "peas",
+      "sad",
+      "sap",
+      "sas",
+      "sat",
+      "sate",
+      "sea",
+      "seas",
+      "seat",
+      "seats",
+      "sedate",
+      "spa",
+      "spas",
+      "spate",
+      "stat",
+      "state",
+      "stated",
+      "states",
+      "stats",
+      "status",
+      "statute",
+      "statutes",
+      "tad",
+      "tap",
+      "tape",
+      "tapes",
+      "taste",
+      "tat",
+      "taut",
+      "tea",
+      "update",
+      "updated",
+      "updates",
+      "usda"
+    ]
+  }
+}
