@@ -1,248 +1,220 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-14",
-  "puzzleIndex": 74,
+  "date": "2026-11-15",
+  "puzzleIndex": 75,
   "puzzle": {
-    "letters": "adepstu",
-    "required": "a",
-    "wordCount": 91,
+    "letters": "ebfiltxy",
+    "required": "e",
+    "wordCount": 54,
     "spangrams": [
-      "updates"
+      "flexibility"
     ],
-    "perfectSpangrams": [
-      "updates"
-    ],
+    "perfectSpangrams": [],
     "hints": {
-      "a": {
+      "be": {
         "senses": [
           {
-            "partOfSpeech": "article",
-            "definition": "One single thing, not a specific one.",
-            "example": "I saw _____ bird on the fence."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "The first letter of the alphabet.",
-            "example": "The word apple starts with _____."
+            "partOfSpeech": "verb",
+            "definition": "To exist or to happen.",
+            "example": "Please _____ kind to your brother."
           }
         ]
       },
-      "at": {
-        "senses": [
-          {
-            "partOfSpeech": "preposition",
-            "definition": "In a place or a time.",
-            "example": "Meet me _____ the park."
-          }
-        ]
-      },
-      "dead": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "No longer living.",
-            "example": "In fall, the _____ leaves blow across the yard."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "Not working or out of power.",
-            "example": "The flashlight is _____ because the batteries ran out."
-          }
-        ]
-      },
-      "statute": {
+      "bible": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "an act passed by a legislative body",
+            "definition": "a book regarded as authoritative in its field",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "fleet": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "moving very fast",
+            "example": "_____ of foot"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a group of warships organized as a tactical unit",
             "example": "The _____ was easy to notice."
           },
           {
-            "partOfSpeech": "adjective",
-            "definition": "enacted by a legislative body",
-            "example": "It was a _____ day."
+            "partOfSpeech": "noun",
+            "definition": "group of aircraft operating together under the same ownership",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "astute": {
+      "title": {
         "senses": [
           {
-            "partOfSpeech": "adjective",
-            "definition": "marked by practical hardheaded intelligence",
-            "example": "It was a _____ day."
+            "partOfSpeech": "noun",
+            "definition": "the status of being a champion",
+            "example": "They held the _____ for two years."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an appellation signifying nobility",
+            "example": "`your majesty' is the appropriate _____ to use in addressing a king"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the name of a work of art or literary composition",
+            "example": "The librarian looked for books with the word 'jazz' in the _____."
           }
         ]
       },
-      "added": {
+      "ieee": {
         "senses": [
           {
             "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
           }
         ],
         "generic": true
       },
-      "pass": {
+      "belief": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a difficult juncture",
-            "example": "a pretty _____"
+            "definition": "any cognitive content held as true",
+            "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a complimentary ticket",
-            "example": "The conference admission included a _____ for any Disney theme park."
+            "definition": "a vague idea in which some confidence is placed",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "feet": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "bite": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a portion removed from the whole",
+            "example": "the government's weekly _____ from my paycheck"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "any authorization to pass or go somewhere",
-            "example": "the _____ to visit had a strict time limit"
+            "definition": "in angling, an instance of a fish taking the bait",
+            "example": "After fishing for an hour, I still had not had a _____."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to deliver a sting to",
+            "example": "The bee bit me."
           }
         ]
       },
-      "sedate": {
+      "fell": {
         "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "cause to be calm or quiet as by administering a sedative to",
-            "example": "The patient must be sedated before the operation"
+            "partOfSpeech": "noun",
+            "definition": "the act of felling something (as a tree)",
+            "example": "The _____ was easy to notice."
           },
           {
-            "partOfSpeech": "adjective",
-            "definition": "characterized by dignity and propriety",
-            "example": "It was a _____ day."
+            "partOfSpeech": "noun",
+            "definition": "the dressed skin of an animal (especially a large animal)",
+            "example": "The _____ was easy to notice."
           },
           {
-            "partOfSpeech": "adjective",
-            "definition": "dignified and somber in manner or character and committed to keeping promises",
-            "example": "It was a _____ day."
+            "partOfSpeech": "noun",
+            "definition": "seam made by turning under or folding together and stitching the seamed materials to avoid rough edges",
+            "example": "The _____ was easy to notice."
           }
         ]
       },
-      "stated": {
+      "feel": {
         "senses": [
           {
-            "partOfSpeech": "adjective",
-            "definition": "declared as fact",
-            "example": "explicitly _____"
-          }
-        ]
-      },
-      "attest": {
-        "senses": [
+            "partOfSpeech": "noun",
+            "definition": "an intuitive awareness",
+            "example": "It's easy when you get the _____ of it."
+          },
           {
-            "partOfSpeech": "verb",
-            "definition": "to provide evidence for",
-            "example": "I can _____ to the quality of that sandwich by showing you this graph of deliciousness."
+            "partOfSpeech": "noun",
+            "definition": "the general atmosphere of a place or situation and the effect that it has on people",
+            "example": "the _____ of the city excited him"
           },
           {
             "partOfSpeech": "verb",
-            "definition": "to establish or verify the usage of",
-            "example": "This word is not _____ until 1993."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to give testimony in a court of law",
-            "example": "I _____ to what I had seen."
+            "definition": "produce a certain impression",
+            "example": "It _____ nice to be home again"
           }
         ]
       }
     },
     "answers": [
-      "a",
-      "ad",
-      "adapted",
-      "add",
-      "added",
-      "adds",
-      "adept",
-      "ads",
-      "ape",
-      "appease",
-      "apt",
-      "as",
-      "asp",
-      "assess",
-      "assessed",
-      "asset",
-      "assets",
-      "astute",
-      "asus",
-      "at",
-      "ata",
-      "ate",
-      "attest",
-      "aud",
-      "aus",
-      "dad",
-      "das",
-      "dat",
-      "data",
-      "date",
-      "dated",
-      "dates",
-      "dead",
-      "ease",
-      "east",
-      "eat",
-      "eau",
-      "epa",
-      "estate",
-      "estates",
-      "pa",
-      "pad",
-      "padded",
-      "pads",
-      "pap",
-      "papua",
-      "pas",
-      "pass",
-      "passed",
-      "passes",
-      "past",
-      "pasta",
-      "paste",
-      "pat",
-      "pda",
-      "pdas",
-      "pea",
-      "peas",
-      "sad",
-      "sap",
-      "sas",
-      "sat",
-      "sate",
-      "sea",
-      "seas",
-      "seat",
-      "seats",
-      "sedate",
-      "spa",
-      "spas",
-      "spate",
-      "stat",
-      "state",
-      "stated",
-      "states",
-      "stats",
-      "status",
-      "statute",
-      "statutes",
-      "tad",
-      "tap",
-      "tape",
-      "tapes",
-      "taste",
-      "tat",
-      "taut",
-      "tea",
-      "update",
-      "updated",
-      "updates",
-      "usda"
+      "be",
+      "bee",
+      "beef",
+      "belief",
+      "belittle",
+      "bell",
+      "belle",
+      "belly",
+      "belt",
+      "bet",
+      "bible",
+      "bite",
+      "bye",
+      "byte",
+      "ebb",
+      "eel",
+      "elf",
+      "elite",
+      "exile",
+      "exit",
+      "ext",
+      "eye",
+      "feb",
+      "fee",
+      "feel",
+      "feet",
+      "fell",
+      "felt",
+      "fie",
+      "file",
+      "fleet",
+      "flex",
+      "flexibility",
+      "flexible",
+      "ieee",
+      "lee",
+      "left",
+      "lei",
+      "let",
+      "libel",
+      "lie",
+      "life",
+      "lite",
+      "little",
+      "lye",
+      "tee",
+      "tel",
+      "tell",
+      "text",
+      "textile",
+      "tie",
+      "tile",
+      "title",
+      "yet"
     ]
   }
 }
