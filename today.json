@@ -1,74 +1,98 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-15",
-  "puzzleIndex": 75,
+  "date": "2026-11-16",
+  "puzzleIndex": 76,
   "puzzle": {
-    "letters": "ebfiltxy",
-    "required": "e",
-    "wordCount": 54,
+    "letters": "obcinrtu",
+    "required": "o",
+    "wordCount": 72,
     "spangrams": [
-      "flexibility"
+      "contribution",
+      "contributor"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "be": {
+      "born": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "To exist or to happen.",
-            "example": "Please _____ kind to your brother."
-          }
-        ]
-      },
-      "bible": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a book regarded as authoritative in its field",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "fleet": {
-        "senses": [
+            "definition": "Brought into the world as a baby or animal.",
+            "example": "The kittens were _____ last night."
+          },
           {
             "partOfSpeech": "adjective",
-            "definition": "moving very fast",
-            "example": "_____ of foot"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a group of warships organized as a tactical unit",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "group of aircraft operating together under the same ownership",
-            "example": "The _____ was easy to notice."
+            "definition": "Having a talent from an early age.",
+            "example": "She is a _____ storyteller."
           }
         ]
       },
-      "title": {
+      "iron": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the status of being a champion",
-            "example": "They held the _____ for two years."
+            "definition": "A strong metal used to make nails, pans, and bridges.",
+            "example": "The garden gate is made of _____."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "an appellation signifying nobility",
-            "example": "`your majesty' is the appropriate _____ to use in addressing a king"
+            "definition": "A hot tool that presses wrinkles out of clothes.",
+            "example": "Dad used the _____ on his shirt."
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "the name of a work of art or literary composition",
-            "example": "The librarian looked for books with the word 'jazz' in the _____."
+            "partOfSpeech": "verb",
+            "definition": "To press clothes until they are smooth.",
+            "example": "Please _____ this shirt before school."
           }
         ]
       },
-      "ieee": {
+      "not": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used to say no, or the opposite.",
+            "example": "I am _____ tired yet."
+          }
+        ]
+      },
+      "onion": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
+          }
+        ]
+      },
+      "to": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "Toward a place, person, or goal.",
+            "example": "We walked _____ the library."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "Used before a verb to mean 'in order to'.",
+            "example": "I want _____ play outside."
+          }
+        ]
+      },
+      "robin": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "small Old World songbird with a reddish breast",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "large American thrush having a rust-red breast and abdomen",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "rico": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -78,21 +102,26 @@
         ],
         "generic": true
       },
-      "belief": {
+      "tour": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "any cognitive content held as true",
-            "example": "The _____ was easy to notice."
+            "definition": "a journey or route all the way around a particular place or area",
+            "example": "they took an extended _____ of Europe"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "make a tour of a certain place",
+            "example": "We _____ the Provence this summer"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a vague idea in which some confidence is placed",
+            "definition": "a period of time spent in military service",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "feet": {
+      "into": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -102,119 +131,90 @@
         ],
         "generic": true
       },
-      "bite": {
+      "turbo": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "a portion removed from the whole",
-            "example": "the government's weekly _____ from my paycheck"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "in angling, an instance of a fish taking the bait",
-            "example": "After fishing for an hour, I still had not had a _____."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to deliver a sting to",
-            "example": "The bee bit me."
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
           }
-        ]
-      },
-      "fell": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of felling something (as a tree)",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the dressed skin of an animal (especially a large animal)",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "seam made by turning under or folding together and stitching the seamed materials to avoid rough edges",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "feel": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an intuitive awareness",
-            "example": "It's easy when you get the _____ of it."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the general atmosphere of a place or situation and the effect that it has on people",
-            "example": "the _____ of the city excited him"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "produce a certain impression",
-            "example": "It _____ nice to be home again"
-          }
-        ]
+        ],
+        "generic": true
       }
     },
     "answers": [
-      "be",
-      "bee",
-      "beef",
-      "belief",
-      "belittle",
-      "bell",
-      "belle",
-      "belly",
-      "belt",
-      "bet",
-      "bible",
-      "bite",
-      "bye",
-      "byte",
-      "ebb",
-      "eel",
-      "elf",
-      "elite",
-      "exile",
-      "exit",
-      "ext",
-      "eye",
-      "feb",
-      "fee",
-      "feel",
-      "feet",
-      "fell",
-      "felt",
-      "fie",
-      "file",
-      "fleet",
-      "flex",
-      "flexibility",
-      "flexible",
-      "ieee",
-      "lee",
-      "left",
-      "lei",
-      "let",
-      "libel",
-      "lie",
-      "life",
-      "lite",
-      "little",
-      "lye",
-      "tee",
-      "tel",
-      "tell",
-      "text",
-      "textile",
-      "tie",
-      "tile",
-      "title",
-      "yet"
+      "bio",
+      "boc",
+      "bon",
+      "boo",
+      "boon",
+      "boot",
+      "born",
+      "bro",
+      "button",
+      "cio",
+      "cob",
+      "coin",
+      "con",
+      "concoct",
+      "contribution",
+      "contributor",
+      "coo",
+      "corn",
+      "cot",
+      "cotton",
+      "count",
+      "court",
+      "icon",
+      "into",
+      "intro",
+      "ion",
+      "iron",
+      "ironic",
+      "no",
+      "nob",
+      "non",
+      "noon",
+      "nor",
+      "norton",
+      "not",
+      "notion",
+      "nutrition",
+      "occur",
+      "oct",
+      "on",
+      "onion",
+      "onto",
+      "ooo",
+      "or",
+      "orb",
+      "orbit",
+      "orc",
+      "our",
+      "out",
+      "ribbon",
+      "rico",
+      "rio",
+      "rob",
+      "robin",
+      "robot",
+      "rococo",
+      "root",
+      "rot",
+      "tion",
+      "to",
+      "ton",
+      "too",
+      "toronto",
+      "tot",
+      "tour",
+      "tout",
+      "trio",
+      "trout",
+      "tuition",
+      "turbo",
+      "union",
+      "unto"
     ]
   }
 }
