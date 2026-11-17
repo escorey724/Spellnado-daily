@@ -1,0 +1,196 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-17",
+  "puzzleIndex": 77,
+  "puzzle": {
+    "letters": "acdehkny",
+    "required": "a",
+    "wordCount": 51,
+    "spangrams": [
+      "hackneyed"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "and": {
+        "senses": [
+          {
+            "partOfSpeech": "conjunction",
+            "definition": "A word that joins two things together.",
+            "example": "Peanut butter _____ jelly."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
+          }
+        ]
+      },
+      "accede": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to take on duties or office",
+            "example": "I acceded to the throne when I was only ten years old."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to agree or express agreement",
+            "example": "I do _____ that we should discuss this more later."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to yield to another's wish or opinion",
+            "example": "I can _____ to your wishes this time."
+          }
+        ]
+      },
+      "chad": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a small piece of paper that is supposed to be removed when a hole is punched in a card or paper tape",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "cdna": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "hand": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "ability or skill",
+            "example": "I wanted to try my _____ at singing."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "physical assistance",
+            "example": "give me a _____ with the chores"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of two sides of an issue",
+            "example": "on the one _____..., but on the other _____..."
+          }
+        ]
+      },
+      "acne": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an inflammatory disease involving the sebaceous glands of the skin",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "decade": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a period of 10 years",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the sum of nine and one",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "acc",
+      "accede",
+      "ace",
+      "acne",
+      "ad",
+      "add",
+      "added",
+      "ah",
+      "ahead",
+      "an",
+      "and",
+      "any",
+      "aye",
+      "cache",
+      "cached",
+      "cad",
+      "cake",
+      "can",
+      "candy",
+      "cdna",
+      "chad",
+      "chan",
+      "chance",
+      "dad",
+      "daddy",
+      "dance",
+      "day",
+      "dead",
+      "dean",
+      "decade",
+      "dna",
+      "each",
+      "enhance",
+      "enhanced",
+      "ha",
+      "hack",
+      "hackneyed",
+      "had",
+      "hand",
+      "handed",
+      "handy",
+      "hay",
+      "head",
+      "headed",
+      "naked",
+      "nay",
+      "yak",
+      "yay",
+      "yea",
+      "yeah"
+    ]
+  }
+}

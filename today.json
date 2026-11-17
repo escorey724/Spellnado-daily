@@ -1,98 +1,92 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-16",
-  "puzzleIndex": 76,
+  "date": "2026-11-17",
+  "puzzleIndex": 77,
   "puzzle": {
-    "letters": "obcinrtu",
-    "required": "o",
-    "wordCount": 72,
+    "letters": "acdehkny",
+    "required": "a",
+    "wordCount": 51,
     "spangrams": [
-      "contribution",
-      "contributor"
+      "hackneyed"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "born": {
+      "a": {
         "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "Brought into the world as a baby or animal.",
-            "example": "The kittens were _____ last night."
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "and": {
+        "senses": [
+          {
+            "partOfSpeech": "conjunction",
+            "definition": "A word that joins two things together.",
+            "example": "Peanut butter _____ jelly."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "Having a talent from an early age.",
-            "example": "She is a _____ storyteller."
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
           }
         ]
       },
-      "iron": {
+      "accede": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "A strong metal used to make nails, pans, and bridges.",
-            "example": "The garden gate is made of _____."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "A hot tool that presses wrinkles out of clothes.",
-            "example": "Dad used the _____ on his shirt."
+            "partOfSpeech": "verb",
+            "definition": "to take on duties or office",
+            "example": "I acceded to the throne when I was only ten years old."
           },
           {
             "partOfSpeech": "verb",
-            "definition": "To press clothes until they are smooth.",
-            "example": "Please _____ this shirt before school."
-          }
-        ]
-      },
-      "not": {
-        "senses": [
-          {
-            "partOfSpeech": "adverb",
-            "definition": "Used to say no, or the opposite.",
-            "example": "I am _____ tired yet."
-          }
-        ]
-      },
-      "onion": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "A round vegetable with layers that can make your eyes water.",
-            "example": "She chopped an _____ for the soup."
-          }
-        ]
-      },
-      "to": {
-        "senses": [
-          {
-            "partOfSpeech": "preposition",
-            "definition": "Toward a place, person, or goal.",
-            "example": "We walked _____ the library."
+            "definition": "to agree or express agreement",
+            "example": "I do _____ that we should discuss this more later."
           },
           {
-            "partOfSpeech": "adverb",
-            "definition": "Used before a verb to mean 'in order to'.",
-            "example": "I want _____ play outside."
+            "partOfSpeech": "verb",
+            "definition": "to yield to another's wish or opinion",
+            "example": "I can _____ to your wishes this time."
           }
         ]
       },
-      "robin": {
+      "chad": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "small Old World songbird with a reddish breast",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "large American thrush having a rust-red breast and abdomen",
+            "definition": "a small piece of paper that is supposed to be removed when a hole is punched in a card or paper tape",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "rico": {
+      "cdna": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -102,119 +96,101 @@
         ],
         "generic": true
       },
-      "tour": {
+      "hand": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a journey or route all the way around a particular place or area",
-            "example": "they took an extended _____ of Europe"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "make a tour of a certain place",
-            "example": "We _____ the Provence this summer"
+            "definition": "ability or skill",
+            "example": "I wanted to try my _____ at singing."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a period of time spent in military service",
+            "definition": "physical assistance",
+            "example": "give me a _____ with the chores"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of two sides of an issue",
+            "example": "on the one _____..., but on the other _____..."
+          }
+        ]
+      },
+      "acne": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an inflammatory disease involving the sebaceous glands of the skin",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "into": {
+      "decade": {
         "senses": [
           {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "turbo": {
-        "senses": [
+            "partOfSpeech": "noun",
+            "definition": "a period of 10 years",
+            "example": "The _____ was easy to notice."
+          },
           {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
+            "partOfSpeech": "noun",
+            "definition": "the cardinal number that is the sum of nine and one",
+            "example": "The _____ was easy to notice."
           }
-        ],
-        "generic": true
+        ]
       }
     },
     "answers": [
-      "bio",
-      "boc",
-      "bon",
-      "boo",
-      "boon",
-      "boot",
-      "born",
-      "bro",
-      "button",
-      "cio",
-      "cob",
-      "coin",
-      "con",
-      "concoct",
-      "contribution",
-      "contributor",
-      "coo",
-      "corn",
-      "cot",
-      "cotton",
-      "count",
-      "court",
-      "icon",
-      "into",
-      "intro",
-      "ion",
-      "iron",
-      "ironic",
-      "no",
-      "nob",
-      "non",
-      "noon",
-      "nor",
-      "norton",
-      "not",
-      "notion",
-      "nutrition",
-      "occur",
-      "oct",
-      "on",
-      "onion",
-      "onto",
-      "ooo",
-      "or",
-      "orb",
-      "orbit",
-      "orc",
-      "our",
-      "out",
-      "ribbon",
-      "rico",
-      "rio",
-      "rob",
-      "robin",
-      "robot",
-      "rococo",
-      "root",
-      "rot",
-      "tion",
-      "to",
-      "ton",
-      "too",
-      "toronto",
-      "tot",
-      "tour",
-      "tout",
-      "trio",
-      "trout",
-      "tuition",
-      "turbo",
-      "union",
-      "unto"
+      "a",
+      "acc",
+      "accede",
+      "ace",
+      "acne",
+      "ad",
+      "add",
+      "added",
+      "ah",
+      "ahead",
+      "an",
+      "and",
+      "any",
+      "aye",
+      "cache",
+      "cached",
+      "cad",
+      "cake",
+      "can",
+      "candy",
+      "cdna",
+      "chad",
+      "chan",
+      "chance",
+      "dad",
+      "daddy",
+      "dance",
+      "day",
+      "dead",
+      "dean",
+      "decade",
+      "dna",
+      "each",
+      "enhance",
+      "enhanced",
+      "ha",
+      "hack",
+      "hackneyed",
+      "had",
+      "hand",
+      "handed",
+      "handy",
+      "hay",
+      "head",
+      "headed",
+      "naked",
+      "nay",
+      "yak",
+      "yay",
+      "yea",
+      "yeah"
     ]
   }
 }
