@@ -1,92 +1,116 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-17",
-  "puzzleIndex": 77,
+  "date": "2026-11-18",
+  "puzzleIndex": 78,
   "puzzle": {
-    "letters": "acdehkny",
-    "required": "a",
-    "wordCount": 51,
+    "letters": "elmosuv",
+    "required": "e",
+    "wordCount": 48,
     "spangrams": [
-      "hackneyed"
+      "volumes"
     ],
-    "perfectSpangrams": [],
+    "perfectSpangrams": [
+      "volumes"
+    ],
     "hints": {
-      "a": {
-        "senses": [
-          {
-            "partOfSpeech": "article",
-            "definition": "One single thing, not a specific one.",
-            "example": "I saw _____ bird on the fence."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "The first letter of the alphabet.",
-            "example": "The word apple starts with _____."
-          }
-        ]
-      },
-      "an": {
-        "senses": [
-          {
-            "partOfSpeech": "article",
-            "definition": "A word like 'a', used before a vowel sound.",
-            "example": "She ate _____ apple."
-          }
-        ]
-      },
-      "and": {
-        "senses": [
-          {
-            "partOfSpeech": "conjunction",
-            "definition": "A word that joins two things together.",
-            "example": "Peanut butter _____ jelly."
-          }
-        ]
-      },
-      "dead": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "No longer living.",
-            "example": "In fall, the _____ leaves blow across the yard."
-          },
-          {
-            "partOfSpeech": "adjective",
-            "definition": "Not working or out of power.",
-            "example": "The flashlight is _____ because the batteries ran out."
-          }
-        ]
-      },
-      "accede": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "to take on duties or office",
-            "example": "I acceded to the throne when I was only ten years old."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to agree or express agreement",
-            "example": "I do _____ that we should discuss this more later."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to yield to another's wish or opinion",
-            "example": "I can _____ to your wishes this time."
-          }
-        ]
-      },
-      "chad": {
+      "love": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a small piece of paper that is supposed to be removed when a hole is punched in a card or paper tape",
+            "definition": "a score of zero in tennis or squash",
+            "example": "it was 40 _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any object of warm affection or devotion",
+            "example": "The theater is their first _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a strong positive emotion of regard and affection",
+            "example": "Their _____ for their family."
+          }
+        ]
+      },
+      "loves": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "moves": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "osseous": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "composed of or containing bone",
+            "example": "_____ tissue"
+          }
+        ]
+      },
+      "sells": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "levee": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a pier that provides a landing place on a river",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a formal reception of visitors or guests (as at a royal court)",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an embankment that is built in order to prevent a river from overflowing",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "cdna": {
+      "mess": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "soft semiliquid food",
+            "example": "a _____ of porridge"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a state of confusion and disorderliness",
+            "example": "the house was a _____"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "create a state of disorder in",
+            "example": "I _____ up my room while trying to find my passport."
+          }
+        ]
+      },
+      "else": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -96,101 +120,85 @@
         ],
         "generic": true
       },
-      "hand": {
+      "vessels": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "ability or skill",
-            "example": "I wanted to try my _____ at singing."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "physical assistance",
-            "example": "give me a _____ with the chores"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "one of two sides of an issue",
-            "example": "on the one _____..., but on the other _____..."
+            "partOfSpeech": "",
+            "definition": "A 7-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _______"
           }
-        ]
+        ],
+        "generic": true
       },
-      "acne": {
+      "sell": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "an inflammatory disease involving the sebaceous glands of the skin",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "decade": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a period of 10 years",
-            "example": "The _____ was easy to notice."
+            "definition": "the activity of persuading someone to buy",
+            "example": "it was a hard _____"
           },
           {
-            "partOfSpeech": "noun",
-            "definition": "the cardinal number that is the sum of nine and one",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "verb",
+            "definition": "persuade somebody to accept something",
+            "example": "The French try to _____ us their image as great lovers"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "be sold at a certain price or in a certain way",
+            "example": "These books _____ like hot cakes"
           }
         ]
       }
     },
     "answers": [
-      "a",
-      "acc",
-      "accede",
-      "ace",
-      "acne",
-      "ad",
-      "add",
-      "added",
-      "ah",
-      "ahead",
-      "an",
-      "and",
-      "any",
-      "aye",
-      "cache",
-      "cached",
-      "cad",
-      "cake",
-      "can",
-      "candy",
-      "cdna",
-      "chad",
-      "chan",
-      "chance",
-      "dad",
-      "daddy",
-      "dance",
-      "day",
-      "dead",
-      "dean",
-      "decade",
-      "dna",
-      "each",
-      "enhance",
-      "enhanced",
-      "ha",
-      "hack",
-      "hackneyed",
-      "had",
-      "hand",
-      "handed",
-      "handy",
-      "hay",
-      "head",
-      "headed",
-      "naked",
-      "nay",
-      "yak",
-      "yay",
-      "yea",
-      "yeah"
+      "eel",
+      "elm",
+      "else",
+      "emu",
+      "eos",
+      "eve",
+      "lee",
+      "less",
+      "leu",
+      "levee",
+      "level",
+      "levels",
+      "loose",
+      "lose",
+      "losses",
+      "love",
+      "loves",
+      "me",
+      "melee",
+      "mem",
+      "memo",
+      "mess",
+      "mouse",
+      "move",
+      "moves",
+      "museum",
+      "museums",
+      "oem",
+      "osseous",
+      "see",
+      "seem",
+      "seems",
+      "sees",
+      "sell",
+      "sells",
+      "sleeve",
+      "smell",
+      "sole",
+      "solve",
+      "some",
+      "sue",
+      "suse",
+      "use",
+      "uses",
+      "vessel",
+      "vessels",
+      "volume",
+      "volumes"
     ]
   }
 }

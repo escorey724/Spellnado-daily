@@ -1,0 +1,204 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-18",
+  "puzzleIndex": 78,
+  "puzzle": {
+    "letters": "elmosuv",
+    "required": "e",
+    "wordCount": 48,
+    "spangrams": [
+      "volumes"
+    ],
+    "perfectSpangrams": [
+      "volumes"
+    ],
+    "hints": {
+      "love": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a score of zero in tennis or squash",
+            "example": "it was 40 _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any object of warm affection or devotion",
+            "example": "The theater is their first _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a strong positive emotion of regard and affection",
+            "example": "Their _____ for their family."
+          }
+        ]
+      },
+      "loves": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "moves": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "osseous": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "composed of or containing bone",
+            "example": "_____ tissue"
+          }
+        ]
+      },
+      "sells": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "levee": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a pier that provides a landing place on a river",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a formal reception of visitors or guests (as at a royal court)",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an embankment that is built in order to prevent a river from overflowing",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "mess": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "soft semiliquid food",
+            "example": "a _____ of porridge"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a state of confusion and disorderliness",
+            "example": "the house was a _____"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "create a state of disorder in",
+            "example": "I _____ up my room while trying to find my passport."
+          }
+        ]
+      },
+      "else": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "vessels": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 7-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _______"
+          }
+        ],
+        "generic": true
+      },
+      "sell": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the activity of persuading someone to buy",
+            "example": "it was a hard _____"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "persuade somebody to accept something",
+            "example": "The French try to _____ us their image as great lovers"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "be sold at a certain price or in a certain way",
+            "example": "These books _____ like hot cakes"
+          }
+        ]
+      }
+    },
+    "answers": [
+      "eel",
+      "elm",
+      "else",
+      "emu",
+      "eos",
+      "eve",
+      "lee",
+      "less",
+      "leu",
+      "levee",
+      "level",
+      "levels",
+      "loose",
+      "lose",
+      "losses",
+      "love",
+      "loves",
+      "me",
+      "melee",
+      "mem",
+      "memo",
+      "mess",
+      "mouse",
+      "move",
+      "moves",
+      "museum",
+      "museums",
+      "oem",
+      "osseous",
+      "see",
+      "seem",
+      "seems",
+      "sees",
+      "sell",
+      "sells",
+      "sleeve",
+      "smell",
+      "sole",
+      "solve",
+      "some",
+      "sue",
+      "suse",
+      "use",
+      "uses",
+      "vessel",
+      "vessels",
+      "volume",
+      "volumes"
+    ]
+  }
+}
