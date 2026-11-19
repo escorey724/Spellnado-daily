@@ -1,0 +1,138 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-19",
+  "puzzleIndex": 79,
+  "puzzle": {
+    "letters": "ogiknw",
+    "required": "o",
+    "wordCount": 25,
+    "spangrams": [
+      "knowing"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "onion": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
+          }
+        ]
+      },
+      "known": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "apprehended with certainty",
+            "example": "I have a _____ quantity of peanut butter at home."
+          }
+        ]
+      },
+      "kong": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "ongoing": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "currently happening",
+            "example": "There was an _____ economic crisis in the country."
+          }
+        ]
+      },
+      "know": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the fact of being aware of information that is known to few people",
+            "example": "They are always in the _____."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "perceive as familiar",
+            "example": "I _____ this voice!"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "have fixed in the mind",
+            "example": "I _____ Latin"
+          }
+        ]
+      },
+      "nikon": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "going": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "advancing toward a goal",
+            "example": "Persuading them was easy _____."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of departing",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "in full operation",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "noon": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the middle of the day",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "go",
+      "going",
+      "goo",
+      "ion",
+      "know",
+      "knowing",
+      "known",
+      "kong",
+      "nikon",
+      "no",
+      "nog",
+      "non",
+      "noon",
+      "now",
+      "ok",
+      "on",
+      "ongoing",
+      "onion",
+      "ooo",
+      "ow",
+      "own",
+      "wok",
+      "won",
+      "woo",
+      "wow"
+    ]
+  }
+}

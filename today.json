@@ -1,116 +1,36 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-18",
-  "puzzleIndex": 78,
+  "date": "2026-11-19",
+  "puzzleIndex": 79,
   "puzzle": {
-    "letters": "elmosuv",
-    "required": "e",
-    "wordCount": 48,
+    "letters": "ogiknw",
+    "required": "o",
+    "wordCount": 25,
     "spangrams": [
-      "volumes"
+      "knowing"
     ],
-    "perfectSpangrams": [
-      "volumes"
-    ],
+    "perfectSpangrams": [],
     "hints": {
-      "love": {
+      "onion": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a score of zero in tennis or squash",
-            "example": "it was 40 _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "any object of warm affection or devotion",
-            "example": "The theater is their first _____."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a strong positive emotion of regard and affection",
-            "example": "Their _____ for their family."
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
           }
         ]
       },
-      "loves": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "moves": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "osseous": {
+      "known": {
         "senses": [
           {
             "partOfSpeech": "adjective",
-            "definition": "composed of or containing bone",
-            "example": "_____ tissue"
+            "definition": "apprehended with certainty",
+            "example": "I have a _____ quantity of peanut butter at home."
           }
         ]
       },
-      "sells": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "levee": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a pier that provides a landing place on a river",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a formal reception of visitors or guests (as at a royal court)",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an embankment that is built in order to prevent a river from overflowing",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "mess": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "soft semiliquid food",
-            "example": "a _____ of porridge"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a state of confusion and disorderliness",
-            "example": "the house was a _____"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "create a state of disorder in",
-            "example": "I _____ up my room while trying to find my passport."
-          }
-        ]
-      },
-      "else": {
+      "kong": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -120,85 +40,99 @@
         ],
         "generic": true
       },
-      "vessels": {
+      "ongoing": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "currently happening",
+            "example": "There was an _____ economic crisis in the country."
+          }
+        ]
+      },
+      "know": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the fact of being aware of information that is known to few people",
+            "example": "They are always in the _____."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "perceive as familiar",
+            "example": "I _____ this voice!"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "have fixed in the mind",
+            "example": "I _____ Latin"
+          }
+        ]
+      },
+      "nikon": {
         "senses": [
           {
             "partOfSpeech": "",
-            "definition": "A 7-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _______"
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
           }
         ],
         "generic": true
       },
-      "sell": {
+      "going": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the activity of persuading someone to buy",
-            "example": "it was a hard _____"
+            "definition": "advancing toward a goal",
+            "example": "Persuading them was easy _____."
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "persuade somebody to accept something",
-            "example": "The French try to _____ us their image as great lovers"
+            "partOfSpeech": "noun",
+            "definition": "the act of departing",
+            "example": "The _____ was easy to notice."
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "be sold at a certain price or in a certain way",
-            "example": "These books _____ like hot cakes"
+            "partOfSpeech": "adjective",
+            "definition": "in full operation",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "noon": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the middle of the day",
+            "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "eel",
-      "elm",
-      "else",
-      "emu",
-      "eos",
-      "eve",
-      "lee",
-      "less",
-      "leu",
-      "levee",
-      "level",
-      "levels",
-      "loose",
-      "lose",
-      "losses",
-      "love",
-      "loves",
-      "me",
-      "melee",
-      "mem",
-      "memo",
-      "mess",
-      "mouse",
-      "move",
-      "moves",
-      "museum",
-      "museums",
-      "oem",
-      "osseous",
-      "see",
-      "seem",
-      "seems",
-      "sees",
-      "sell",
-      "sells",
-      "sleeve",
-      "smell",
-      "sole",
-      "solve",
-      "some",
-      "sue",
-      "suse",
-      "use",
-      "uses",
-      "vessel",
-      "vessels",
-      "volume",
-      "volumes"
+      "go",
+      "going",
+      "goo",
+      "ion",
+      "know",
+      "knowing",
+      "known",
+      "kong",
+      "nikon",
+      "no",
+      "nog",
+      "non",
+      "noon",
+      "now",
+      "ok",
+      "on",
+      "ongoing",
+      "onion",
+      "ooo",
+      "ow",
+      "own",
+      "wok",
+      "won",
+      "woo",
+      "wow"
     ]
   }
 }
