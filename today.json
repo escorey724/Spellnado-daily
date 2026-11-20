@@ -1,74 +1,60 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-19",
-  "puzzleIndex": 79,
+  "date": "2026-11-20",
+  "puzzleIndex": 80,
   "puzzle": {
-    "letters": "ogiknw",
-    "required": "o",
-    "wordCount": 25,
+    "letters": "eadfilr",
+    "required": "e",
+    "wordCount": 90,
     "spangrams": [
-      "knowing"
+      "fairfield"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "onion": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "A round vegetable with layers that can make your eyes water.",
-            "example": "She chopped an _____ for the soup."
-          }
-        ]
-      },
-      "known": {
+      "dead": {
         "senses": [
           {
             "partOfSpeech": "adjective",
-            "definition": "apprehended with certainty",
-            "example": "I have a _____ quantity of peanut butter at home."
-          }
-        ]
-      },
-      "kong": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "ongoing": {
-        "senses": [
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
           {
             "partOfSpeech": "adjective",
-            "definition": "currently happening",
-            "example": "There was an _____ economic crisis in the country."
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
           }
         ]
       },
-      "know": {
+      "read": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "the fact of being aware of information that is known to few people",
-            "example": "They are always in the _____."
-          },
-          {
             "partOfSpeech": "verb",
-            "definition": "perceive as familiar",
-            "example": "I _____ this voice!"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "have fixed in the mind",
-            "example": "I _____ Latin"
+            "definition": "To look at words and understand them.",
+            "example": "I like to _____ a book at night."
           }
         ]
       },
-      "nikon": {
+      "riddle": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "pierce with many holes",
+            "example": "The bullets riddled the body of the car."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "set a difficult problem or riddle",
+            "example": "_____ me a _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a difficult problem",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "added": {
         "senses": [
           {
             "partOfSpeech": "",
@@ -78,61 +64,207 @@
         ],
         "generic": true
       },
-      "going": {
+      "dealer": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "advancing toward a goal",
-            "example": "Persuading them was easy _____."
+            "definition": "a seller of illicit goods",
+            "example": "a _____ in stolen goods"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the act of departing",
+            "definition": "a firm engaged in trading",
             "example": "The _____ was easy to notice."
           },
           {
+            "partOfSpeech": "noun",
+            "definition": "the person who distributes the playing cards in a card game",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "dire": {
+        "senses": [
+          {
             "partOfSpeech": "adjective",
-            "definition": "in full operation",
+            "definition": "fraught with extreme danger",
+            "example": "It was a _____ day."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "causing fear or dread or terror",
             "example": "It was a _____ day."
           }
         ]
       },
-      "noon": {
+      "relief": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the middle of the day",
+            "definition": "redress awarded by a court",
+            "example": "Was the _____ supposed to be protection from future harm or compensation for past injury?"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "assistance in time of difficulty",
+            "example": "the contributions provided some _____ for the victims"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of reducing something unpleasant",
+            "example": "The child asked the nurse for _____ from the constant pain."
+          }
+        ]
+      },
+      "deal": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of distributing playing cards",
+            "example": "the _____ was passed around the table clockwise"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a particular instance of buying or selling",
+            "example": "it was a package _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of apportioning or distributing something",
+            "example": "the captain was entrusted with the _____ of provisions"
+          }
+        ]
+      },
+      "earlier": {
+        "senses": [
+          {
+            "partOfSpeech": "adverb",
+            "definition": "before now",
+            "example": "She did it _____."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "earlier in time",
+            "example": "She did it _____."
+          },
+          {
+            "partOfSpeech": "adverb",
+            "definition": "comparatives of `soon' or `early'",
+            "example": "She did it _____."
+          }
+        ]
+      },
+      "fare": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a paying (taxi) passenger",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an agenda of things to do",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the sum charged for riding in a public conveyance",
             "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "go",
-      "going",
-      "goo",
-      "ion",
-      "know",
-      "knowing",
-      "known",
-      "kong",
-      "nikon",
-      "no",
-      "nog",
-      "non",
-      "noon",
-      "now",
-      "ok",
-      "on",
-      "ongoing",
-      "onion",
-      "ooo",
-      "ow",
-      "own",
-      "wok",
-      "won",
-      "woo",
-      "wow"
+      "added",
+      "aerial",
+      "airfare",
+      "ale",
+      "allied",
+      "are",
+      "area",
+      "dale",
+      "dare",
+      "dead",
+      "deaf",
+      "deal",
+      "dealer",
+      "dear",
+      "deer",
+      "def",
+      "deferred",
+      "dell",
+      "der",
+      "deride",
+      "die",
+      "died",
+      "differ",
+      "dire",
+      "dried",
+      "ear",
+      "earl",
+      "earlier",
+      "eel",
+      "eerie",
+      "elder",
+      "elf",
+      "era",
+      "ere",
+      "err",
+      "failed",
+      "fairfield",
+      "fare",
+      "fear",
+      "fed",
+      "federal",
+      "fee",
+      "feed",
+      "feel",
+      "fell",
+      "ferrari",
+      "fie",
+      "field",
+      "file",
+      "filed",
+      "filled",
+      "fire",
+      "fired",
+      "free",
+      "ide",
+      "idea",
+      "ideal",
+      "idle",
+      "ieee",
+      "ire",
+      "ladder",
+      "lea",
+      "lead",
+      "leader",
+      "leaf",
+      "led",
+      "lee",
+      "lei",
+      "lie",
+      "life",
+      "rare",
+      "rarefied",
+      "read",
+      "reader",
+      "real",
+      "rear",
+      "red",
+      "reed",
+      "reef",
+      "reel",
+      "ref",
+      "refer",
+      "referral",
+      "referred",
+      "relief",
+      "riddle",
+      "ride",
+      "rider",
+      "rife",
+      "rile"
     ]
   }
 }
