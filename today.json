@@ -1,17 +1,58 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-20",
-  "puzzleIndex": 80,
+  "date": "2026-11-21",
+  "puzzleIndex": 81,
   "puzzle": {
-    "letters": "eadfilr",
-    "required": "e",
-    "wordCount": 90,
+    "letters": "acdent",
+    "required": "a",
+    "wordCount": 42,
     "spangrams": [
-      "fairfield"
+      "attendance"
     ],
     "perfectSpangrams": [],
     "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "and": {
+        "senses": [
+          {
+            "partOfSpeech": "conjunction",
+            "definition": "A word that joins two things together.",
+            "example": "Peanut butter _____ jelly."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
       "dead": {
         "senses": [
           {
@@ -26,245 +67,116 @@
           }
         ]
       },
-      "read": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "To look at words and understand them.",
-            "example": "I like to _____ a book at night."
-          }
-        ]
-      },
-      "riddle": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "pierce with many holes",
-            "example": "The bullets riddled the body of the car."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "set a difficult problem or riddle",
-            "example": "_____ me a _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a difficult problem",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "added": {
+      "cdna": {
         "senses": [
           {
             "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
           }
         ],
         "generic": true
       },
-      "dealer": {
+      "data": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a seller of illicit goods",
-            "example": "a _____ in stolen goods"
+            "definition": "a collection of facts from which conclusions may be drawn",
+            "example": "statistical _____"
+          }
+        ]
+      },
+      "attend": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to give heed to",
+            "example": "The children in the audience _____ the recital quietly."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to be present at",
+            "example": "I don't _____ Mass."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to take charge of or deal with",
+            "example": "I'll _____ to your concerns shortly."
+          }
+        ]
+      },
+      "dean": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a man who is the senior member of a group",
+            "example": "I am the _____ of foreign correspondents."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a firm engaged in trading",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the person who distributes the playing cards in a card game",
+            "definition": "an administrator in charge of a division of a university or college",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "dire": {
+      "enact": {
         "senses": [
           {
-            "partOfSpeech": "adjective",
-            "definition": "fraught with extreme danger",
-            "example": "It was a _____ day."
+            "partOfSpeech": "verb",
+            "definition": "act out",
+            "example": "They will _____ after lunch."
           },
           {
-            "partOfSpeech": "adjective",
-            "definition": "causing fear or dread or terror",
-            "example": "It was a _____ day."
-          }
-        ]
-      },
-      "relief": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "redress awarded by a court",
-            "example": "Was the _____ supposed to be protection from future harm or compensation for past injury?"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "assistance in time of difficulty",
-            "example": "the contributions provided some _____ for the victims"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of reducing something unpleasant",
-            "example": "The child asked the nurse for _____ from the constant pain."
-          }
-        ]
-      },
-      "deal": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of distributing playing cards",
-            "example": "the _____ was passed around the table clockwise"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a particular instance of buying or selling",
-            "example": "it was a package _____"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of apportioning or distributing something",
-            "example": "the captain was entrusted with the _____ of provisions"
-          }
-        ]
-      },
-      "earlier": {
-        "senses": [
-          {
-            "partOfSpeech": "adverb",
-            "definition": "before now",
-            "example": "She did it _____."
-          },
-          {
-            "partOfSpeech": "adverb",
-            "definition": "earlier in time",
-            "example": "She did it _____."
-          },
-          {
-            "partOfSpeech": "adverb",
-            "definition": "comparatives of `soon' or `early'",
-            "example": "She did it _____."
-          }
-        ]
-      },
-      "fare": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "a paying (taxi) passenger",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an agenda of things to do",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the sum charged for riding in a public conveyance",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "verb",
+            "definition": "order by virtue of superior authority",
+            "example": "They will _____ after lunch."
           }
         ]
       }
     },
     "answers": [
+      "a",
+      "acc",
+      "accede",
+      "accent",
+      "ace",
+      "acne",
+      "act",
+      "ad",
+      "add",
       "added",
-      "aerial",
-      "airfare",
-      "ale",
-      "allied",
-      "are",
-      "area",
-      "dale",
-      "dare",
+      "an",
+      "and",
+      "ant",
+      "antenna",
+      "at",
+      "ata",
+      "ate",
+      "attend",
+      "attendance",
+      "attended",
+      "cad",
+      "can",
+      "cant",
+      "cat",
+      "cdna",
+      "dad",
+      "dance",
+      "dat",
+      "data",
+      "date",
+      "dated",
       "dead",
-      "deaf",
-      "deal",
-      "dealer",
-      "dear",
-      "deer",
-      "def",
-      "deferred",
-      "dell",
-      "der",
-      "deride",
-      "die",
-      "died",
-      "differ",
-      "dire",
-      "dried",
-      "ear",
-      "earl",
-      "earlier",
-      "eel",
-      "eerie",
-      "elder",
-      "elf",
-      "era",
-      "ere",
-      "err",
-      "failed",
-      "fairfield",
-      "fare",
-      "fear",
-      "fed",
-      "federal",
-      "fee",
-      "feed",
-      "feel",
-      "fell",
-      "ferrari",
-      "fie",
-      "field",
-      "file",
-      "filed",
-      "filled",
-      "fire",
-      "fired",
-      "free",
-      "ide",
-      "idea",
-      "ideal",
-      "idle",
-      "ieee",
-      "ire",
-      "ladder",
-      "lea",
-      "lead",
-      "leader",
-      "leaf",
-      "led",
-      "lee",
-      "lei",
-      "lie",
-      "life",
-      "rare",
-      "rarefied",
-      "read",
-      "reader",
-      "real",
-      "rear",
-      "red",
-      "reed",
-      "reef",
-      "reel",
-      "ref",
-      "refer",
-      "referral",
-      "referred",
-      "relief",
-      "riddle",
-      "ride",
-      "rider",
-      "rife",
-      "rile"
+      "dean",
+      "decade",
+      "dna",
+      "eat",
+      "enact",
+      "tad",
+      "tan",
+      "tat",
+      "tea",
+      "tenant"
     ]
   }
 }

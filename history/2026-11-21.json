@@ -1,0 +1,182 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-21",
+  "puzzleIndex": 81,
+  "puzzle": {
+    "letters": "acdent",
+    "required": "a",
+    "wordCount": 42,
+    "spangrams": [
+      "attendance"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "and": {
+        "senses": [
+          {
+            "partOfSpeech": "conjunction",
+            "definition": "A word that joins two things together.",
+            "example": "Peanut butter _____ jelly."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "dead": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "No longer living.",
+            "example": "In fall, the _____ leaves blow across the yard."
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "Not working or out of power.",
+            "example": "The flashlight is _____ because the batteries ran out."
+          }
+        ]
+      },
+      "cdna": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "data": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a collection of facts from which conclusions may be drawn",
+            "example": "statistical _____"
+          }
+        ]
+      },
+      "attend": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to give heed to",
+            "example": "The children in the audience _____ the recital quietly."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to be present at",
+            "example": "I don't _____ Mass."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to take charge of or deal with",
+            "example": "I'll _____ to your concerns shortly."
+          }
+        ]
+      },
+      "dean": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a man who is the senior member of a group",
+            "example": "I am the _____ of foreign correspondents."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an administrator in charge of a division of a university or college",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "enact": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "act out",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "order by virtue of superior authority",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "acc",
+      "accede",
+      "accent",
+      "ace",
+      "acne",
+      "act",
+      "ad",
+      "add",
+      "added",
+      "an",
+      "and",
+      "ant",
+      "antenna",
+      "at",
+      "ata",
+      "ate",
+      "attend",
+      "attendance",
+      "attended",
+      "cad",
+      "can",
+      "cant",
+      "cat",
+      "cdna",
+      "dad",
+      "dance",
+      "dat",
+      "data",
+      "date",
+      "dated",
+      "dead",
+      "dean",
+      "decade",
+      "dna",
+      "eat",
+      "enact",
+      "tad",
+      "tan",
+      "tat",
+      "tea",
+      "tenant"
+    ]
+  }
+}
