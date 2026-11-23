@@ -1,0 +1,244 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-23",
+  "puzzleIndex": 83,
+  "puzzle": {
+    "letters": "ibehmprs",
+    "required": "i",
+    "wordCount": 58,
+    "spangrams": [
+      "membership"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "ship": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "place on board a ship",
+            "example": "_____ the cargo in the hold of the vessel"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to release a product or creation publicly, often followed by \"it\"",
+            "example": "After weeks of development time, we decided to just _____ it and put the software up for sale."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a vessel that carries passengers or freight",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "mime": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "act out without words but with gestures and bodily movements only",
+            "example": "The acting students mimed eating an apple"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a performance using gestures and body movements without words",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an actor who communicates entirely by gesture and facial expression",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "spies": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "ships": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "imbibe": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "take in liquids",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "take in, also metaphorically",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "receive into the mind and retain",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "semi": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a trailer having wheels only in the rear",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a truck consisting of a tractor and trailer together",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "one of the two competitions in the next to the last round of an elimination tournament",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "prim": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "contract one's lips",
+            "example": "I _____ my lips after every bite of food."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "assume a prim appearance",
+            "example": "They mince and _____"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "dress primly",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "mire": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a difficulty or embarrassment that is hard to extricate yourself from",
+            "example": "the country is still trying to climb out of the _____ left by its previous president"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "entrap",
+            "example": "Our people should not be mired in the past"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "cause to get stuck as if in a mire",
+            "example": "The mud mired our cart"
+          }
+        ]
+      },
+      "premier": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "be performed for the first time",
+            "example": "We _____ the opera of the young composer and it was a critical success"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "preceding all others in time",
+            "example": "the premiere showing"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the person who is head of state (in several countries)",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "eerie",
+      "empire",
+      "hi",
+      "him",
+      "hip",
+      "hire",
+      "his",
+      "i",
+      "ieee",
+      "iii",
+      "imbibe",
+      "imp",
+      "ips",
+      "ire",
+      "irish",
+      "is",
+      "isp",
+      "membership",
+      "memphis",
+      "mime",
+      "mire",
+      "miss",
+      "msie",
+      "pessimism",
+      "phi",
+      "pi",
+      "pie",
+      "pip",
+      "pipe",
+      "pipes",
+      "premier",
+      "premiere",
+      "premise",
+      "premises",
+      "prim",
+      "prime",
+      "primp",
+      "prism",
+      "psi",
+      "remiss",
+      "reprise",
+      "rib",
+      "rim",
+      "rip",
+      "ripe",
+      "rise",
+      "semi",
+      "series",
+      "shimmer",
+      "ship",
+      "ships",
+      "simper",
+      "sims",
+      "sip",
+      "sir",
+      "sis",
+      "spies",
+      "sri"
+    ]
+  }
+}
