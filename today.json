@@ -1,14 +1,14 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-23",
-  "puzzleIndex": 83,
+  "date": "2026-11-24",
+  "puzzleIndex": 84,
   "puzzle": {
-    "letters": "ibehmprs",
+    "letters": "icmnopst",
     "required": "i",
-    "wordCount": 58,
+    "wordCount": 98,
     "spangrams": [
-      "membership"
+      "composition"
     ],
     "perfectSpangrams": [],
     "hints": {
@@ -26,219 +26,243 @@
           }
         ]
       },
-      "ship": {
+      "onion": {
         "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "place on board a ship",
-            "example": "_____ the cargo in the hold of the vessel"
-          },
+            "partOfSpeech": "noun",
+            "definition": "A round vegetable with layers that can make your eyes water.",
+            "example": "She chopped an _____ for the soup."
+          }
+        ]
+      },
+      "option": {
+        "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "to release a product or creation publicly, often followed by \"it\"",
-            "example": "After weeks of development time, we decided to just _____ it and put the software up for sale."
+            "partOfSpeech": "noun",
+            "definition": "one of a number of things from which only one can be chosen",
+            "example": "what _____ did I have?"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a vessel that carries passengers or freight",
+            "definition": "the act of choosing or selecting",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the right to buy or sell property at an agreed price",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "mime": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "act out without words but with gestures and bodily movements only",
-            "example": "The acting students mimed eating an apple"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a performance using gestures and body movements without words",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an actor who communicates entirely by gesture and facial expression",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "spies": {
+      "inns": {
         "senses": [
           {
             "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
           }
         ],
         "generic": true
       },
-      "ships": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 5-letter word you can spell with today's letters.",
-            "example": "Can you find this word? _____"
-          }
-        ],
-        "generic": true
-      },
-      "imbibe": {
+      "consist": {
         "senses": [
           {
             "partOfSpeech": "verb",
-            "definition": "take in liquids",
+            "definition": "to originate in",
             "example": "They will _____ after lunch."
           },
           {
             "partOfSpeech": "verb",
-            "definition": "take in, also metaphorically",
+            "definition": "to be composed of",
             "example": "They will _____ after lunch."
           },
           {
             "partOfSpeech": "verb",
-            "definition": "receive into the mind and retain",
+            "definition": "to have its essential character",
             "example": "They will _____ after lunch."
           }
         ]
       },
-      "semi": {
+      "stint": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a trailer having wheels only in the rear",
+            "definition": "an individual's prescribed share of work",
+            "example": "My _____ as a lifeguard exhausted my body."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "smallest American sandpiper",
             "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "a truck consisting of a tractor and trailer together",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "one of the two competitions in the next to the last round of an elimination tournament",
+            "definition": "an unbroken period of time during which you do something",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "prim": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "contract one's lips",
-            "example": "I _____ my lips after every bite of food."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "assume a prim appearance",
-            "example": "They mince and _____"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "dress primly",
-            "example": "They will _____ after lunch."
-          }
-        ]
-      },
-      "mire": {
+      "stoic": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "a difficulty or embarrassment that is hard to extricate yourself from",
-            "example": "the country is still trying to climb out of the _____ left by its previous president"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "entrap",
-            "example": "Our people should not be mired in the past"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "cause to get stuck as if in a mire",
-            "example": "The mud mired our cart"
-          }
-        ]
-      },
-      "premier": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "be performed for the first time",
-            "example": "We _____ the opera of the young composer and it was a critical success"
+            "definition": "someone who is seemingly indifferent to emotions",
+            "example": "The _____ was easy to notice."
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "preceding all others in time",
-            "example": "the premiere showing"
+            "definition": "seeming unaffected by pleasure or pain",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "opinion": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the legal document stating the reasons for a judicial decision",
+            "example": "_____ are usually written by a single judge"
           },
           {
             "partOfSpeech": "noun",
-            "definition": "the person who is head of state (in several countries)",
+            "definition": "a personal belief or judgment that is not founded on proof or certainty",
+            "example": "my _____ differs from yours"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a belief or sentiment shared by most people",
             "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "sonic": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "relating to audible sound",
+            "example": "a _____ wave"
+          }
+        ]
+      },
+      "poison": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "anything that harms or destroys",
+            "example": "the _____ of fascism"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "administer poison to",
+            "example": "We _____ our enemies at a wedding feast."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "spoil as if by poison",
+            "example": "_____ someone's mind"
           }
         ]
       }
     },
     "answers": [
-      "eerie",
-      "empire",
-      "hi",
-      "him",
-      "hip",
-      "hire",
-      "his",
+      "cio",
+      "cisco",
+      "coin",
+      "coins",
+      "comic",
+      "comics",
+      "commission",
+      "commissions",
+      "commit",
+      "composition",
+      "consist",
+      "consists",
       "i",
-      "ieee",
+      "icon",
+      "icons",
+      "ict",
       "iii",
-      "imbibe",
       "imp",
+      "in",
+      "inn",
+      "inns",
+      "ins",
+      "int",
+      "into",
+      "ion",
       "ips",
-      "ire",
-      "irish",
       "is",
+      "iso",
       "isp",
-      "membership",
-      "memphis",
-      "mime",
-      "mire",
+      "issn",
+      "ist",
+      "it",
+      "its",
+      "mic",
+      "mimic",
+      "min",
+      "mini",
+      "minion",
+      "mins",
+      "mint",
+      "misc",
       "miss",
-      "msie",
-      "pessimism",
-      "phi",
+      "mission",
+      "missions",
+      "mit",
+      "motion",
+      "nip",
+      "nit",
+      "notion",
+      "omissions",
+      "onion",
+      "opinion",
+      "opinions",
+      "opposition",
+      "optics",
+      "optimist",
+      "option",
+      "options",
+      "pci",
       "pi",
-      "pie",
+      "pic",
+      "picnic",
+      "pics",
+      "pin",
+      "pins",
       "pip",
-      "pipe",
-      "pipes",
-      "premier",
-      "premiere",
-      "premise",
-      "premises",
-      "prim",
-      "prime",
-      "primp",
-      "prism",
+      "pit",
+      "poi",
+      "point",
+      "points",
+      "poison",
+      "position",
+      "positions",
+      "potion",
       "psi",
-      "remiss",
-      "reprise",
-      "rib",
-      "rim",
-      "rip",
-      "ripe",
-      "rise",
-      "semi",
-      "series",
-      "shimmer",
-      "ship",
-      "ships",
-      "simper",
+      "sci",
+      "scion",
+      "scsi",
+      "sic",
+      "simpson",
+      "simpsons",
       "sims",
+      "sin",
       "sip",
-      "sir",
       "sis",
-      "spies",
-      "sri"
+      "sit",
+      "sonic",
+      "spin",
+      "stint",
+      "stoic",
+      "tic",
+      "tin",
+      "tion",
+      "tions",
+      "tip",
+      "tips",
+      "topic",
+      "topics"
     ]
   }
 }
