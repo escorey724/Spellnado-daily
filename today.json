@@ -1,268 +1,178 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-24",
-  "puzzleIndex": 84,
+  "date": "2026-11-25",
+  "puzzleIndex": 85,
   "puzzle": {
-    "letters": "icmnopst",
-    "required": "i",
-    "wordCount": 98,
+    "letters": "abinrt",
+    "required": "a",
+    "wordCount": 33,
     "spangrams": [
-      "composition"
+      "britain"
     ],
     "perfectSpangrams": [],
     "hints": {
-      "i": {
+      "a": {
         "senses": [
           {
-            "partOfSpeech": "pronoun",
-            "definition": "The word you use when you talk about yourself.",
-            "example": "_____ like to read before bed."
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "The ninth letter of the alphabet.",
-            "example": "Dot the _____ in the word bird."
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
           }
         ]
       },
-      "onion": {
+      "an": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "A round vegetable with layers that can make your eyes water.",
-            "example": "She chopped an _____ for the soup."
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
           }
         ]
       },
-      "option": {
+      "at": {
         "senses": [
           {
-            "partOfSpeech": "noun",
-            "definition": "one of a number of things from which only one can be chosen",
-            "example": "what _____ did I have?"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the act of choosing or selecting",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "the right to buy or sell property at an agreed price",
-            "example": "The _____ was easy to notice."
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
           }
         ]
       },
-      "inns": {
+      "banana": {
         "senses": [
           {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
+            "partOfSpeech": "noun",
+            "definition": "A long yellow fruit with a peel you pull off.",
+            "example": "He packed a _____ in his lunchbox."
           }
-        ],
-        "generic": true
+        ]
       },
-      "consist": {
+      "rain": {
         "senses": [
           {
-            "partOfSpeech": "verb",
-            "definition": "to originate in",
-            "example": "They will _____ after lunch."
+            "partOfSpeech": "noun",
+            "definition": "Water that falls from clouds.",
+            "example": "The _____ fell on the roof all afternoon."
           },
           {
             "partOfSpeech": "verb",
-            "definition": "to be composed of",
-            "example": "They will _____ after lunch."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to have its essential character",
-            "example": "They will _____ after lunch."
+            "definition": "When water falls from the sky.",
+            "example": "It might _____ during the picnic."
           }
         ]
       },
-      "stint": {
+      "anti": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "an individual's prescribed share of work",
-            "example": "My _____ as a lifeguard exhausted my body."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "smallest American sandpiper",
-            "example": "The _____ was easy to notice."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an unbroken period of time during which you do something",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "stoic": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "someone who is seemingly indifferent to emotions",
-            "example": "The _____ was easy to notice."
+            "definition": "a person who is opposed (to an action or policy or practice etc.)",
+            "example": "the _____ smelled victory after a long battle"
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "seeming unaffected by pleasure or pain",
+            "definition": "not in favor of (an action or proposal etc.)",
             "example": "It was a _____ day."
           }
         ]
       },
-      "opinion": {
+      "barn": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "the legal document stating the reasons for a judicial decision",
-            "example": "_____ are usually written by a single judge"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a personal belief or judgment that is not founded on proof or certainty",
-            "example": "my _____ differs from yours"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "a belief or sentiment shared by most people",
+            "definition": "an outlying farm building for storing grain or animal feed and housing farm animals",
             "example": "The _____ was easy to notice."
           }
         ]
       },
-      "sonic": {
-        "senses": [
-          {
-            "partOfSpeech": "adjective",
-            "definition": "relating to audible sound",
-            "example": "a _____ wave"
-          }
-        ]
-      },
-      "poison": {
+      "rabbit": {
         "senses": [
           {
             "partOfSpeech": "noun",
-            "definition": "anything that harms or destroys",
-            "example": "the _____ of fascism"
+            "definition": "the fur of a rabbit",
+            "example": "The _____ was easy to notice."
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "administer poison to",
-            "example": "We _____ our enemies at a wedding feast."
+            "partOfSpeech": "noun",
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food",
+            "example": "The _____ was easy to notice."
           },
           {
-            "partOfSpeech": "verb",
-            "definition": "spoil as if by poison",
-            "example": "_____ someone's mind"
+            "partOfSpeech": "noun",
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails",
+            "example": "The _____ was easy to notice."
           }
         ]
+      },
+      "train": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a series of consequences wrought by an event",
+            "example": "it led to a _____ of disasters"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "piece of cloth forming the long back section of a gown that is drawn along the floor",
+            "example": "The _____ of the gown was carried by two young niblings."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+            "example": "express _____ don't stop at Princeton Junction"
+          }
+        ]
+      },
+      "arabia": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
       }
     },
     "answers": [
-      "cio",
-      "cisco",
-      "coin",
-      "coins",
-      "comic",
-      "comics",
-      "commission",
-      "commissions",
-      "commit",
-      "composition",
-      "consist",
-      "consists",
-      "i",
-      "icon",
-      "icons",
-      "ict",
-      "iii",
-      "imp",
-      "in",
-      "inn",
-      "inns",
-      "ins",
-      "int",
-      "into",
-      "ion",
-      "ips",
-      "is",
-      "iso",
-      "isp",
-      "issn",
-      "ist",
-      "it",
-      "its",
-      "mic",
-      "mimic",
-      "min",
-      "mini",
-      "minion",
-      "mins",
-      "mint",
-      "misc",
-      "miss",
-      "mission",
-      "missions",
-      "mit",
-      "motion",
-      "nip",
-      "nit",
-      "notion",
-      "omissions",
-      "onion",
-      "opinion",
-      "opinions",
-      "opposition",
-      "optics",
-      "optimist",
-      "option",
-      "options",
-      "pci",
-      "pi",
-      "pic",
-      "picnic",
-      "pics",
-      "pin",
-      "pins",
-      "pip",
-      "pit",
-      "poi",
-      "point",
-      "points",
-      "poison",
-      "position",
-      "positions",
-      "potion",
-      "psi",
-      "sci",
-      "scion",
-      "scsi",
-      "sic",
-      "simpson",
-      "simpsons",
-      "sims",
-      "sin",
-      "sip",
-      "sis",
-      "sit",
-      "sonic",
-      "spin",
-      "stint",
-      "stoic",
-      "tic",
-      "tin",
-      "tion",
-      "tions",
-      "tip",
-      "tips",
-      "topic",
-      "topics"
+      "a",
+      "air",
+      "an",
+      "ant",
+      "anti",
+      "arab",
+      "arabia",
+      "art",
+      "at",
+      "ata",
+      "ati",
+      "ban",
+      "banana",
+      "bar",
+      "barn",
+      "bat",
+      "bra",
+      "brain",
+      "britain",
+      "nab",
+      "rabbit",
+      "rain",
+      "ran",
+      "rant",
+      "rat",
+      "rna",
+      "tab",
+      "taint",
+      "tan",
+      "tar",
+      "tat",
+      "tba",
+      "train"
     ]
   }
 }

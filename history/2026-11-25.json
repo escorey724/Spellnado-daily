@@ -1,0 +1,178 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-25",
+  "puzzleIndex": 85,
+  "puzzle": {
+    "letters": "abinrt",
+    "required": "a",
+    "wordCount": 33,
+    "spangrams": [
+      "britain"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "an": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "A word like 'a', used before a vowel sound.",
+            "example": "She ate _____ apple."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "banana": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "A long yellow fruit with a peel you pull off.",
+            "example": "He packed a _____ in his lunchbox."
+          }
+        ]
+      },
+      "rain": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "Water that falls from clouds.",
+            "example": "The _____ fell on the roof all afternoon."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "When water falls from the sky.",
+            "example": "It might _____ during the picnic."
+          }
+        ]
+      },
+      "anti": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a person who is opposed (to an action or policy or practice etc.)",
+            "example": "the _____ smelled victory after a long battle"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "not in favor of (an action or proposal etc.)",
+            "example": "It was a _____ day."
+          }
+        ]
+      },
+      "barn": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an outlying farm building for storing grain or animal feed and housing farm animals",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "rabbit": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the fur of a rabbit",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "flesh of any of various rabbits or hares (wild or domesticated) eaten as food",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "train": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a series of consequences wrought by an event",
+            "example": "it led to a _____ of disasters"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "piece of cloth forming the long back section of a gown that is drawn along the floor",
+            "example": "The _____ of the gown was carried by two young niblings."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+            "example": "express _____ don't stop at Princeton Junction"
+          }
+        ]
+      },
+      "arabia": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 6-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ______"
+          }
+        ],
+        "generic": true
+      }
+    },
+    "answers": [
+      "a",
+      "air",
+      "an",
+      "ant",
+      "anti",
+      "arab",
+      "arabia",
+      "art",
+      "at",
+      "ata",
+      "ati",
+      "ban",
+      "banana",
+      "bar",
+      "barn",
+      "bat",
+      "bra",
+      "brain",
+      "britain",
+      "nab",
+      "rabbit",
+      "rain",
+      "ran",
+      "rant",
+      "rat",
+      "rna",
+      "tab",
+      "taint",
+      "tan",
+      "tar",
+      "tat",
+      "tba",
+      "train"
+    ]
+  }
+}
