@@ -1,0 +1,197 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-26",
+  "puzzleIndex": 86,
+  "puzzle": {
+    "letters": "alrstuy",
+    "required": "a",
+    "wordCount": 50,
+    "spangrams": [
+      "salutary"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "a": {
+        "senses": [
+          {
+            "partOfSpeech": "article",
+            "definition": "One single thing, not a specific one.",
+            "example": "I saw _____ bird on the fence."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The first letter of the alphabet.",
+            "example": "The word apple starts with _____."
+          }
+        ]
+      },
+      "at": {
+        "senses": [
+          {
+            "partOfSpeech": "preposition",
+            "definition": "In a place or a time.",
+            "example": "Meet me _____ the park."
+          }
+        ]
+      },
+      "start": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "To begin.",
+            "example": "We will _____ the game at noon."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The beginning of something.",
+            "example": "That was a solid _____ on the puzzle."
+          }
+        ]
+      },
+      "stat": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "rays": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "assault": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to attack in speech or writing",
+            "example": "The newspaper _____ the company on their pollution record."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to attack someone physically or emotionally",
+            "example": "The mugger _____ me and ran away."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "close fighting during the culmination of a military attack",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "star": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "feature as the star",
+            "example": "The movie _____ Dustin Hoffman as an autistic man"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "mark with an asterisk",
+            "example": "Linguists _____ unacceptable sentences"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an actor who plays a principal role",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      },
+      "asus": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "tray": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an open receptacle for holding, displaying, or serving articles or food",
+            "example": "I placed the food on the _____ and offered it to my guests."
+          }
+        ]
+      },
+      "taut": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "pulled or drawn tight",
+            "example": "_____ sails"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "subjected to great tension",
+            "example": "It was a _____ day."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "a",
+      "all",
+      "alt",
+      "array",
+      "art",
+      "arts",
+      "as",
+      "assault",
+      "asus",
+      "at",
+      "ata",
+      "atlas",
+      "aus",
+      "las",
+      "last",
+      "lat",
+      "lay",
+      "rally",
+      "rat",
+      "rats",
+      "ray",
+      "rays",
+      "rural",
+      "salary",
+      "sally",
+      "salt",
+      "salutary",
+      "sas",
+      "sat",
+      "say",
+      "says",
+      "star",
+      "stars",
+      "start",
+      "starts",
+      "stat",
+      "stats",
+      "status",
+      "stay",
+      "stays",
+      "tall",
+      "tar",
+      "tat",
+      "taut",
+      "tray",
+      "tulsa",
+      "ultra",
+      "usual",
+      "usually",
+      "yay"
+    ]
+  }
+}
