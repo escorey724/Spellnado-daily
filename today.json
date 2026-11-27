@@ -1,197 +1,207 @@
 {
   "timezone": "America/Chicago",
   "epoch": "2026-09-01",
-  "date": "2026-11-26",
-  "puzzleIndex": 86,
+  "date": "2026-11-27",
+  "puzzleIndex": 87,
   "puzzle": {
-    "letters": "alrstuy",
-    "required": "a",
-    "wordCount": 50,
+    "letters": "ighnst",
+    "required": "i",
+    "wordCount": 52,
     "spangrams": [
-      "salutary"
+      "insight",
+      "insights",
+      "nights",
+      "things"
     ],
-    "perfectSpangrams": [],
+    "perfectSpangrams": [
+      "nights",
+      "things"
+    ],
     "hints": {
-      "a": {
+      "i": {
         "senses": [
           {
-            "partOfSpeech": "article",
-            "definition": "One single thing, not a specific one.",
-            "example": "I saw _____ bird on the fence."
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
           },
           {
             "partOfSpeech": "noun",
-            "definition": "The first letter of the alphabet.",
-            "example": "The word apple starts with _____."
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
           }
         ]
       },
-      "at": {
-        "senses": [
-          {
-            "partOfSpeech": "preposition",
-            "definition": "In a place or a time.",
-            "example": "Meet me _____ the park."
-          }
-        ]
-      },
-      "start": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "To begin.",
-            "example": "We will _____ the game at noon."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "The beginning of something.",
-            "example": "That was a solid _____ on the puzzle."
-          }
-        ]
-      },
-      "stat": {
+      "singh": {
         "senses": [
           {
             "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
           }
         ],
         "generic": true
       },
-      "rays": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "assault": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "to attack in speech or writing",
-            "example": "The newspaper _____ the company on their pollution record."
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "to attack someone physically or emotionally",
-            "example": "The mugger _____ me and ran away."
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "close fighting during the culmination of a military attack",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "star": {
-        "senses": [
-          {
-            "partOfSpeech": "verb",
-            "definition": "feature as the star",
-            "example": "The movie _____ Dustin Hoffman as an autistic man"
-          },
-          {
-            "partOfSpeech": "verb",
-            "definition": "mark with an asterisk",
-            "example": "Linguists _____ unacceptable sentences"
-          },
-          {
-            "partOfSpeech": "noun",
-            "definition": "an actor who plays a principal role",
-            "example": "The _____ was easy to notice."
-          }
-        ]
-      },
-      "asus": {
-        "senses": [
-          {
-            "partOfSpeech": "",
-            "definition": "A 4-letter word you can spell with today's letters.",
-            "example": "Can you find this word? ____"
-          }
-        ],
-        "generic": true
-      },
-      "tray": {
-        "senses": [
-          {
-            "partOfSpeech": "noun",
-            "definition": "an open receptacle for holding, displaying, or serving articles or food",
-            "example": "I placed the food on the _____ and offered it to my guests."
-          }
-        ]
-      },
-      "taut": {
+      "tight": {
         "senses": [
           {
             "partOfSpeech": "adjective",
-            "definition": "pulled or drawn tight",
-            "example": "_____ sails"
+            "definition": "packed closely together",
+            "example": "they stood in a _____ little group"
           },
           {
             "partOfSpeech": "adjective",
-            "definition": "subjected to great tension",
-            "example": "It was a _____ day."
+            "definition": "affected by scarcity and expensive to borrow",
+            "example": "_____ money"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "of such close construction as to be impermeable",
+            "example": "a _____ roof"
+          }
+        ]
+      },
+      "inns": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "hist": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "signs": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "issn": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "thing": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an event",
+            "example": "a funny _____ happened on the way to the..."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an action",
+            "example": "how could you do such a _____?"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an artifact",
+            "example": "how does this _____ work?"
+          }
+        ]
+      },
+      "hitting": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of contacting one thing with another",
+            "example": "repeated _____ raised a large bruise"
+          }
+        ]
+      },
+      "stint": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an individual's prescribed share of work",
+            "example": "My _____ as a lifeguard exhausted my body."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "smallest American sandpiper",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an unbroken period of time during which you do something",
+            "example": "The _____ was easy to notice."
           }
         ]
       }
     },
     "answers": [
-      "a",
-      "all",
-      "alt",
-      "array",
-      "art",
-      "arts",
-      "as",
-      "assault",
-      "asus",
-      "at",
-      "ata",
-      "atlas",
-      "aus",
-      "las",
-      "last",
-      "lat",
-      "lay",
-      "rally",
-      "rat",
-      "rats",
-      "ray",
-      "rays",
-      "rural",
-      "salary",
-      "sally",
-      "salt",
-      "salutary",
-      "sas",
-      "sat",
-      "say",
-      "says",
-      "star",
-      "stars",
-      "start",
-      "starts",
-      "stat",
-      "stats",
-      "status",
-      "stay",
-      "stays",
-      "tall",
-      "tar",
-      "tat",
-      "taut",
-      "tray",
-      "tulsa",
-      "ultra",
-      "usual",
-      "usually",
-      "yay"
+      "gig",
+      "gin",
+      "gis",
+      "gist",
+      "git",
+      "hi",
+      "high",
+      "highs",
+      "hint",
+      "hints",
+      "his",
+      "hist",
+      "hit",
+      "hits",
+      "hitting",
+      "i",
+      "iii",
+      "in",
+      "ing",
+      "inn",
+      "inns",
+      "ins",
+      "insight",
+      "insights",
+      "int",
+      "is",
+      "issn",
+      "ist",
+      "it",
+      "its",
+      "night",
+      "nights",
+      "nit",
+      "sig",
+      "sight",
+      "sign",
+      "signing",
+      "signs",
+      "sin",
+      "sing",
+      "singh",
+      "singing",
+      "sis",
+      "sit",
+      "sitting",
+      "stint",
+      "thin",
+      "thing",
+      "things",
+      "this",
+      "tight",
+      "tin"
     ]
   }
 }

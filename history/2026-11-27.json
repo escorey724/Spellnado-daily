@@ -1,0 +1,207 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-27",
+  "puzzleIndex": 87,
+  "puzzle": {
+    "letters": "ighnst",
+    "required": "i",
+    "wordCount": 52,
+    "spangrams": [
+      "insight",
+      "insights",
+      "nights",
+      "things"
+    ],
+    "perfectSpangrams": [
+      "nights",
+      "things"
+    ],
+    "hints": {
+      "i": {
+        "senses": [
+          {
+            "partOfSpeech": "pronoun",
+            "definition": "The word you use when you talk about yourself.",
+            "example": "_____ like to read before bed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "The ninth letter of the alphabet.",
+            "example": "Dot the _____ in the word bird."
+          }
+        ]
+      },
+      "singh": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "tight": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "packed closely together",
+            "example": "they stood in a _____ little group"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "affected by scarcity and expensive to borrow",
+            "example": "_____ money"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "of such close construction as to be impermeable",
+            "example": "a _____ roof"
+          }
+        ]
+      },
+      "inns": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "hist": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "signs": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 5-letter word you can spell with today's letters.",
+            "example": "Can you find this word? _____"
+          }
+        ],
+        "generic": true
+      },
+      "issn": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "thing": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an event",
+            "example": "a funny _____ happened on the way to the..."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an action",
+            "example": "how could you do such a _____?"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an artifact",
+            "example": "how does this _____ work?"
+          }
+        ]
+      },
+      "hitting": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of contacting one thing with another",
+            "example": "repeated _____ raised a large bruise"
+          }
+        ]
+      },
+      "stint": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "an individual's prescribed share of work",
+            "example": "My _____ as a lifeguard exhausted my body."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "smallest American sandpiper",
+            "example": "The _____ was easy to notice."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an unbroken period of time during which you do something",
+            "example": "The _____ was easy to notice."
+          }
+        ]
+      }
+    },
+    "answers": [
+      "gig",
+      "gin",
+      "gis",
+      "gist",
+      "git",
+      "hi",
+      "high",
+      "highs",
+      "hint",
+      "hints",
+      "his",
+      "hist",
+      "hit",
+      "hits",
+      "hitting",
+      "i",
+      "iii",
+      "in",
+      "ing",
+      "inn",
+      "inns",
+      "ins",
+      "insight",
+      "insights",
+      "int",
+      "is",
+      "issn",
+      "ist",
+      "it",
+      "its",
+      "night",
+      "nights",
+      "nit",
+      "sig",
+      "sight",
+      "sign",
+      "signing",
+      "signs",
+      "sin",
+      "sing",
+      "singh",
+      "singing",
+      "sis",
+      "sit",
+      "sitting",
+      "stint",
+      "thin",
+      "thing",
+      "things",
+      "this",
+      "tight",
+      "tin"
+    ]
+  }
+}
