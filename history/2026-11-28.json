@@ -1,0 +1,314 @@
+{
+  "timezone": "America/Chicago",
+  "epoch": "2026-09-01",
+  "date": "2026-11-28",
+  "puzzleIndex": 88,
+  "puzzle": {
+    "letters": "paemrstu",
+    "required": "p",
+    "wordCount": 119,
+    "spangrams": [
+      "temperatures"
+    ],
+    "perfectSpangrams": [],
+    "hints": {
+      "usurp": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "take the place of",
+            "example": "gloom had _____ mirth at the party after the news of the terrorist act broke"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "seize and take control without authority and possibly with force",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "maps": {
+        "senses": [
+          {
+            "partOfSpeech": "",
+            "definition": "A 4-letter word you can spell with today's letters.",
+            "example": "Can you find this word? ____"
+          }
+        ],
+        "generic": true
+      },
+      "surpass": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "be or do something to a greater degree",
+            "example": "Their performance _____ that of any other student I know."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "move past",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "distinguish oneself",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "pump": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "deliver forth",
+            "example": "_____ bullets into the dummy"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "move up and down",
+            "example": "The athlete _____ weights in the gym"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "question persistently",
+            "example": "The police officer _____ the witnesses for information."
+          }
+        ]
+      },
+      "repress": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "conceal or hide",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "block the action of",
+            "example": "They will _____ after lunch."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "put out of one's consciousness",
+            "example": "They will _____ after lunch."
+          }
+        ]
+      },
+      "upset": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of upsetting something",
+            "example": "I was badly bruised by the _____ of my sled at a high speed."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "an improbable and unexpected victory",
+            "example": "the biggest _____ since David beat Goliath"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "the act of disturbing the mind or body",
+            "example": "Their carelessness could have caused an ecological _____."
+          }
+        ]
+      },
+      "appear": {
+        "senses": [
+          {
+            "partOfSpeech": "verb",
+            "definition": "to be issued or published",
+            "example": "Did your latest book _____ yet?"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to come into sight or view",
+            "example": "I suddenly _____ at the wedding."
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "to come into being or existence",
+            "example": "The cop suddenly _____ on the crime scene."
+          }
+        ]
+      },
+      "supreme": {
+        "senses": [
+          {
+            "partOfSpeech": "adjective",
+            "definition": "highest in excellence or achievement",
+            "example": "_____ among musicians"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "final or last in your life or progress",
+            "example": "the _____ sacrifice"
+          },
+          {
+            "partOfSpeech": "adjective",
+            "definition": "greatest in status or authority or power",
+            "example": "a _____ tribunal"
+          }
+        ]
+      },
+      "pass": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "a difficult juncture",
+            "example": "a pretty _____"
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "a complimentary ticket",
+            "example": "The conference admission included a _____ for any Disney theme park."
+          },
+          {
+            "partOfSpeech": "noun",
+            "definition": "any authorization to pass or go somewhere",
+            "example": "the _____ to visit had a strict time limit"
+          }
+        ]
+      },
+      "trap": {
+        "senses": [
+          {
+            "partOfSpeech": "noun",
+            "definition": "something (often something deceptively attractive) that catches you unawares",
+            "example": "the exam was full of _____ questions"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "catch in or as if in a trap",
+            "example": "The men _____ foxes"
+          },
+          {
+            "partOfSpeech": "verb",
+            "definition": "hold or catch as if in a trap",
+            "example": "The gaps between the teeth _____ food particles"
+          }
+        ]
+      }
+    },
+    "answers": [
+      "amp",
+      "apart",
+      "ape",
+      "apparatus",
+      "appear",
+      "appears",
+      "appease",
+      "apr",
+      "apt",
+      "asp",
+      "attempt",
+      "attempts",
+      "epa",
+      "erp",
+      "map",
+      "maps",
+      "meetup",
+      "pa",
+      "pap",
+      "paper",
+      "papers",
+      "papua",
+      "par",
+      "para",
+      "parameter",
+      "parameters",
+      "part",
+      "parts",
+      "pas",
+      "pass",
+      "passes",
+      "past",
+      "pasta",
+      "paste",
+      "pat",
+      "pauper",
+      "pea",
+      "peas",
+      "peer",
+      "peers",
+      "pep",
+      "pepper",
+      "per",
+      "perpetuate",
+      "pert",
+      "peruse",
+      "pest",
+      "pet",
+      "pets",
+      "ppm",
+      "prate",
+      "pre",
+      "preempt",
+      "prep",
+      "prepare",
+      "press",
+      "pressure",
+      "psp",
+      "pst",
+      "pts",
+      "pump",
+      "pumps",
+      "pup",
+      "pure",
+      "purse",
+      "pursue",
+      "pus",
+      "put",
+      "puts",
+      "rap",
+      "rapt",
+      "reaper",
+      "rep",
+      "repartee",
+      "repeat",
+      "repress",
+      "rpm",
+      "rrp",
+      "sap",
+      "seep",
+      "sep",
+      "separate",
+      "sept",
+      "setup",
+      "spa",
+      "spam",
+      "spare",
+      "sparse",
+      "spas",
+      "spate",
+      "spears",
+      "stamp",
+      "stamps",
+      "startup",
+      "step",
+      "steps",
+      "strap",
+      "sup",
+      "super",
+      "suppress",
+      "supreme",
+      "surpass",
+      "tampa",
+      "tap",
+      "tape",
+      "taper",
+      "tapes",
+      "temp",
+      "temperate",
+      "temperature",
+      "temperatures",
+      "trap",
+      "ump",
+      "up",
+      "upper",
+      "ups",
+      "upset",
+      "usps",
+      "usurp"
+    ]
+  }
+}
